@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-30T06:26:17+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-09-06T07:50:03+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_english_kent01.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c2cbd733-e841-4ff4-af69-298eb25e5ea1</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">46819</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">46823</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -9486,7 +9486,12 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30520" ANNOTATION_REF="a725" PREVIOUS_ANNOTATION="a17763">
+            <REF_ANNOTATION ANNOTATION_ID="a46820" ANNOTATION_REF="a725" PREVIOUS_ANNOTATION="a17763">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30520" ANNOTATION_REF="a725" PREVIOUS_ANNOTATION="a46820">
                 <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -34853,6 +34858,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46821" ANNOTATION_REF="a46820">
+                <ANNOTATION_VALUE>0_auction</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30739" ANNOTATION_REF="a30520">
                 <ANNOTATION_VALUE>0_I</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -42674,7 +42684,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33327" ANNOTATION_REF="a32940">
-                <ANNOTATION_VALUE>0_hourse</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0_house</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58411,7 +58421,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26086" ANNOTATION_REF="a21775">
-                <ANNOTATION_VALUE>pn_np:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -60216,7 +60226,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26385" ANNOTATION_REF="a22074">
-                <ANNOTATION_VALUE>pn_np:l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_pn_np.h:poss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46822" ANNOTATION_REF="a46821">
+                <ANNOTATION_VALUE>0:l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -66066,7 +66081,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27352" ANNOTATION_REF="a23041">
-                <ANNOTATION_VALUE>np.h:pred_other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np:pred_other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68081,7 +68096,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33717" ANNOTATION_REF="a33330">
-                <ANNOTATION_VALUE>0.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -80587,11 +80602,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a36950" ANNOTATION_REF="a25728">
-                <ANNOTATION_VALUE>2000</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36953" ANNOTATION_REF="a25731">
                 <ANNOTATION_VALUE>2038</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -81544,6 +81554,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37685" ANNOTATION_REF="a26385">
                 <ANNOTATION_VALUE>2092</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46823" ANNOTATION_REF="a46822">
+                <ANNOTATION_VALUE>2093</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

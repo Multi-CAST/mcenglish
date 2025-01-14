@@ -356,7 +356,7 @@ english	kent01	0019	done	do.PTCP.PST	v:pred	v		pred
 english	kent01	0019	with	with	adp	adp				
 english	kent01	0019	them	3PL.OBL	pro:obl	pro		obl	2038	bridging
 english	kent01	0019	%	%	%	%				
-english	kent01	0019	I	1SG	other	other			2000	
+english	kent01	0019	I	1SG	other	other				
 english	kent01	0019	think	think.PRS	other	other				
 english	kent01	0019	#	#	#cc:pred	#cc		pred		
 english	kent01	0019	they	3PL	pro:s	pro		s	2038	
@@ -730,7 +730,7 @@ english	kent01	0034	used	used	lv_aux	lv_aux
 english	kent01	0034	to	to	lv	lv				
 english	kent01	0034	take	take.INF	v:pred	v		pred		
 english	kent01	0034	to	to	adp	adp				
-english	kent01	0034	Webb's	Webb's	pn_np:g	pn_np		g	2063	
+english	kent01	0034	Webb's	Webb's	pn_np.h:g	pn_np	h	g	2063	
 english	kent01	0034	at	at	adp	adp				
 english	kent01	0034	Canterbury	Canterbury	pn_np:l	pn_np		l	2021	
 english	kent01	0034	poultry shop	poultry_shop	np:appos	np		appos		
@@ -1091,7 +1091,8 @@ english	kent01	0052	='s	=be.PRS.3SG	=cop	=cop
 english	kent01	0052	threepence	threepence	np:s	np		s	2100	new
 english	kent01	0053	#	#	##ds	##ds				
 english	kent01	0053	in	in	adp	adp				
-english	kent01	0053	Haynes='s	Haynes=POSS	pn_np:l	pn_np		l	2092	
+english	kent01	0053	Haynes='s	Haynes=POSS	ln_pn_np.h:poss	ln_pn_np	h	poss	2092	
+english	kent01	0053	0	0_auction	0:l	0		l	2093	
 english	kent01	0053	0	0_I	imp_0.2:a	imp_0	2	a	2000	
 english	kent01	0053	put	put.IMP	v:pred	v		pred		
 english	kent01	0053	them	3PL.OBL	pro:p	pro		p	2089	
@@ -2261,7 +2262,7 @@ english	kent01	0127	be	be.INF	cop	cop
 english	kent01	0127	like	like	adp	adp				
 english	kent01	0127	the	the	ln_det	ln_det				
 english	kent01	0127	gypsy's	gypsy=POSS	ln_np.h:poss	ln_np	h	poss	2161	new
-english	kent01	0127	donkey	donkey	np.h:pred_other	np	h	pred_other	2160	
+english	kent01	0127	donkey	donkey	np:pred_other	np		pred_other	2160	
 english	kent01	0127	wouldn't it	TAG	other	other				
 english	kent01	0128	[INT]	[INT]	[INT]	[INT]				
 english	kent01	0128	#	#	#nc	#nc				
@@ -2656,7 +2657,7 @@ english	kent01	0164	#	#	#rc	#rc
 english	kent01	0164	we	1PL	pro.1:s	pro	1	s	2014	
 english	kent01	0164	come	come.PST	v:pred	v		pred		
 english	kent01	0164	in	in	adp	adp				
-english	kent01	0164	0	0_hourse	rel_0:g	rel_0		g	2015	
+english	kent01	0164	0	0_house	rel_0:g	rel_0		g	2015	
 english	kent01	0164	first	first	other	other				
 english	kent01	0164	%	%	%	%				
 english	kent01	0164	we	1PL	pro.1:s	pro	1	s	2014	
@@ -2664,7 +2665,7 @@ english	kent01	0164	did-n't	do.PST-NEG	lv_aux	lv_aux
 english	kent01	0164	stop	stop.INF	v:pred	v		pred		
 english	kent01	0164	long	long	other	other				
 english	kent01	0165	#	#	##neg	##neg				
-english	kent01	0165	0	0_house	0.h:s	0	h	s	2015	
+english	kent01	0165	0	0_house	0:s	0		s	2015	
 english	kent01	0165	wadn't	be.PST.3SG.NEG	cop	cop				
 english	kent01	0165	big	big	other:pred	other		pred		
 english	kent01	0165	#	#	##	##				

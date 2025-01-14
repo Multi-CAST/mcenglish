@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="english">
         <text t_name="kent01" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent01" audio="mc_english_kent01.wav" updated="2019-08-30">
+            <file f_name="mc_english_kent01" audio="mc_english_kent01.wav" updated="2019-09-06">
                 <unit uid="0001" start_time="0" end_time="3050">
                     <utterance_id>english_kent01_0001</utterance_id>
                     <utterance>Yes, well, my name's Alistair Crown.</utterance>
@@ -2054,7 +2054,6 @@
                             <gword>I</gword>
                             <gloss>1SG</gloss>
                             <graid>other</graid>
-                            <refind>2000</refind>
                         </segment>
                         <segment>
                             <gword>think</gword>
@@ -4159,7 +4158,7 @@
                         <segment>
                             <gword>Webb's</gword>
                             <gloss>Webb's</gloss>
-                            <graid>pn_np:g</graid>
+                            <graid>pn_np.h:g</graid>
                             <refind>2063</refind>
                         </segment>
                         <segment>
@@ -6219,8 +6218,14 @@
                         <segment>
                             <gword>Haynes='s</gword>
                             <gloss>Haynes=POSS</gloss>
-                            <graid>pn_np:l</graid>
+                            <graid>ln_pn_np.h:poss</graid>
                             <refind>2092</refind>
+                        </segment>
+                        <segment>
+                            <gword>0</gword>
+                            <gloss>0_auction</gloss>
+                            <graid>0:l</graid>
+                            <refind>2093</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -12945,7 +12950,7 @@
                         <segment>
                             <gword>donkey</gword>
                             <gloss>donkey</gloss>
-                            <graid>np.h:pred_other</graid>
+                            <graid>np:pred_other</graid>
                             <refind>2160</refind>
                         </segment>
                         <segment>
@@ -15283,7 +15288,7 @@
                         </segment>
                         <segment>
                             <gword>0</gword>
-                            <gloss>0_hourse</gloss>
+                            <gloss>0_house</gloss>
                             <graid>rel_0:g</graid>
                             <refind>2015</refind>
                         </segment>
@@ -15333,7 +15338,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_house</gloss>
-                            <graid>0.h:s</graid>
+                            <graid>0:s</graid>
                             <refind>2015</refind>
                         </segment>
                         <segment>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-30T06:25:50+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-09-06T05:49:18+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_english_devon01.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2911e3dd-9f1b-47b0-b78b-7ac7c5e29d8a</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">52187</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">52189</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -66676,7 +66676,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37919" ANNOTATION_REF="a34026">
-                <ANNOTATION_VALUE>pro.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -73788,7 +73788,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46089" ANNOTATION_REF="a36386">
-                <ANNOTATION_VALUE>1108</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1067</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -74423,7 +74423,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46478" ANNOTATION_REF="a36791">
-                <ANNOTATION_VALUE>1153</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1152</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -76107,7 +76107,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a47555" ANNOTATION_REF="a37909">
+            <REF_ANNOTATION ANNOTATION_ID="a52188" ANNOTATION_REF="a37908">
                 <ANNOTATION_VALUE>1251</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -76668,7 +76668,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a48006" ANNOTATION_REF="a38376">
-                <ANNOTATION_VALUE>1292</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1291</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -78354,7 +78354,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a51297" ANNOTATION_REF="a47555">
+            <REF_ANNOTATION ANNOTATION_ID="a52189" ANNOTATION_REF="a52188">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>

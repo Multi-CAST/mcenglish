@@ -1791,7 +1791,7 @@ english	devon01	0052	I	1SG	pro.1:s	pro	1	s	1000
 english	devon01	0052	='d	=have.PST	=lv_aux	=lv_aux				
 english	devon01	0052	finish-ed	finish-PST	v:pred	v		pred		
 english	devon01	0052	with	with	adp	adp				
-english	devon01	0052	them	3PL.OBL	pro:obl	pro		obl	1108	
+english	devon01	0052	them	3PL.OBL	pro:obl	pro		obl	1067	
 english	devon01	0053	#	#	##	##				
 english	devon01	0053	but	but	other	other				
 english	devon01	0053	uh	uh	other	other				
@@ -2282,7 +2282,7 @@ english	devon01	0070	0	0_I	0.1:s	0	1	s	1000
 english	devon01	0070	went	go.PST	v:pred	v		pred		
 english	devon01	0070	down	down	rv	rv				
 english	devon01	0070	with	with	adp	adp				
-english	devon01	0070	Samwell	Samwell	pn_np.h:obl	pn_np	h	obl	1153	
+english	devon01	0070	Samwell	Samwell	pn_np.h:obl	pn_np	h	obl	1152	
 english	devon01	0070	#	#	##	##				
 english	devon01	0070	and	and	other	other				
 english	devon01	0070	we	1PL	pro.1:a	pro	1	a	1161	bridging
@@ -3633,8 +3633,8 @@ english	devon01	0114	ship	ship	rn_np	rn_np
 english	devon01	0114	%	%	%	%				
 english	devon01	0114	you	2SG	gen_pro.2:a	gen_pro	2	a		
 english	devon01	0114	got	get.PST	v:pred	v		pred		
-english	devon01	0114	plank-s	plank-PL	np:p	np		p		
-english	devon01	0114	two	two	rn_num	rn_num			1251	bridging
+english	devon01	0114	plank-s	plank-PL	np:p	np		p	1251	bridging
+english	devon01	0114	two	two	rn_num	rn_num				
 english	devon01	0114	inch-es	inch-PL	rn	rn				
 english	devon01	0114	thick	thick	rn_adj	rn_adj				
 english	devon01	0114	perhaps	perhaps	rn	rn				
@@ -3645,7 +3645,7 @@ english	devon01	0114	inch-es	inch-PL	rn	rn
 english	devon01	0114	deep	deep	rn_adj	rn_adj				
 english	devon01	0115	#	#	##neg	##neg				
 english	devon01	0115	well	well	other	other				
-english	devon01	0115	they	3PL	pro.h:s	pro	h	s	1251	
+english	devon01	0115	they	3PL	pro:s	pro		s	1251	
 english	devon01	0115	would-n't	would-NEG	lv_aux	lv_aux				
 english	devon01	0115	bend	bend.INF	v:pred	v		pred		
 english	devon01	0115	cold	cold	other	other				
@@ -4195,7 +4195,7 @@ english	devon01	0136	who	who	rel_pro.h:s	rel_pro	h	s	1293
 english	devon01	0136	live-d	live-PST	v:pred	v		pred		
 english	devon01	0136	near	near	adp	adp				
 english	devon01	0136	that	DIST.SG	ln_dem	ln_dem				
-english	devon01	0136	place	place	np:l	np		l	1292	
+english	devon01	0136	place	place	np:l	np		l	1291	
 english	devon01	0136	#	#	##	##				
 english	devon01	0136	I	1SG	pro.1:s_ds	pro	1	s_ds	1000	
 english	devon01	0136	said	say.PST	v:pred	v		pred		

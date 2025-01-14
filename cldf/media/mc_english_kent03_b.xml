@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="english">
         <text t_name="kent03" annotators="Nils Schiborr" speaker="EN03">
-            <file f_name="mc_english_kent03_b" audio="mc_english_kent03_b.wav" updated="2019-08-30">
+            <file f_name="mc_english_kent03_b" audio="mc_english_kent03_b.wav" updated="2019-09-06">
                 <unit uid="0279" start_time="0" end_time="9787">
                     <utterance_id>english_kent03_0279</utterance_id>
                     <utterance>I remember when I was a boy at Cranbrook, they told me one day to carry some hop poles down to the baker, Mr Dinker, down in Cranbrook.</utterance>
@@ -20488,7 +20488,7 @@
                         <segment>
                             <gword>their</gword>
                             <gloss>3PL.POSS</gloss>
-                            <graid>ln_pro.h:poss</graid>
+                            <graid>ln_pro:poss</graid>
                             <refind>4185</refind>
                         </segment>
                         <segment>
@@ -22333,7 +22333,7 @@
                         <segment>
                             <gword>='em</gword>
                             <gloss>=3PL.OBL</gloss>
-                            <graid>=pro:p</graid>
+                            <graid>=pro.h:p</graid>
                             <refind>4505</refind>
                         </segment>
                         <segment>
@@ -31931,7 +31931,7 @@
                         <segment>
                             <gword>='em</gword>
                             <gloss>=3PL.OBL</gloss>
-                            <graid>=rn_pro</graid>
+                            <graid>=rn_pro.h</graid>
                             <refind>4610</refind>
                         </segment>
                         <segment>

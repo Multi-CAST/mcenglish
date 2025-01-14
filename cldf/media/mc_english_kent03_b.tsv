@@ -3638,7 +3638,7 @@ english	kent03	0474	0	0_they	0.h:a	0	h	a	4185
 english	kent03	0474	used	used	lv_aux	lv_aux				
 english	kent03	0474	to	to	lv	lv				
 english	kent03	0474	have	have.INF	v:pred	v		pred		
-english	kent03	0474	their	3PL.POSS	ln_pro.h:poss	ln_pro	h	poss	4185	
+english	kent03	0474	their	3PL.POSS	ln_pro:poss	ln_pro		poss	4185	
 english	kent03	0474	wagon	wagon	np:p	np		p	4482	bridging
 english	kent03	0474	#	#	##	##				
 english	kent03	0474	and	and	other	other				
@@ -3971,7 +3971,7 @@ english	kent03	0485	the	the	ln_det	ln_det
 english	kent03	0485	church warden-s	church_warden-PL	np.h:dt_p	np	h	dt_p	4507	bridging
 english	kent03	0485	they	3PL	pro.h:a	pro	h	a	4507	
 english	kent03	0485	turn-ed	turn-PST	v:pred	v		pred		
-english	kent03	0485	='em	=3PL.OBL	=pro:p	=pro		p	4505	
+english	kent03	0485	='em	=3PL.OBL	=pro.h:p	=pro	h	p	4505	
 english	kent03	0485	out	out	rv	rv				
 english	kent03	0485	#	#	##	##				
 english	kent03	0485	and	and	other	other				
@@ -5686,7 +5686,7 @@ english	kent03	0567	#	#	##	##
 english	kent03	0567	but	but	other	other				
 english	kent03	0567	some	some	np.h:dt_a	np	h	dt_a	4621	bridging
 english	kent03	0567	of	of	rn	rn				
-english	kent03	0567	='em	=3PL.OBL	=rn_pro	=rn_pro			4610	
+english	kent03	0567	='em	=3PL.OBL	=rn_pro.h	=rn_pro	h		4610	
 english	kent03	0567	they	3PL	pro.h:a	pro	h	a	4621	
 english	kent03	0567	got	get.PST	v:pred	v		pred		
 english	kent03	0567	mean-s	mean-PL	np:p	np		p		

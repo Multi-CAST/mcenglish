@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="english">
         <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent02_b" audio="mc_english_kent02_b.wav" updated="2019-08-30">
+            <file f_name="mc_english_kent02_b" audio="mc_english_kent02_b.wav" updated="2019-09-06">
                 <unit uid="0419" start_time="0" end_time="3317">
                     <utterance_id>english_kent02_0419</utterance_id>
                     <utterance>[INTERVIEWER] How old were, were you when you moved to the farm at Molash?</utterance>
@@ -11610,7 +11610,7 @@
                         <segment>
                             <gword>that</gword>
                             <gloss>DIST.SG</gloss>
-                            <graid>dem_pro:s</graid>
+                            <graid>dem_pro.h:s</graid>
                             <refind>3407</refind>
                         </segment>
                         <segment>
@@ -12619,7 +12619,6 @@
                             <gword>you</gword>
                             <gloss>2SG</gloss>
                             <graid>other</graid>
-                            <refind>3000</refind>
                         </segment>
                         <segment>
                             <gword>know</gword>
@@ -19751,7 +19750,7 @@
                         <segment>
                             <gword>firm</gword>
                             <gloss>firm</gloss>
-                            <graid>np:g</graid>
+                            <graid>np.h:g</graid>
                             <refind>3470</refind>
                         </segment>
                         <segment>
@@ -21826,7 +21825,7 @@
                         <segment>
                             <gword>firm</gword>
                             <gloss>firm</gloss>
-                            <graid>nc_np</graid>
+                            <graid>nc_np.h</graid>
                             <refind>3470</refind>
                         </segment>
                         <segment>
@@ -21878,7 +21877,7 @@
                         <segment>
                             <gword>it</gword>
                             <gloss>3SG.N</gloss>
-                            <graid>nc_pro</graid>
+                            <graid>nc_pro.h</graid>
                             <refind>3470</refind>
                         </segment>
                     </annotations>
@@ -21949,7 +21948,7 @@
                         <segment>
                             <gword>firm</gword>
                             <gloss>firm</gloss>
-                            <graid>nc_np</graid>
+                            <graid>nc_np.h</graid>
                             <refind>3470</refind>
                         </segment>
                         <segment>
@@ -26629,7 +26628,7 @@
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
                             <graid>pro.h:s</graid>
-                            <refind>3341</refind>
+                            <refind>3533</refind>
                         </segment>
                         <segment>
                             <gword>went</gword>
@@ -30793,7 +30792,7 @@
                             <gword>doctor</gword>
                             <gloss>doctor</gloss>
                             <graid>np.h:s_ds</graid>
-                            <refind>3567</refind>
+                            <refind>3576</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>

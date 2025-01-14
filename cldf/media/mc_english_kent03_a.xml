@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="english">
         <text t_name="kent03" annotators="Nils Schiborr" speaker="EN03">
-            <file f_name="mc_english_kent03_a" audio="mc_english_kent03_a.wav" updated="2019-08-30">
+            <file f_name="mc_english_kent03_a" audio="mc_english_kent03_a.wav" updated="2019-09-12">
                 <unit uid="0001" start_time="0" end_time="8982">
                     <utterance_id>english_kent03_0001</utterance_id>
                     <utterance>Well now, I'm about to relate to you the whole of my life story,</utterance>
@@ -2660,7 +2660,7 @@
                         <segment>
                             <gword>his</gword>
                             <gloss>3SG.M.POSS</gloss>
-                            <graid>ln_pro.h:poss</graid>
+                            <graid>ln_pro:poss</graid>
                             <refind>4019</refind>
                         </segment>
                         <segment>
@@ -2700,7 +2700,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro:a</graid>
                             <refind>4019</refind>
                         </segment>
                         <segment>
@@ -25121,7 +25121,7 @@
                         <segment>
                             <gword>you</gword>
                             <gloss>2SG</gloss>
-                            <graid>gen_pro.2:2</graid>
+                            <graid>gen_pro.2:s</graid>
                         </segment>
                         <segment>
                             <gword>could-n't</gword>

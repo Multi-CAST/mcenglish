@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="english">
         <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2019-08-30">
+            <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2019-09-06">
                 <unit uid="0001" start_time="0" end_time="2310">
                     <utterance_id>english_kent02_0001</utterance_id>
                     <utterance>[INTERVIEWER] Okay. We're on.</utterance>
@@ -1988,7 +1988,7 @@
                         <segment>
                             <gword>him</gword>
                             <gloss>3SG.M.OBL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>pro.h:p</graid>
                             <refind>3027</refind>
                         </segment>
                         <segment>
@@ -3262,7 +3262,7 @@
                         <segment>
                             <gword>him</gword>
                             <gloss>3SG.M.OBL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>pro:p</graid>
                             <refind>3029</refind>
                         </segment>
                         <segment>
@@ -3938,7 +3938,7 @@
                         <segment>
                             <gword>his</gword>
                             <gloss>3SG.M.POSS</gloss>
-                            <graid>ln_pro.h:poss</graid>
+                            <graid>ln_pro:poss</graid>
                             <refind>3029</refind>
                         </segment>
                         <segment>
@@ -7957,7 +7957,7 @@
                         <segment>
                             <gword>I</gword>
                             <gloss>1SG</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3000</refind>
                         </segment>
                         <segment>
@@ -12403,7 +12403,7 @@
                         <segment>
                             <gword>him</gword>
                             <gloss>3SG.M.OBL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>pro.h:p</graid>
                             <refind>3118</refind>
                         </segment>
                         <segment>
@@ -16990,7 +16990,7 @@
                         <segment>
                             <gword>I</gword>
                             <gloss>1SG</gloss>
-                            <graid>pro:a</graid>
+                            <graid>pro.1:a</graid>
                             <refind>3000</refind>
                         </segment>
                         <segment>
@@ -19511,7 +19511,7 @@
                             <gword>him</gword>
                             <gloss>3SG.M.OBL</gloss>
                             <graid>pro.h:g</graid>
-                            <refind>3177</refind>
+                            <refind>3176</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -31965,7 +31965,7 @@
                         <segment>
                             <gword>that</gword>
                             <gloss>DIST.SG</gloss>
-                            <graid>dem_pro:s</graid>
+                            <graid>dem_pro.h:s</graid>
                             <refind>3244</refind>
                         </segment>
                         <segment>

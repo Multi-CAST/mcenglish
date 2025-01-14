@@ -466,13 +466,13 @@ english	kent03	0027	you	2SG.OBL	gen_pro.2:g	gen_pro	2	g
 english	kent03	0027	he	3SG.M	other	other				
 english	kent03	0027	would	would	other	other				
 english	kent03	0027	with	with	adp	adp				
-english	kent03	0027	his	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	4019	
+english	kent03	0027	his	3SG.M.POSS	ln_pro:poss	ln_pro		poss	4019	
 english	kent03	0027	mouth	mouth	np:other	np		other	4030	bridging
 english	kent03	0027	wide	wide	rn	rn				
 english	kent03	0027	open	open	rn	rn				
 english	kent03	0028	#	#	##	##				
 english	kent03	0028	and	and	other	other				
-english	kent03	0028	he	3SG.M	pro.h:a	pro	h	a	4019	
+english	kent03	0028	he	3SG.M	pro:a	pro		a	4019	
 english	kent03	0028	='d	=would	=lv_aux	=lv_aux				
 english	kent03	0028	have	have.INF	v:pred	v		pred		
 english	kent03	0028	you	2SG.OBL	gen_pro.2:p	gen_pro	2	p		
@@ -4447,7 +4447,7 @@ english	kent03	0236	you	2SG	other	other
 english	kent03	0236	know	know.PRS	other	other				
 english	kent03	0236	#	#	#ac.neg	#ac.neg				
 english	kent03	0236	where	where	other	other				
-english	kent03	0236	you	2SG	gen_pro.2:2	gen_pro	2	2		
+english	kent03	0236	you	2SG	gen_pro.2:s	gen_pro	2	s		
 english	kent03	0236	could-n't	could-NEG	lv_aux	lv_aux				
 english	kent03	0236	plough	plough.INF	v:pred	v		pred		
 english	kent03	0236	in	in	adp	adp				

@@ -339,7 +339,7 @@ english	kent02	0025	remember	remember.PRS	v:pred	v		pred
 english	kent02	0025	#	#	#cc:p	#cc		p		
 english	kent02	0025	they	3PL	pro.h:a	pro	h	a	3026	
 english	kent02	0025	sold	sell.PST	v:pred	v		pred		
-english	kent02	0025	him	3SG.M.OBL	pro:p	pro		p	3027	
+english	kent02	0025	him	3SG.M.OBL	pro.h:p	pro	h	p	3027	
 english	kent02	0025	an	an	ln_deti	ln_deti				
 english	kent02	0025	old	old	ln_adj	ln_adj				
 english	kent02	0025	grey	grey	ln_adj	ln_adj				
@@ -558,7 +558,7 @@ english	kent02	0041	#	#	##	##
 english	kent02	0041	she	3SG.F	pro.h:a	pro	h	a	3039	
 english	kent02	0041	want-ed	want-PST	v:pred	v		pred		
 english	kent02	0041	eh	eh	nc	nc				
-english	kent02	0041	him	3SG.M.OBL	pro.h:p	pro	h	p	3029	
+english	kent02	0041	him	3SG.M.OBL	pro:p	pro		p	3029	
 english	kent02	0041	#	#	#cc:obl	#cc		obl		
 english	kent02	0041	0	0_Buller	f0:a	f0		a	3029	
 english	kent02	0041	to	to	lv	lv				
@@ -678,7 +678,7 @@ english	kent02	0046	and	and	other	other
 english	kent02	0046	you	2SG	pro.2:a	pro	2	a	3027	
 english	kent02	0046	can	can	lv_aux	lv_aux				
 english	kent02	0046	have	have.INF	v:pred	v		pred		
-english	kent02	0046	his	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	3029	
+english	kent02	0046	his	3SG.M.POSS	ln_pro:poss	ln_pro		poss	3029	
 english	kent02	0046	this	PROX.SG	ln_dem	ln_dem				
 english	kent02	0046	cart	cart	np:p	np		p	3042	new
 english	kent02	0046	and	and	rn	rn				
@@ -1371,7 +1371,7 @@ english	kent02	0095	0	0_I	f0.1:a	f0	1	a	3085
 english	kent02	0095	buy-ing	buy-PTCP.PRS	vother:pred	vother		pred		
 english	kent02	0095	poultry	poultry	np:p	np		p	3085	
 english	kent02	0095	%	%	%	%				
-english	kent02	0095	I	1SG	nc	nc			3000	
+english	kent02	0095	I	1SG	nc_pro.1	nc_pro	1		3000	
 english	kent02	0095	had	have.PST	nc	nc				
 english	kent02	0095	Father	Father	pn_pro.1:a	pn_pro	1	a	3027	
 english	kent02	0095	used	used	lv_aux	lv_aux				
@@ -2148,7 +2148,7 @@ english	kent02	0143	and	and	other	other
 english	kent02	0143	eh	eh	nc	nc				
 english	kent02	0143	we	1PL	pro.1:a	pro	1	a	3013	
 english	kent02	0143	gave	give.PST	v:pred	v		pred		
-english	kent02	0143	him	3SG.M.OBL	pro:p	pro		p	3118	
+english	kent02	0143	him	3SG.M.OBL	pro.h:p	pro	h	p	3118	
 english	kent02	0143	a	a	ln_deti	ln_deti				
 english	kent02	0143	half	half	ln_adj	ln_adj				
 english	kent02	0143	crown	crown	np:p	np		p		
@@ -2956,7 +2956,7 @@ english	kent02	0189	bloody	bloody	ln_adj	ln_adj
 english	kent02	0189	time	time	np:pred	np		pred		
 english	kent02	0189	#	#	#rc	#rc				
 english	kent02	0189	ever	ever	other	other				
-english	kent02	0189	I	1SG	pro:a	pro		a	3000	
+english	kent02	0189	I	1SG	pro.1:a	pro	1	a	3000	
 english	kent02	0189	did	do.PST	lv_aux	lv_aux				
 english	kent02	0189	taste	taste.INF	v:pred	v		pred		
 english	kent02	0189	it	3SG.N	pro:p	pro		p	3155	
@@ -3393,7 +3393,7 @@ english	kent02	0219	0	0_keeper	0.h:a	0	h	a	3174
 english	kent02	0219	sold	sell.PST	v:pred	v		pred		
 english	kent02	0219	='em	=3PL.OBL	=pro:p	=pro		p	3182	
 english	kent02	0219	to	to	adp	adp				
-english	kent02	0219	him	3SG.M.OBL	pro.h:g	pro	h	g	3177	
+english	kent02	0219	him	3SG.M.OBL	pro.h:g	pro	h	g	3176	
 english	kent02	0219	#	#	##	##				
 english	kent02	0219	and	and	other	other				
 english	kent02	0219	this	PROX.SG	ln_dem	ln_dem				
@@ -5542,7 +5542,7 @@ english	kent02	0380	of	of	rn	rn
 english	kent02	0380	the	the	rn_det	rn_det				
 english	kent02	0380	Manor	Manor	rn_np	rn_np				
 english	kent02	0381	#	#	##	##				
-english	kent02	0381	that	DIST.SG	dem_pro:s	dem_pro		s	3244	
+english	kent02	0381	that	DIST.SG	dem_pro.h:s	dem_pro	h	s	3244	
 english	kent02	0381	was	be.PST.3SG	cop	cop				
 english	kent02	0381	Sir-what's-his-name	Sir_what's_his_name	pn_np.h:pred	pn_np	h	pred		
 english	kent02	0382	#	#	##	##				

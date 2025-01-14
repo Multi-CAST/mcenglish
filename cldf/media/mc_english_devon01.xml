@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="english">
         <text t_name="devon01" annotators="Nils Schiborr" speaker="EN02">
-            <file f_name="mc_english_devon01" audio="mc_english_devon01.wav" updated="2019-08-30">
+            <file f_name="mc_english_devon01" audio="mc_english_devon01.wav" updated="2019-09-06">
                 <unit uid="0001" start_time="0" end_time="1981">
                     <utterance_id>english_devon01_0001</utterance_id>
                     <utterance>[INTERVIEWER] So you were saying, you were born in Moreleigh?</utterance>
@@ -9856,7 +9856,7 @@
                             <gword>them</gword>
                             <gloss>3PL.OBL</gloss>
                             <graid>pro:obl</graid>
-                            <refind>1108</refind>
+                            <refind>1067</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -12604,7 +12604,7 @@
                             <gword>Samwell</gword>
                             <gloss>Samwell</gloss>
                             <graid>pn_np.h:obl</graid>
-                            <refind>1153</refind>
+                            <refind>1152</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -20093,13 +20093,13 @@
                             <gword>plank-s</gword>
                             <gloss>plank-PL</gloss>
                             <graid>np:p</graid>
+                            <refind>1251</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>two</gword>
                             <gloss>two</gloss>
                             <graid>rn_num</graid>
-                            <refind>1251</refind>
-                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>inch-es</gword>
@@ -20161,7 +20161,7 @@
                         <segment>
                             <gword>they</gword>
                             <gloss>3PL</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro:s</graid>
                             <refind>1251</refind>
                         </segment>
                         <segment>
@@ -23211,7 +23211,7 @@
                             <gword>place</gword>
                             <gloss>place</gloss>
                             <graid>np:l</graid>
-                            <refind>1292</refind>
+                            <refind>1291</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>

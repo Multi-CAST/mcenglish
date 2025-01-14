@@ -2008,7 +2008,7 @@ english	kent02	0558	%	%	%	%
 english	kent02	0558	is	be.PRS.3SG	cop	cop				
 english	kent02	0558	Paulson	Paulson	pn_np.h:pred	pn_np	h	pred		
 english	kent02	0559	#	#	##	##				
-english	kent02	0559	that	DIST.SG	dem_pro:s	dem_pro		s	3407	
+english	kent02	0559	that	DIST.SG	dem_pro.h:s	dem_pro	h	s	3407	
 english	kent02	0559	='s	=be.PRS.3SG	=cop	=cop				
 english	kent02	0559	next door	next_door	other:pred	other		pred		
 english	kent02	0560	enh	enh	other	other				
@@ -2180,7 +2180,7 @@ english	kent02	0572	repair-s	repair-PL	np:p	np		p	3413	bridging
 english	kent02	0572	won't it	TAG	other	other				
 english	kent02	0573	#	#	##ds.neg	##ds.neg				
 english	kent02	0573	hhm	hhm	other	other				
-english	kent02	0573	you	2SG	other	other			3000	
+english	kent02	0573	you	2SG	other	other				
 english	kent02	0573	know	know.PRS	other	other				
 english	kent02	0573	I	1SG	pro.1:a	pro	1	a	3407	
 english	kent02	0573	don't	do.PRS.NEG	lv_aux	lv_aux				
@@ -3412,7 +3412,7 @@ english	kent02	0660	to	to	adp	adp
 english	kent02	0660	London	London	pn_np:g	pn_np		g	3472	new
 english	kent02	0660	to	to	adp	adp				
 english	kent02	0660	a	a	ln_deti	ln_deti				
-english	kent02	0660	firm	firm	np:g	np		g	3470	
+english	kent02	0660	firm	firm	np.h:g	np	h	g	3470	
 english	kent02	0660	#	#	##	##				
 english	kent02	0660	and	and	other	other				
 english	kent02	0660	they	3PL	pro.h:a	pro	h	a	3470	
@@ -3769,7 +3769,7 @@ english	kent02	0687	hhm	hhm	nc	nc
 english	kent02	0687	who	who	nc	nc				
 english	kent02	0687	was	be.PST.3SG	nc	nc				
 english	kent02	0687	the	the	nc	nc				
-english	kent02	0687	firm	firm	nc_np	nc_np			3470	
+english	kent02	0687	firm	firm	nc_np.h	nc_np	h		3470	
 english	kent02	0687	#	#	#nc	#nc				
 english	kent02	0687	did	do.PST	nc	nc				
 english	kent02	0687	you	2SG	nc	nc				
@@ -3779,7 +3779,7 @@ english	kent02	0687	you	2SG	nc_pro.2	nc_pro	2		3000
 english	kent02	0687	find	find.INF	nc	nc				
 english	kent02	0687	out	out	nc	nc				
 english	kent02	0687	about	about	nc	nc				
-english	kent02	0687	it	3SG.N	nc_pro	nc_pro			3470	
+english	kent02	0687	it	3SG.N	nc_pro.h	nc_pro	h		3470	
 english	kent02	0688	hey	hey	nc	nc				
 english	kent02	0689	[INT]	[INT]	[INT]	[INT]				
 english	kent02	0689	#	#	#nc	#nc				
@@ -3790,7 +3790,7 @@ english	kent02	0689	find	find.INF	nc	nc
 english	kent02	0689	out	out	nc	nc				
 english	kent02	0689	about	about	nc	nc				
 english	kent02	0689	this	PROX.SG	nc	nc				
-english	kent02	0689	firm	firm	nc_np	nc_np			3470	
+english	kent02	0689	firm	firm	nc_np.h	nc_np	h		3470	
 english	kent02	0689	#	#	#nc	#nc				
 english	kent02	0689	that	that	other	other				
 english	kent02	0689	0	0_firm	nc_rel_f0.h:a	nc_rel_f0	h	a	3470	
@@ -4603,7 +4603,7 @@ english	kent02	0738	of	of	adp	adp
 english	kent02	0738	it	3SG.N	pro:obl	pro		obl	3531	
 english	kent02	0739	#	#	##	##				
 english	kent02	0739	and	and	other	other				
-english	kent02	0739	he	3SG.M	pro.h:s	pro	h	s	3341	
+english	kent02	0739	he	3SG.M	pro.h:s	pro	h	s	3533	
 english	kent02	0739	went	go.PST	v:pred	v		pred		
 english	kent02	0739	bankrupt	bankrupt	other:lvc	other		lvc		
 english	kent02	0739	#	#	##	##				
@@ -5316,7 +5316,7 @@ english	kent02	0793	hhm	hhm	nc	nc
 english	kent02	0794	#	#	##	##				
 english	kent02	0794	well	well	other	other				
 english	kent02	0794	the	the	ln_det	ln_det				
-english	kent02	0794	doctor	doctor	np.h:s_ds	np	h	s_ds	3567	new
+english	kent02	0794	doctor	doctor	np.h:s_ds	np	h	s_ds	3576	new
 english	kent02	0794	told	tell.PST	v:pred	v		pred		
 english	kent02	0794	me	1SG.OBL	pro.1:p	pro	1	p	3000	
 english	kent02	0794	#	#	##ds	##ds				
