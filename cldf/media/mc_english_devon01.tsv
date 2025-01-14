@@ -1,6 +1,6 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
-english	devon01	0001	[INT]	[INT]	[INT]	[INT]				
 english	devon01	0001	#	#	#nc	#nc				
+english	devon01	0001	[INT]	[INT]	[INT]	[INT]				
 english	devon01	0001	so	so	nc	nc				
 english	devon01	0001	you	2SG	nc_pro.2	nc_pro	2		1000	unused
 english	devon01	0001	were	be.PST	nc	nc				
@@ -239,7 +239,7 @@ english	devon01	0008	#	#	##	##
 english	devon01	0008	and	and	other	other				
 english	devon01	0008	the	the	ln_det	ln_det				
 english	devon01	0008	Galmpton	Galmpton	ln_pn_np	ln_pn_np				
-english	devon01	0008	side	side	np:s	np		s	1023	
+english	devon01	0008	side	side	np:s	np		s	1023	bridging
 english	devon01	0008	#	#	#ac	#ac				
 english	devon01	0008	when	when	other	other				
 english	devon01	0008	I	1SG	pro.1:s	pro	1	s	1000	
@@ -725,7 +725,7 @@ english	devon01	0026	between	between	ln	ln
 english	devon01	0026	sixty	sixty	ln_num	ln_num				
 english	devon01	0026	and	and	ln	ln				
 english	devon01	0026	seventy	seventy	ln_num	ln_num				
-english	devon01	0026	pupil-s	pupil-PL	np.h:p	np	h	p	1057	bridging
+english	devon01	0026	pupil-s	pupil-PL	np.h:p	np	h	p	1057	
 english	devon01	0026	at	at	adp	adp				
 english	devon01	0026	that	DIST.SG	ln_dem	ln_dem				
 english	devon01	0026	uh	uh	other	other				
@@ -1715,7 +1715,7 @@ english	devon01	0050	go-ing	go-PTCP.PRS	v:pred	v		pred
 english	devon01	0050	down	down	adp	adp				
 english	devon01	0050	through	through	adp	adp				
 english	devon01	0050	this	PROX.SG	ln_dem	ln_dem				
-english	devon01	0050	field	field	np:l	np		l	1116	
+english	devon01	0050	field	field	np:l	np		l	1116	bridging
 english	devon01	0050	#	#	##	##				
 english	devon01	0050	and	and	other	other				
 english	devon01	0050	I	1SG	pro.1:a	pro	1	a	1000	
@@ -2710,7 +2710,7 @@ english	devon01	0085	#	#	##	##
 english	devon01	0085	I	1SG	pro.1:a	pro	1	a	1000	
 english	devon01	0085	saw	see.PST	v:pred	v		pred		
 english	devon01	0085	the	the	ln_det	ln_det				
-english	devon01	0085	foreman	foreman	np.h:p	np	h	p	1195	
+english	devon01	0085	foreman	foreman	np.h:p	np	h	p	1195	bridging
 english	devon01	0085	#	#	##	##				
 english	devon01	0085	I	1SG	pro.1:s_ds	pro	1	s_ds	1000	
 english	devon01	0085	said	say.PST	v:pred	v		pred		
@@ -2988,7 +2988,7 @@ english	devon01	0094	month	month	np:other	np		other
 english	devon01	0094	#	#	##	##				
 english	devon01	0094	and	and	other	other				
 english	devon01	0094	that	DIST.SG	ln_dem	ln_dem				
-english	devon01	0094	job	job	np:s	np		s	1204	bridging
+english	devon01	0094	job	job	np:s	np		s	1204	
 english	devon01	0094	finish-ed	finish-PST	v:pred	v		pred		
 english	devon01	0095	#	#	##	##				
 english	devon01	0095	so	so	other	other				
@@ -2999,7 +2999,7 @@ english	devon01	0095	job	job	np:s	np		s	1204
 english	devon01	0095	was	be.PRS.3SG	lv_aux	lv_aux				
 english	devon01	0095	finish-ed	finish-PTCP.PST	v:pred	v		pred		
 english	devon01	0095	%	%	%	%				
-english	devon01	0095	we	1PL	pro.1:a	pro	1	a	1203	
+english	devon01	0095	we	1PL	pro.1:a	pro	1	a	1203	bridging
 english	devon01	0095	had	have.PST	lv_aux	lv_aux				
 english	devon01	0095	to	to	lv	lv				
 english	devon01	0095	take	take.INF	v:pred	v		pred		
@@ -4025,7 +4025,7 @@ english	devon01	0128	drove	drive.PTCP.PST	v:pred	v		pred
 english	devon01	0128	in	in	rv	rv				
 english	devon01	0128	with	with	adp	adp				
 english	devon01	0128	a	a	nc	nc				
-english	devon01	0128	#	#	#rc:obl	#rc		obl	1279	
+english	devon01	0128	#	#	#rc:obl	#rc		obl	1279	new
 english	devon01	0128	what	what	intrg_other:p	intrg_other		p		
 english	devon01	0128	we	1PL	pro.1:a	pro	1	a	1252	
 english	devon01	0128	call-ed	call-PST	v:pred	v		pred		
@@ -4366,7 +4366,7 @@ english	devon01	0142	and	and	other	other
 english	devon01	0142	some	some	indef_other:a	indef_other		a	1306	bridging
 english	devon01	0142	had	have.PST	v:pred	v		pred		
 english	devon01	0142	new	new	ln_det	ln_det				
-english	devon01	0142	keel-s	keel-PL	np:p	np		p	1307	
+english	devon01	0142	keel-s	keel-PL	np:p	np		p	1307	new
 english	devon01	0142	new	new	rn_adj	rn_adj				
 english	devon01	0142	bottom-s	bottom-PL	rn_np	rn_np				
 english	devon01	0142	you	2SG	other	other				

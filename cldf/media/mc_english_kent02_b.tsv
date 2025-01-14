@@ -113,7 +113,7 @@ english	kent02	0426	and	and	other	other
 english	kent02	0426	you	2SG	gen_pro.2:a	gen_pro	2	a		
 english	kent02	0426	could-n't	could-NEG	lv_aux	lv_aux				
 english	kent02	0426	turn	turn.INF	v:pred	v		pred		
-english	kent02	0426	four	four	num_np:p	num_np		p	3295	
+english	kent02	0426	four	four	num_np:p	num_np		p	3295	bridging
 english	kent02	0426	or	or	rn	rn				
 english	kent02	0426	five	five	rn_num_np	rn_num_np				
 english	kent02	0426	in	in	adp	adp				
@@ -366,7 +366,7 @@ english	kent02	0438	keep	keep.INF	v:pred	v		pred
 english	kent02	0438	='em	=3PL.OBL	=pro:p	=pro		p	3311	
 english	kent02	0438	for	for	adp	adp				
 english	kent02	0438	his	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	3027	
-english	kent02	0438	horse-s	horse-PL	np:obl	np		obl	3312	
+english	kent02	0438	horse-s	horse-PL	np:obl	np		obl	3312	bridging
 english	kent02	0439	#	#	##	##				
 english	kent02	0439	and	and	other	other				
 english	kent02	0439	hay	hay	np:other	np		other	3313	bridging
@@ -1058,7 +1058,7 @@ english	kent02	0498	sheep	sheep	np:other	np		other	3354	bridging
 english	kent02	0499	#	#	##	##				
 english	kent02	0499	my	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3000	
 english	kent02	0499	neighbour	neighbour	np.h:dt_s	np	h	dt_s	3307	
-english	kent02	0499	he	3SG.M	pro.h:s	pro	h	s	3355	
+english	kent02	0499	he	3SG.M	pro.h:s	pro	h	s	3307	
 english	kent02	0499	used	used	lv_aux	lv_aux				
 english	kent02	0499	to	to	lv	lv				
 english	kent02	0499	come	come.INF	v:pred	v		pred		
@@ -1072,7 +1072,7 @@ english	kent02	0499	when	when	adp	adp
 english	kent02	0499	I	1SG	pro.1:a	pro	1	a	3000	
 english	kent02	0499	do-ing	do-PTCP.PRS	v:pred	v		pred		
 english	kent02	0499	the	the	ln_det	ln_det				
-english	kent02	0499	lambing	lambing	np:p	np		p	3356	bridging
+english	kent02	0499	lambing	lambing	np:p	np		p	3355	bridging
 english	kent02	0500	#	#	##	##				
 english	kent02	0500	#	#	#ac	#ac				
 english	kent02	0500	if	if	adp	adp				
@@ -1439,7 +1439,7 @@ english	kent02	0521	#	#	##	##
 english	kent02	0521	you	2SG	gen_pro.2:a	gen_pro	2	a		
 english	kent02	0521	='d	=would	=lv_aux	=lv_aux				
 english	kent02	0521	get	get.INF	v:pred	v		pred		
-english	kent02	0521	ten	ten	num_np:p	num_np		p	3373	
+english	kent02	0521	ten	ten	num_np:p	num_np		p	3373	bridging
 english	kent02	0521	in	in	adp	adp				
 english	kent02	0521	a	a	ln_deti	ln_deti				
 english	kent02	0521	foot	foot	np:l	np		l		
@@ -1603,7 +1603,7 @@ english	kent02	0531	son	son	np.h:a	np	h	a	3379
 english	kent02	0531	='s	=have.PRS.3SG	=lv_aux	=lv_aux				
 english	kent02	0531	got	get.PTCP.PST	v:pred	v		pred		
 english	kent02	0531	electric	electric	ln_adj	ln_adj				
-english	kent02	0531	drill	drill	np:p	np		p	3386	
+english	kent02	0531	drill	drill	np:p	np		p	3386	new
 english	kent02	0532	#	#	##	##				
 english	kent02	0532	that	DIST.SG	dem_pro:s	dem_pro		s	3386	
 english	kent02	0532	='s	=be.PRS.3SG	=cop	=cop				
@@ -2246,7 +2246,7 @@ english	kent02	0577	feed	feed.INF	vother:pred	vother		pred
 english	kent02	0577	the	the	ln_det	ln_det				
 english	kent02	0577	sheep	sheep.PL	np:p	np		p	3416	bridging
 english	kent02	0577	with	with	rv	rv				
-english	kent02	0577	pig-s	pig-PL	np:other	np		other	3416	bridging
+english	kent02	0577	pig-s	pig-PL	np:other	np		other	3416	
 english	kent02	0578	#	#	##	##				
 english	kent02	0578	0	0_peas	0:s	0		s	3408	
 english	kent02	0578	finest	fine.SUPR	ln_adj	ln_adj				
@@ -2415,7 +2415,7 @@ english	kent02	0593	the	the	ln_det	ln_det
 english	kent02	0593	old	old	ln_adj	ln_adj				
 english	kent02	0593	sow-s	sow-PL	np:g	np		g	3429	
 english	kent02	0594	the	the	ln_det	ln_det				
-english	kent02	0594	sheep	sheep.PL	np:other	np		other	3415	
+english	kent02	0594	sheep	sheep.PL	np:other	np		other	3415	bridging
 english	kent02	0595	#	#	##	##				
 english	kent02	0595	horse-s	horse-PL	np:dt_a	np		dt_a	3430	bridging
 english	kent02	0595	ooh	ooh	other	other				
@@ -6664,7 +6664,7 @@ english	kent02	0890	got	get.PTCP.PST	v:pred	v		pred
 english	kent02	0890	about	about	ln	ln				
 english	kent02	0890	a	a	ln_deti	ln_deti				
 english	kent02	0890	hundred	hundred	ln_num	ln_num				
-english	kent02	0890	pound	pound	np:p	np		p	3658	
+english	kent02	0890	pound	pound	np:p	np		p	3658	new
 english	kent02	0890	in	in	adp	adp				
 english	kent02	0890	the	the	ln_det	ln_det				
 english	kent02	0890	bank	bank	np:l	np		l	3664	new

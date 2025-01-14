@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="english">
   <text t_name="kent03" annotators="Nils Schiborr" speaker="EN03">
-   <file f_name="mc_english_kent03_a" audio="mc_english_kent03_a.wav" updated="2021-01-10">
+   <file f_name="mc_english_kent03_a" audio="mc_english_kent03_a.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="8982">
      <utterance_id>english_kent03_0001</utterance_id>
      <utterance>Well now, I'm about to relate to you the whole of my life story,</utterance>
@@ -9348,6 +9348,7 @@
        <gloss>foot</gloss>
        <graid>np:p</graid>
        <refind>4101</refind>
+       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -13292,6 +13293,7 @@
        <gloss>=3PL.OBL</gloss>
        <graid>=pro:obl</graid>
        <refind>4127</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>#</gword>
@@ -13633,7 +13635,6 @@
        <gloss>George_Head</gloss>
        <graid>pn_np.h:g</graid>
        <refind>4128</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>#</gword>
@@ -15922,6 +15923,7 @@
        <gloss>horse</gloss>
        <graid>np:p</graid>
        <refind>4153</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>bi</gword>

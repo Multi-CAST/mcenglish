@@ -2404,7 +2404,7 @@ english	kent01	0137	made	make.PST	v:pred	v		pred
 english	kent01	0137	fun	fun	np:p	np		p		
 english	kent01	0137	of	of	adp	adp				
 english	kent01	0137	our	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	2165	
-english	kent01	0137	life	life	np:obl	np		obl	2173	
+english	kent01	0137	life	life	np:obl	np		obl	2173	bridging
 english	kent01	0138	#	#	##	##				
 english	kent01	0138	we	1PL	pro.1:a	pro	1	a	2000	
 english	kent01	0138	enjoy-ed	enjoy-PST	v:pred	v		pred		
@@ -2967,7 +2967,7 @@ english	kent01	0190	#	#	##	##
 english	kent01	0190	0	0_father	0.h:a	0	h	a	2003	
 english	kent01	0190	get	get.INF	v:pred	v		pred		
 english	kent01	0190	a	a	ln_deti	ln_deti				
-english	kent01	0190	pony	pony	np:p	np		p	2196	
+english	kent01	0190	pony	pony	np:p	np		p	2196	new
 english	kent01	0190	in	in	rv	rv				
 english	kent01	0190	#	#	##	##				
 english	kent01	0190	0	0_father	0.h:s	0	h	s	2003	

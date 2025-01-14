@@ -483,7 +483,7 @@ english	kent03	0298	its	3SG.N.POSS	ln_pro:poss	ln_pro		poss	4320
 english	kent03	0298	tongue	tongue	np:l	np		l	4322	bridging
 english	kent03	0298	they	3PL	nc	nc				
 english	kent03	0298	='s	=be.PRS.3SG	nc	nc				
-english	kent03	0298	#	#	#rc:p	#rc		p	4323	
+english	kent03	0298	#	#	#rc:p	#rc		p	4323	new
 english	kent03	0298	what	what	intrg_other:p	intrg_other		p		
 english	kent03	0298	they	3PL	pro.h:a	pro	h	a		
 english	kent03	0298	call	call.PRS	v:pred	v		pred		
@@ -768,7 +768,7 @@ english	kent03	0311	#	#	##	##
 english	kent03	0311	0	0_you	gen_0.2:a	gen_0	2	a		
 english	kent03	0311	put	put.PRS	v:pred	v		pred		
 english	kent03	0311	a	a	ln_deti	ln_deti				
-english	kent03	0311	little	little	np:p	np		p	4336	bridging
+english	kent03	0311	little	little	np:p	np		p	4336	
 english	kent03	0311	on	on	adp	adp				
 english	kent03	0311	the	the	ln_det	ln_det				
 english	kent03	0311	horse='s	horse=POSS	ln_np:poss	ln_np		poss	4338	bridging
@@ -1164,7 +1164,7 @@ english	kent03	0341	and	and	other	other
 english	kent03	0341	0	0_they	0.h:a	0	h	a	4347	
 english	kent03	0341	got	get.PST	v:pred	v		pred		
 english	kent03	0341	the	the	ln_det	ln_det				
-english	kent03	0341	bone	bone	np:p	np		p	4357	
+english	kent03	0341	bone	bone	np:p	np		p	4357	bridging
 english	kent03	0341	out	out	adp	adp				
 english	kent03	0341	of	of	adp	adp				
 english	kent03	0341	him	3SG.M.OBL	pro:obl	pro		obl	4352	
@@ -1399,7 +1399,7 @@ english	kent03	0358	you	2SG	gen_pro.2:a	gen_pro	2	a
 english	kent03	0358	got	get.PST	v:pred	v		pred		
 english	kent03	0358	it	3SG.N.OBL	pro:p	pro		p		
 english	kent03	0358	#	#	##	##				
-english	kent03	0358	it	3SG.N	pro:s	pro		s	4369	bridging
+english	kent03	0358	it	3SG.N	pro:s	pro		s	4369	
 english	kent03	0358	was	be.PST.3SG	cop	cop				
 english	kent03	0358	a	a	ln_deti	ln_deti				
 english	kent03	0358	horse colt	horse_colt	np:pred	np		pred		
@@ -1438,7 +1438,7 @@ english	kent03	0360	you	2SG	gen_pro.2:a	gen_pro	2	a
 english	kent03	0360	='d	=have.PST	=lv_aux	=lv_aux				
 english	kent03	0360	got	get.PTCP.PST	v:pred	v		pred		
 english	kent03	0360	the	the	ln_det	ln_det				
-english	kent03	0360	filly='s	filly=POSS	ln_np:poss	ln_np		poss	4368	
+english	kent03	0360	filly='s	filly=POSS	ln_np:poss	ln_np		poss	4368	bridging
 english	kent03	0360	spearmint	spearmint	np:p	np		p	4371	bridging
 english	kent03	0360	%	%	%	%				
 english	kent03	0360	he	3SG.M	nc	nc				
@@ -1907,7 +1907,7 @@ english	kent03	0381	long	long	other:pred	other		pred
 english	kent03	0381	#	#	#ac	#ac				
 english	kent03	0381	before	before	adp	adp				
 english	kent03	0381	the	the	ln_det	ln_det				
-english	kent03	0381	other-s	other-PL	np:dt_a	np		dt_a	4396	
+english	kent03	0381	other-s	other-PL	np:dt_a	np		dt_a	4396	bridging
 english	kent03	0381	they	3PL	pro:a	pro		a	4396	
 english	kent03	0381	done	do.PTCP.PST	v:pred	v		pred		
 english	kent03	0381	the	the	ln_det	ln_det				
@@ -2248,7 +2248,7 @@ english	kent03	0402	broke	break.PST	v:pred	v		pred
 english	kent03	0402	in	in	rv	rv				
 english	kent03	0402	some	some	ln_detq	ln_detq				
 english	kent03	0402	red	red	ln_adj	ln_adj				
-english	kent03	0402	one-s	one-PL	num_np:p	num_np		p	4420	
+english	kent03	0402	one-s	one-PL	num_np:p	num_np		p	4420	bridging
 english	kent03	0402	two	two	ln_num	ln_num				
 english	kent03	0402	big	big	ln_adj	ln_adj				
 english	kent03	0402	old	old	ln_adj	ln_adj				
@@ -3086,7 +3086,7 @@ english	kent03	0446	='d	=would	=lv_aux	=lv_aux
 english	kent03	0446	just	just	other	other				
 english	kent03	0446	give	give.INF	v:pred	v		pred		
 english	kent03	0446	='em	=3PL.OBL	=pro:p	=pro		p	4185	
-english	kent03	0446	#	#	#rc:p2	#rc		p2	4458	bridging
+english	kent03	0446	#	#	#rc:p2	#rc		p2	4458	
 english	kent03	0446	what	what	intrg_other:p	intrg_other		p		
 english	kent03	0446	they	3PL	pro:a	pro		a	4185	
 english	kent03	0446	='d	=have.PST	=lv_aux	=lv_aux				
@@ -3180,7 +3180,7 @@ english	kent03	0450	0	0_jobs	f0:p	f0		p	4464
 english	kent03	0451	#	#	##	##				
 english	kent03	0451	0	0_you	gen_0.2:a	gen_0	2	a		
 english	kent03	0451	cut	cut.PST	v:pred	v		pred		
-english	kent03	0451	his	3SG.M.POSS	ln_pro:poss	ln_pro		poss	4463	
+english	kent03	0451	his	3SG.M.POSS	ln_pro:poss	ln_pro		poss	4463	bridging
 english	kent03	0451	chaff	chaff	np:p	np		p	4465	bridging
 english	kent03	0451	up	up	rv	rv				
 english	kent03	0451	#	#	##	##				
@@ -3644,7 +3644,7 @@ english	kent03	0474	#	#	##	##
 english	kent03	0474	and	and	other	other				
 english	kent03	0474	uh	uh	other	other				
 english	kent03	0474	the	the	ln_det	ln_det				
-english	kent03	0474	cart-s	cart-PL	np:s	np		s	4483	bridging
+english	kent03	0474	cart-s	cart-PL	np:s	np		s	4483	
 english	kent03	0474	and	and	rn	rn				
 english	kent03	0474	wagon-s	wagon-PL	rn_np	rn_np			4484	bridging
 english	kent03	0474	was	be.PST.3SG	lv_aux	lv_aux				
@@ -4559,7 +4559,7 @@ english	kent03	0511	I	1SG	pro.1:a	pro	1	a	4000
 english	kent03	0511	don't	do.PRS.NEG	lv_aux	lv_aux				
 english	kent03	0511	think	think.INF	v:pred	v		pred		
 english	kent03	0511	#	#	#cc:p	#cc		p		
-english	kent03	0511	they	3PL	pro:s	pro		s	4546	bridging
+english	kent03	0511	they	3PL	pro:s	pro		s	4546	
 english	kent03	0511	='re	=be.PRS	=cop	=cop				
 english	kent03	0511	quite	quite	other	other				
 english	kent03	0511	so	so	other	other				

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="english">
   <text t_name="kent03" annotators="Nils Schiborr" speaker="EN03">
-   <file f_name="mc_english_kent03_b" audio="mc_english_kent03_b.wav" updated="2020-10-05">
+   <file f_name="mc_english_kent03_b" audio="mc_english_kent03_b.wav" updated="2022-07-25">
     <unit uid="0279" start_time="0" end_time="9787">
      <utterance_id>english_kent03_0279</utterance_id>
      <utterance>I remember when I was a boy at Cranbrook, they told me one day to carry some hop poles down to the baker, Mr Dinker, down in Cranbrook.</utterance>
@@ -2713,6 +2713,7 @@
        <gloss>#</gloss>
        <graid>#rc:p</graid>
        <refind>4323</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>what</gword>
@@ -4303,7 +4304,6 @@
        <gloss>little</gloss>
        <graid>np:p</graid>
        <refind>4336</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>on</gword>
@@ -6587,6 +6587,7 @@
        <gloss>bone</gloss>
        <graid>np:p</graid>
        <refind>4357</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>out</gword>
@@ -7933,7 +7934,6 @@
        <gloss>3SG.N</gloss>
        <graid>pro:s</graid>
        <refind>4369</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>was</gword>
@@ -8148,6 +8148,7 @@
        <gloss>filly=POSS</gloss>
        <graid>ln_np:poss</graid>
        <refind>4368</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>spearmint</gword>
@@ -10757,6 +10758,7 @@
        <gloss>other-PL</gloss>
        <graid>np:dt_a</graid>
        <refind>4396</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>they</gword>
@@ -12702,6 +12704,7 @@
        <gloss>one-PL</gloss>
        <graid>num_np:p</graid>
        <refind>4420</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>two</gword>
@@ -17424,7 +17427,6 @@
        <gloss>#</gloss>
        <graid>#rc:p2</graid>
        <refind>4458</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>what</gword>
@@ -17952,6 +17954,7 @@
        <gloss>3SG.M.POSS</gloss>
        <graid>ln_pro:poss</graid>
        <refind>4463</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>chaff</gword>
@@ -20523,7 +20526,6 @@
        <gloss>cart-PL</gloss>
        <graid>np:s</graid>
        <refind>4483</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>and</gword>
@@ -25617,7 +25619,6 @@
        <gloss>3PL</gloss>
        <graid>pro:s</graid>
        <refind>4546</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>='re</gword>

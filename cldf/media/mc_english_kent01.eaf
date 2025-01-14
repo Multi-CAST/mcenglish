@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2021-03-03T00:16:27+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2022-07-25T16:31:53+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_english_kent01.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c2cbd733-e841-4ff4-af69-298eb25e5ea1</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">46826</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">46828</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -87254,6 +87254,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46827" ANNOTATION_REF="a38996">
+                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a44142" ANNOTATION_REF="a39078">
                 <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -87360,6 +87365,11 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a44610" ANNOTATION_REF="a39546">
+                <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46828" ANNOTATION_REF="a39559">
                 <ANNOTATION_VALUE>new</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>

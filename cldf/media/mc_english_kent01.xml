@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="english">
   <text t_name="kent01" annotators="Nils Schiborr" speaker="EN01">
-   <file f_name="mc_english_kent01" audio="mc_english_kent01.wav" updated="2021-03-03">
+   <file f_name="mc_english_kent01" audio="mc_english_kent01.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="3050">
      <utterance_id>english_kent01_0001</utterance_id>
      <utterance>Yes, well, my name's Alistair Crown.</utterance>
@@ -13775,6 +13775,7 @@
        <gloss>life</gloss>
        <graid>np:obl</graid>
        <refind>2173</refind>
+       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -17093,6 +17094,7 @@
        <gloss>pony</gloss>
        <graid>np:p</graid>
        <refind>2196</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>in</gword>

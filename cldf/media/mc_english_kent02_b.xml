@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="english">
   <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-   <file f_name="mc_english_kent02_b" audio="mc_english_kent02_b.wav" updated="2022-01-08">
+   <file f_name="mc_english_kent02_b" audio="mc_english_kent02_b.wav" updated="2022-07-25">
     <unit uid="0419" start_time="0" end_time="3317">
      <utterance_id>english_kent02_0419</utterance_id>
      <utterance>[INTERVIEWER] How old were, were you when you moved to the farm at Molash?</utterance>
@@ -657,6 +657,7 @@
        <gloss>four</gloss>
        <graid>num_np:p</graid>
        <refind>3295</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>or</gword>
@@ -2076,6 +2077,7 @@
        <gloss>horse-PL</gloss>
        <graid>np:obl</graid>
        <refind>3312</refind>
+       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -6165,7 +6167,7 @@
        <gword>he</gword>
        <gloss>3SG.M</gloss>
        <graid>pro.h:s</graid>
-       <refind>3355</refind>
+       <refind>3307</refind>
       </segment>
       <segment>
        <gword>used</gword>
@@ -6239,7 +6241,7 @@
        <gword>lambing</gword>
        <gloss>lambing</gloss>
        <graid>np:p</graid>
-       <refind>3356</refind>
+       <refind>3355</refind>
        <isnref>bridging</isnref>
       </segment>
      </annotations>
@@ -8325,6 +8327,7 @@
        <gloss>ten</gloss>
        <graid>num_np:p</graid>
        <refind>3373</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>in</gword>
@@ -9265,6 +9268,7 @@
        <gloss>drill</gloss>
        <graid>np:p</graid>
        <refind>3386</refind>
+       <isnref>new</isnref>
       </segment>
      </annotations>
     </unit>
@@ -12994,7 +12998,6 @@
        <gloss>pig-PL</gloss>
        <graid>np:other</graid>
        <refind>3416</refind>
-       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -14017,6 +14020,7 @@
        <gloss>sheep.PL</gloss>
        <graid>np:other</graid>
        <refind>3415</refind>
+       <isnref>bridging</isnref>
       </segment>
      </annotations>
     </unit>
@@ -38576,6 +38580,7 @@
        <gloss>pound</gloss>
        <graid>np:p</graid>
        <refind>3658</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>in</gword>

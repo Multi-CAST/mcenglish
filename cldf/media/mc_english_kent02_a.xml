@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="english">
   <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-   <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2021-02-03">
+   <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="2310">
      <utterance_id>english_kent02_0001</utterance_id>
      <utterance>[INTERVIEWER] Okay. We're on.</utterance>
@@ -5953,6 +5953,7 @@
        <gloss>war</gloss>
        <graid>np:other</graid>
        <refind>3061</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>wadn't there</gword>
@@ -14101,7 +14102,6 @@
        <gloss>fair-PL</gloss>
        <graid>np:s</graid>
        <refind>3130</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>were</gword>
@@ -15758,6 +15758,7 @@
        <gloss>PROX.PL</gloss>
        <graid>nc_np</graid>
        <refind>3147</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>gypsies'</gword>
@@ -28550,6 +28551,7 @@
        <gloss>man</gloss>
        <graid>np.h:p</graid>
        <refind>3248</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>there</gword>

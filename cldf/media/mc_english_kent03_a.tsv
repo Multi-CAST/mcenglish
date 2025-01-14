@@ -1646,7 +1646,7 @@ english	kent03	0092	I	1SG	pro.1:a	pro	1	a	4000
 english	kent03	0092	keep	keep.PRS	lv_aux	lv_aux				
 english	kent03	0092	getting	get.PTCP.PRS	v:pred	v		pred		
 english	kent03	0092	wet	wet	ln_adj	ln_adj				
-english	kent03	0092	foot	foot	np:p	np		p	4101	
+english	kent03	0092	foot	foot	np:p	np		p	4101	bridging
 english	kent03	0093	#	#	##	##				
 english	kent03	0093	he	3SG.M	pro.h:s_ds	pro	h	s_ds	4090	
 english	kent03	0093	said	say.PST	v:pred	v		pred		
@@ -2348,7 +2348,7 @@ english	kent03	0125	did-n't	do.PST-NEG	lv_aux	lv_aux
 english	kent03	0125	know	know.INF	v:pred	v		pred		
 english	kent03	0125	nothing	nothing	indef_other:p	indef_other		p		
 english	kent03	0125	about	about	adp	adp				
-english	kent03	0125	='em	=3PL.OBL	=pro:obl	=pro		obl	4127	
+english	kent03	0125	='em	=3PL.OBL	=pro:obl	=pro		obl	4127	bridging
 english	kent03	0125	#	#	##	##				
 english	kent03	0125	I	1SG	pro.1:s	pro	1	s	4000	
 english	kent03	0125	='d	=aux	=lv_aux	=lv_aux				
@@ -2409,7 +2409,7 @@ english	kent03	0128	you	2SG	pro.2:s	pro	2	s	4000
 english	kent03	0128	go	go.PRS	v:pred	v		pred		
 english	kent03	0128	round	around	rv	rv				
 english	kent03	0128	to	to	adp	adp				
-english	kent03	0128	George Head	George_Head	pn_np.h:g	pn_np	h	g	4128	new
+english	kent03	0128	George Head	George_Head	pn_np.h:g	pn_np	h	g	4128	
 english	kent03	0128	#	#	##	##				
 english	kent03	0128	he	3SG.M	pro.h:s_ds	pro	h	s_ds	4089	
 english	kent03	0128	said	say.PST	v:pred	v		pred		
@@ -2813,7 +2813,7 @@ english	kent03	0148	='d	=have.PST	=lv_aux	=lv_aux
 english	kent03	0148	got	get.PTCP.PST	v:pred	v		pred		
 english	kent03	0148	an	an	ln_deti	ln_deti				
 english	kent03	0148	old	old	ln_adj	ln_adj				
-english	kent03	0148	horse	horse	np:p	np		p	4153	
+english	kent03	0148	horse	horse	np:p	np		p	4153	new
 english	kent03	0148	bi	by	rn_adp	rn_adp				
 english	kent03	0148	the	the	rn_det	rn_det				
 english	kent03	0148	name	name	rn_np	rn_np				

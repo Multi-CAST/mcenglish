@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="english">
   <text t_name="devon01" annotators="Nils Schiborr" speaker="EN02">
-   <file f_name="mc_english_devon01" audio="mc_english_devon01.wav" updated="2020-10-05">
+   <file f_name="mc_english_devon01" audio="mc_english_devon01.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="1981">
      <utterance_id>english_devon01_0001</utterance_id>
      <utterance>[INTERVIEWER] So you were saying, you were born in Moreleigh?</utterance>
      <utterance_translation>[INTERVIEWER] So you were saying you were born in Moreleigh?</utterance_translation>
      <annotations>
       <segment>
-       <gword>[INT]</gword>
-       <gloss>[INT]</gloss>
-       <graid>[INT]</graid>
-      </segment>
-      <segment>
        <gword>#</gword>
        <gloss>#</gloss>
        <graid>#nc</graid>
+      </segment>
+      <segment>
+       <gword>[INT]</gword>
+       <gloss>[INT]</gloss>
+       <graid>[INT]</graid>
       </segment>
       <segment>
        <gword>so</gword>
@@ -1346,6 +1346,7 @@
        <gloss>side</gloss>
        <graid>np:s</graid>
        <refind>1023</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>#</gword>
@@ -4023,7 +4024,6 @@
        <gloss>pupil-PL</gloss>
        <graid>np.h:p</graid>
        <refind>1057</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>at</gword>
@@ -9441,6 +9441,7 @@
        <gloss>field</gloss>
        <graid>np:l</graid>
        <refind>1116</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>#</gword>
@@ -15000,6 +15001,7 @@
        <gloss>foreman</gloss>
        <graid>np.h:p</graid>
        <refind>1195</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>#</gword>
@@ -16531,7 +16533,6 @@
        <gloss>job</gloss>
        <graid>np:s</graid>
        <refind>1204</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>finish-ed</gword>
@@ -16596,6 +16597,7 @@
        <gloss>1PL</gloss>
        <graid>pro.1:a</graid>
        <refind>1203</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>had</gword>
@@ -22259,6 +22261,7 @@
        <gloss>#</gloss>
        <graid>#rc:obl</graid>
        <refind>1279</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>what</gword>
@@ -24159,6 +24162,7 @@
        <gloss>keel-PL</gloss>
        <graid>np:p</graid>
        <refind>1307</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>new</gword>

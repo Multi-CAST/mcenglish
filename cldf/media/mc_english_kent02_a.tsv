@@ -1025,7 +1025,7 @@ english	kent02	0071	0	0_that	0:s	0		s
 english	kent02	0071	in	in	adp	adp				
 english	kent02	0071	the	the	ln_det	ln_det				
 english	kent02	0071	last	last	ln_adj	ln_adj				
-english	kent02	0071	war	war	np:other	np		other	3061	
+english	kent02	0071	war	war	np:other	np		other	3061	new
 english	kent02	0071	wadn't there	TAG	other	other				
 english	kent02	0072	[INT]	[INT]	[INT]	[INT]				
 english	kent02	0072	hhm	hhm	nc	nc				
@@ -2457,7 +2457,7 @@ english	kent02	0153	five	five	rn_num	rn_num
 english	kent02	0153	week-s	week-PL	rn_np	rn_np				
 english	kent02	0153	them	DIST.PL	ln_dem	ln_dem				
 english	kent02	0153	four	four	ln_num	ln_num				
-english	kent02	0153	fair-s	fair-PL	np:s	np		s	3130	bridging
+english	kent02	0153	fair-s	fair-PL	np:s	np		s	3130	
 english	kent02	0153	were	be.PST	cop	cop				
 english	kent02	0154	#	#	##	##				
 english	kent02	0154	and	and	other	other				
@@ -2747,7 +2747,7 @@ english	kent02	0169	off	off	rv	rv
 english	kent02	0170	hhm	hhm	nc	nc				
 english	kent02	0171	[INT]	[INT]	[INT]	[INT]				
 english	kent02	0171	were	be.PST	nc	nc				
-english	kent02	0171	these	PROX.PL	nc_np	nc_np			3147	
+english	kent02	0171	these	PROX.PL	nc_np	nc_np			3147	bridging
 english	kent02	0171	gypsies'	gypsy.PL.POSS	nc_np.h	nc_np	h		3003	
 english	kent02	0171	stand-s	stand-PL	nc	nc				
 english	kent02	0171	or	or	nc	nc				
@@ -4950,7 +4950,7 @@ english	kent02	0340	and	and	other	other
 english	kent02	0340	I	1SG	pro.1:a	pro	1	a	3000	
 english	kent02	0340	see	see.PST	v:pred	v		pred		
 english	kent02	0340	a	a	ln_deti	ln_deti				
-english	kent02	0340	man	man	np.h:p	np	h	p	3248	
+english	kent02	0340	man	man	np.h:p	np	h	p	3248	new
 english	kent02	0340	there	there	other:l	other		l	3247	
 english	kent02	0340	#	#	#rc	#rc				
 english	kent02	0340	I	1SG	pro.1:a	pro	1	a	3000	
