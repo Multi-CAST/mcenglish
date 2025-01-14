@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="kent01" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent01" audio="mc_english_kent01.wav" updated="2019-09-06">
+            <file f_name="mc_english_kent01" audio="mc_english_kent01.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="0" end_time="3050">
                     <utterance_id>english_kent01_0001</utterance_id>
                     <utterance>Yes, well, my name's Alistair Crown.</utterance>
@@ -28,7 +28,7 @@
                             <gloss>1SG.POSS</gloss>
                             <graid>ln_pro.1:poss</graid>
                             <refind>2000</refind>
-                            <isnref>bridging</isnref>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>name</gword>
@@ -2427,7 +2427,7 @@
                             <gloss>2SG</gloss>
                             <graid>nc_pro.2</graid>
                             <refind>2001</refind>
-                            <isnref>bridging</isnref>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>know</gword>
@@ -8994,7 +8994,7 @@
                         <segment>
                             <gword>I</gword>
                             <gloss>1SG</gloss>
-                            <graid>pro.h:s_ds</graid>
+                            <graid>pro.1:s_ds</graid>
                             <refind>2000</refind>
                         </segment>
                         <segment>
@@ -10155,7 +10155,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>2119</refind>
                         </segment>
                         <segment>
@@ -11297,7 +11297,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>2143</refind>
                         </segment>
                         <segment>
@@ -11758,7 +11758,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>2119</refind>
                         </segment>
                         <segment>
@@ -16170,7 +16170,7 @@
                 <unit uid="0179" start_time="915223" end_time="923029">
                     <utterance_id>english_kent01_0179</utterance_id>
                     <utterance>She'd got quite a bit of money, and just like my wife: don't let... [UNINTELLIGIBLE]</utterance>
-                    <utterance_translation>She'd got quite a bit of money, and just like my wife: don't let... [UNINTELLIGIBLE]</utterance_translation>
+                    <utterance_translation>She'd got quite a bit of money, and just like my wife: Don't let... [UNINTELLIGIBLE]</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -16241,7 +16241,7 @@
                         <segment>
                             <gword>my</gword>
                             <gloss>1SG.POSS</gloss>
-                            <graid>nc_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>2000</refind>
                         </segment>
                         <segment>
@@ -17027,8 +17027,8 @@
                 </unit>
                 <unit uid="0190" start_time="966537" end_time="971492">
                     <utterance_id>english_kent01_0190</utterance_id>
-                    <utterance>My father'd slip up, get a pony in, go off and have a look at this pony.</utterance>
-                    <utterance_translation>My father'd slip up, get a pony in, go off and have a look at this pony.</utterance_translation>
+                    <utterance>My father'd slip up, get a pony in, go off, and have a look at this pony.</utterance>
+                    <utterance_translation>My father'd slip up, get a pony in, go off, and have a look at this pony.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="kent03" annotators="Nils Schiborr" speaker="EN03">
-            <file f_name="mc_english_kent03_b" audio="mc_english_kent03_b.wav" updated="2019-09-06">
+            <file f_name="mc_english_kent03_b" audio="mc_english_kent03_b.wav" updated="2020-10-05">
                 <unit uid="0279" start_time="0" end_time="9787">
                     <utterance_id>english_kent03_0279</utterance_id>
                     <utterance>I remember when I was a boy at Cranbrook, they told me one day to carry some hop poles down to the baker, Mr Dinker, down in Cranbrook.</utterance>
@@ -4369,7 +4369,7 @@
                         <segment>
                             <gword>your</gword>
                             <gloss>2SG.POSS</gloss>
-                            <graid>gen_pro.2:poss</graid>
+                            <graid>ln_gen_pro.2:poss</graid>
                         </segment>
                         <segment>
                             <gword>clothes</gword>
@@ -23204,7 +23204,7 @@
                             <gloss>0_chandelier</gloss>
                             <graid>f0:s</graid>
                             <refind>4521</refind>
-                            <isnref>bridiging</isnref>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>hung</gword>
@@ -23429,7 +23429,7 @@
                         </segment>
                         <segment>
                             <gword>ourselves</gword>
-                            <gloss>ourselves</gloss>
+                            <gloss>1PL.REFL</gloss>
                             <graid>refl.1:other</graid>
                             <refind>4513</refind>
                         </segment>
@@ -28129,11 +28129,6 @@
                             <graid>np:other</graid>
                         </segment>
                         <segment>
-                            <gword>#</gword>
-                            <gloss>#</gloss>
-                            <graid>#rc</graid>
-                        </segment>
-                        <segment>
                             <gword>there</gword>
                             <gloss>there</gloss>
                             <graid>other</graid>
@@ -28185,9 +28180,9 @@
                             <isnref>bridging</isnref>
                         </segment>
                         <segment>
-                            <gword>%</gword>
-                            <gloss>%</gloss>
-                            <graid>%</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>we</gword>
@@ -30626,7 +30621,7 @@
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
                             <graid>pro.h:a</graid>
-                            <refind>4606</refind>
+                            <refind>4604</refind>
                         </segment>
                         <segment>
                             <gword>never</gword>

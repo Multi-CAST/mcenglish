@@ -13,7 +13,7 @@ english	kent02	0003	='re	=be.PRS	nc	nc
 english	kent02	0003	on	on	nc	nc				
 english	kent02	0003	now	now	nc	nc				
 english	kent02	0004	#	#	##	##				
-english	kent02	0004	I	1SG	pro.1:other	pro	1	other	3000	
+english	kent02	0004	I	1SG	pro.1:other	pro	1	other	3000	unused
 english	kent02	0004	say	say.PRS	other	other				
 english	kent02	0004	there	there	other	other				
 english	kent02	0004	was	be.PST.3SG	other:predex	other		predex		
@@ -82,7 +82,7 @@ english	kent02	0006	with	with	adp	adp
 english	kent02	0006	%	%	%	%				
 english	kent02	0006	you	2SG	nc	nc				
 english	kent02	0006	see	see.PRS	nc	nc				
-english	kent02	0006	you	2SG	pro.2:a	pro	2	a	3001	
+english	kent02	0006	you	2SG	pro.2:a	pro	2	a	3001	unused
 english	kent02	0006	='ve	=have.PRS	=lv_aux	=lv_aux				
 english	kent02	0006	seen	see.PTCP.PST	v:pred	v		pred		
 english	kent02	0006	them	3PL.OBL	pro:p	pro		p	3006	
@@ -369,7 +369,7 @@ english	kent02	0026	don't	do.NEG	lv_aux	lv_aux
 english	kent02	0026	want	want.INF	v:pred	v		pred		
 english	kent02	0026	that	DIST.SG	dem_pro:p	dem_pro		p	3029	
 english	kent02	0027	#	#	##	##				
-english	kent02	0027	he	3SG.M	pro.h:s_ds	pro	h	s_ds	3027	
+english	kent02	0027	he	3SG.M	pro.h:s_ds	pro	h	s_ds	3026	
 english	kent02	0027	says	say.PRS.3SG	v:pred	v		pred		
 english	kent02	0027	#	#	##ds	##ds				
 english	kent02	0027	0	0_father	imp_0.2:a	imp_0	2	a	3027	
@@ -1373,7 +1373,7 @@ english	kent02	0095	poultry	poultry	np:p	np		p	3085
 english	kent02	0095	%	%	%	%				
 english	kent02	0095	I	1SG	nc_pro.1	nc_pro	1		3000	
 english	kent02	0095	had	have.PST	nc	nc				
-english	kent02	0095	Father	Father	pn_pro.1:a	pn_pro	1	a	3027	
+english	kent02	0095	Father	Father	pn_pro.h:a	pn_pro	h	a	3027	
 english	kent02	0095	used	used	lv_aux	lv_aux				
 english	kent02	0095	to	to	lv	lv				
 english	kent02	0095	give	give.INF	v:pred	v		pred		
@@ -1742,10 +1742,10 @@ english	kent02	0122	how	how	nc	nc
 english	kent02	0122	many	many	nc	nc				
 english	kent02	0122	men	man.PL	nc	nc				
 english	kent02	0122	just	just	nc	nc				
-english	kent02	0122	yourself	2SG.REFL	nc_pro.2	nc_pro	2		3000	
+english	kent02	0122	yourself	2SG.REFL	nc_refl.2	nc_refl	2		3000	
 english	kent02	0123	#	#	#nc	#nc				
 english	kent02	0123	just	just	nc	nc				
-english	kent02	0123	miself	1SG.REFL	nc_pro.1	nc_pro	1		3000	
+english	kent02	0123	miself	1SG.REFL	nc_refl.1	nc_refl	1		3000	
 english	kent02	0124	#	#	##	##				
 english	kent02	0124	I	1SG	nc_pro.1	nc_pro	1		3000	
 english	kent02	0124	used	used	nc	nc				
@@ -2563,7 +2563,7 @@ english	kent02	0158	about	about	adp	adp
 english	kent02	0158	four	four	ln_num	ln_num				
 english	kent02	0158	inch-es	inch-PL	np:other	np		other		
 english	kent02	0158	across	across	rn_adp	rn_adp				
-english	kent02	0158	='em	=3PL.OBL	=pro:p	=pro		p	3138	
+english	kent02	0158	='em	=3PL.OBL	=pro:other	=pro		other	3138	
 english	kent02	0158	three	three	rn_num	rn_num				
 english	kent02	0158	inch-es	inch-PL	rn_np	rn_np				
 english	kent02	0158	#	#	##	##				
@@ -3017,7 +3017,7 @@ english	kent02	0194	#	#	##	##
 english	kent02	0194	and	and	other	other				
 english	kent02	0194	0	0_father	0.h:a	0	h	a	3027	
 english	kent02	0194	bring	bring.INF	v:pred	v		pred		
-english	kent02	0194	0	0_meat	np:p	np		p	3156	
+english	kent02	0194	0	0_meat	0:p	0		p	3156	
 english	kent02	0194	home	home	other:g	other		g		
 english	kent02	0194	#	#	##	##				
 english	kent02	0194	he	3SG.M	pro.h:s	pro	h	s	3027	
@@ -5938,7 +5938,7 @@ english	kent02	0410	no	no	other	other
 english	kent02	0410	more	more	other	other				
 english	kent02	0411	#	#	##neg	##neg				
 english	kent02	0411	well	well	other	other				
-english	kent02	0411	0	0_I	pro.1:s	pro	1	s	3000	
+english	kent02	0411	0	0_I	0.1:s	0	1	s	3000	
 english	kent02	0411	never	never	other	other				
 english	kent02	0411	heard	hear.PST	v:pred	v		pred		
 english	kent02	0411	no	no	other	other				

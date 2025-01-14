@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-09-06T07:50:03+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-09-14T20:38:27+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_english_kent01.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c2cbd733-e841-4ff4-af69-298eb25e5ea1</PROPERTY>
@@ -3295,7 +3295,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a864" ANNOTATION_REF="a383">
-                <ANNOTATION_VALUE>My father'd slip up, get a pony in, go off and have a look at this pony.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>My father'd slip up, get a pony in, go off, and have a look at this pony.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -62611,7 +62611,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26759" ANNOTATION_REF="a22448">
-                <ANNOTATION_VALUE>pro.h:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.1:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -63646,7 +63646,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32172" ANNOTATION_REF="a31973">
-                <ANNOTATION_VALUE>pro.1:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.1:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -64636,7 +64636,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32205" ANNOTATION_REF="a32006">
-                <ANNOTATION_VALUE>pro.h:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.h:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -65051,7 +65051,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32218" ANNOTATION_REF="a32019">
-                <ANNOTATION_VALUE>pro.1:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.1:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68866,7 +68866,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27828" ANNOTATION_REF="a23517">
-                <ANNOTATION_VALUE>nc_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86380,7 +86380,7 @@
     <TIER ANNOTATOR="Nils Schiborr" LINGUISTIC_TYPE_REF="symbolic association" PARENT_REF="refind" PARTICIPANT="EN01" TIER_ID="isnref">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41662" ANNOTATION_REF="a36598">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>unused</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -86590,7 +86590,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46779" ANNOTATION_REF="a37016">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>unused</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -88812,7 +88812,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36417" ANNOTATION_REF="a853">
-                <ANNOTATION_VALUE>She'd got quite a bit of money, and just like my wife: don't let... [UNINTELLIGIBLE]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She'd got quite a bit of money, and just like my wife: Don't let... [UNINTELLIGIBLE]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -88867,7 +88867,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36428" ANNOTATION_REF="a864">
-                <ANNOTATION_VALUE>My father'd slip up, get a pony in, go off and have a look at this pony.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>My father'd slip up, get a pony in, go off, and have a look at this pony.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

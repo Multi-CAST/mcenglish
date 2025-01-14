@@ -780,7 +780,7 @@ english	kent03	0311	a	a	ln_deti	ln_deti
 english	kent03	0311	little	little	ln_adj	ln_adj				
 english	kent03	0311	bit	bit	np:appos	np		appos	4340	bridging
 english	kent03	0311	on	on	adp	adp				
-english	kent03	0311	your	2SG.POSS	gen_pro.2:poss	gen_pro	2	poss		
+english	kent03	0311	your	2SG.POSS	ln_gen_pro.2:poss	ln_gen_pro	2	poss		
 english	kent03	0311	clothes	clothes	np:g	np		g	4341	new
 english	kent03	0311	somewhere	somewhere	other	other				
 english	kent03	0311	#	#	##	##				
@@ -4123,7 +4123,7 @@ english	kent03	0494	big	big	rn_adj	rn_adj
 english	kent03	0494	old	old	rn_adj	rn_adj				
 english	kent03	0494	candle thing	candle_thing	rn_np	rn_np				
 english	kent03	0494	#	#	#	#				
-english	kent03	0494	0	0_chandelier	f0:s	f0		s	4521	bridiging
+english	kent03	0494	0	0_chandelier	f0:s	f0		s	4521	bridging
 english	kent03	0494	hung	hang.PST	vother:pred	vother		pred		
 english	kent03	0494	up	up	rv	rv				
 english	kent03	0494	in	in	adp	adp				
@@ -4163,7 +4163,7 @@ english	kent03	0496	to	to	lv	lv
 english	kent03	0496	handle	handle.INF	v:pred	v		pred		
 english	kent03	0496	the	the	ln_det	ln_det				
 english	kent03	0496	bell	bell	np:p	np		p	4524	bridging
-english	kent03	0496	ourselves	ourselves	refl.1:other	refl	1	other	4513	
+english	kent03	0496	ourselves	1PL.REFL	refl.1:other	refl	1	other	4513	
 english	kent03	0496	and	and	other	other				
 english	kent03	0497	#	#	##	##				
 english	kent03	0497	he	3SG.M	pro.h:a	pro	h	a	4519	
@@ -5015,7 +5015,6 @@ english	kent03	0529	%	%	%	%
 english	kent03	0529	#	#	#ac	#ac				
 english	kent03	0529	every	every	ln_adj	ln_adj				
 english	kent03	0529	time	time	np:other	np		other		
-english	kent03	0529	#	#	#rc	#rc				
 english	kent03	0529	there	there	other	other				
 english	kent03	0529	was	be.PST.3SG	other:predex	other		predex		
 english	kent03	0529	a	a	ln_deti	ln_deti				
@@ -5025,7 +5024,7 @@ english	kent03	0529	they	3PL	pro.h:a	pro	h	a	4572	bridging
 english	kent03	0529	took	take.PST	v:pred	v		pred		
 english	kent03	0529	a	a	ln_deti	ln_deti				
 english	kent03	0529	place	place	np:p	np		p	4573	bridging
-english	kent03	0529	%	%	%	%				
+english	kent03	0529	#	#	##	##				
 english	kent03	0529	we	1PL	pro.1:a	pro	1	a	4549	
 english	kent03	0529	used	used	lv_aux	lv_aux				
 english	kent03	0529	to	to	lv	lv				
@@ -5456,7 +5455,7 @@ english	kent03	0553	go	go.INF	v:pred	v		pred
 english	kent03	0553	to	to	adp	adp				
 english	kent03	0553	church	church	np:g	np		g		
 english	kent03	0553	%	%	%	%				
-english	kent03	0553	he	3SG.M	pro.h:a	pro	h	a	4606	
+english	kent03	0553	he	3SG.M	pro.h:a	pro	h	a	4604	
 english	kent03	0553	never	never	other	other				
 english	kent03	0553	gave	give.PST	v:pred	v		pred		
 english	kent03	0553	='em	=3PL.OBL	=pro.h:p	=pro	h	p	4606	

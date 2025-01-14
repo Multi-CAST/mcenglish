@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2019-09-06">
+            <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2020-10-05">
                 <unit uid="0001" start_time="0" end_time="2310">
                     <utterance_id>english_kent02_0001</utterance_id>
                     <utterance>[INTERVIEWER] Okay. We're on.</utterance>
@@ -104,6 +104,7 @@
                             <gloss>1SG</gloss>
                             <graid>pro.1:other</graid>
                             <refind>3000</refind>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>say</gword>
@@ -313,7 +314,7 @@
                 <unit uid="0006" start_time="14909" end_time="25924">
                     <utterance_id>english_kent02_0006</utterance_id>
                     <utterance>They used to make'em and sell'em sh-- about tuppence a dozen, and what the women used to peg their clothes with, you see; you've seen them, ain't you?</utterance>
-                    <utterance_translation>They used to make'em and sell'em sh- about tuppence a dozen, and what the women used to peg their clothes with, you see; you've seen them, ain't you?</utterance_translation>
+                    <utterance_translation>They used to make'em and sell'em sh-- about tuppence a dozen, and what the women used to peg their clothes with, you see; you've seen them, ain't you?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -485,6 +486,7 @@
                             <gloss>2SG</gloss>
                             <graid>pro.2:a</graid>
                             <refind>3001</refind>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>='ve</gword>
@@ -861,7 +863,7 @@
                 <unit uid="0010" start_time="43593" end_time="48005">
                     <utterance_id>english_kent02_0010</utterance_id>
                     <utterance>And a old gypsy come to -- woman with -- door with the pegs.</utterance>
-                    <utterance_translation>And a old gypsy come to - woman with - door with the pegs.</utterance_translation>
+                    <utterance_translation>And a old gypsy come to -- woman with -- door with the pegs.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1649,7 +1651,7 @@
                 <unit uid="0024" start_time="86369" end_time="98232">
                     <utterance_id>english_kent02_0024</utterance_id>
                     <utterance>Well, there were some bad gypsies and some good ones there, we had one lot, Charles -- name of Charles, used to come and see my dad, and if they'd got a decent pony, they used to bring it and sell it to him.</utterance>
-                    <utterance_translation>Well, there were some bad gypsies and some good ones there, we had one lot, Charles - name of Charles, used to come and see my dad, and if they'd got a decent pony, they used to bring it and sell it to him.</utterance_translation>
+                    <utterance_translation>Well, there were some bad gypsies and some good ones there, we had one lot, Charles -- name of Charles, used to come and see my dad, and if they'd got a decent pony, they used to bring it and sell it to him.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2161,7 +2163,7 @@
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
                             <graid>pro.h:s_ds</graid>
-                            <refind>3027</refind>
+                            <refind>3026</refind>
                         </segment>
                         <segment>
                             <gword>says</gword>
@@ -2427,7 +2429,7 @@
                 <unit uid="0030" start_time="124684" end_time="132822">
                     <utterance_id>english_kent02_0030</utterance_id>
                     <utterance>We sold him to the Earl Sourstone to this farm just at -- next door to me.</utterance>
-                    <utterance_translation>We sold him to the Earl Sourstone to this farm just at - next door to me.</utterance_translation>
+                    <utterance_translation>We sold him to the Earl Sourstone to this farm just at -- next door to me.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2634,7 +2636,7 @@
                 <unit uid="0032" start_time="142571" end_time="144689">
                     <utterance_id>english_kent02_0032</utterance_id>
                     <utterance>Three years afterwards -- what?</utterance>
-                    <utterance_translation>Three years afterwards - what?</utterance_translation>
+                    <utterance_translation>Three years afterwards -- what?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2784,7 +2786,7 @@
                 <unit uid="0036" start_time="149579" end_time="159436">
                     <utterance_id>english_kent02_0036</utterance_id>
                     <utterance>Father had a letter, from a Ba-- man named Barnes, Street End Farm -- they still got it, ain't they?</utterance>
-                    <utterance_translation>Father had a letter, from a Ba- man named Barnes, Street End Farm - they still got it, ain't they?</utterance_translation>
+                    <utterance_translation>Father had a letter, from a Ba- man named Barnes, Street End Farm -- they still got it, ain't they?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3544,7 +3546,7 @@
                 <unit uid="0045" start_time="189800" end_time="209913">
                     <utterance_id>english_kent02_0045</utterance_id>
                     <utterance>So eh, sh-- sh-- she wrote to my father; we went over there, to see her -- ponycart, and eh, she said, Now, she says, I'm going to give you that horse on conditions you never sell him; you keep him till he dies, or have him put down.</utterance>
-                    <utterance_translation>So eh, sh- sh- she wrote to my father; we went over there, to see her - ponycart, and eh, she said, Now, she says, I'm going to give you that horse on conditions you never sell him; you keep him till he dies, or have him put down.</utterance_translation>
+                    <utterance_translation>So, she wrote to my father; we went over there, to see her, ponycart, and she said, Now, she says, I'm going to give you that horse on conditions you never sell him; you keep him till he dies, or have him put down.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3996,7 +3998,7 @@
                 <unit uid="0047" start_time="215901" end_time="228657">
                     <utterance_id>english_kent02_0047</utterance_id>
                     <utterance>So eh, she told her groom, Put the horse in the cart, and put all the tackle in it, his nosebags and his flynet -- you don't know what that is, I suppose.</utterance>
-                    <utterance_translation>So eh, she told her groom, Put the horse in the cart, and put all the tackle in it, his nosebags and his flynet - you don't know what that is, I suppose.</utterance_translation>
+                    <utterance_translation>So eh, she told her groom, Put the horse in the cart, and put all the tackle in it, his nosebags and his flynet -- you don't know what that is, I suppose.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4670,7 +4672,7 @@
                 <unit uid="0052" start_time="251219" end_time="266015">
                     <utterance_id>english_kent02_0052</utterance_id>
                     <utterance>And we turned him out, n-- when he got too weak to work -- too, he was, l-- got rid lame, and winter was coming, so Dad said, Don't like doing it, he said, But we've, we have to put old Buller down.</utterance>
-                    <utterance_translation>And we turned him out, n- when he got too weak to work - too, he was, l- got rid lame, and winter was coming, so Dad said, Don't like doing it, he said, But we've, we have to put old Buller down.</utterance_translation>
+                    <utterance_translation>And we turned him out, n- when he got too weak to work -- too, he was, l- got rid lame, and winter was coming, so Dad said, Don't like doing it, he said, But we've, we have to put old Buller down.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5109,7 +5111,7 @@
                 <unit uid="0058" start_time="277019" end_time="280776">
                     <utterance_id>english_kent02_0058</utterance_id>
                     <utterance>Well, they'd given him the name when we bought him -- when we fetched him.</utterance>
-                    <utterance_translation>Well, they'd given him the name when we bought him - when we fetched him.</utterance_translation>
+                    <utterance_translation>Well, they'd given him the name when we bought him -- when we fetched him.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -5779,7 +5781,7 @@
                 <unit uid="0069" start_time="311041" end_time="318058">
                     <utterance_id>english_kent02_0069</utterance_id>
                     <utterance>Yeah, there was a lot of, lot of meat -- horse meat eaten in the 'Fourteen War.</utterance>
-                    <utterance_translation>Yeah, there was a lot of, lot of meat - horse meat eaten in the 'Fourteen War.</utterance_translation>
+                    <utterance_translation>Yeah, there was a lot of, lot of meat -- horse meat eaten in the 'Fourteen War.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6041,7 +6043,7 @@
                 <unit uid="0076" start_time="329524" end_time="339661">
                     <utterance_id>english_kent02_0076</utterance_id>
                     <utterance>A friend of mine -- a rich man -- said to me and Ned Coleman -- that's in the last war, now, I'm going on to -- he said, I'm gonna take you boys out and give you a good lunch.</utterance>
-                    <utterance_translation>A friend of mine - a rich man - said to me and Ned Coleman - that's in the last war, now, I'm going on to - he said, I'm gonna take you boys out and give you a good lunch.</utterance_translation>
+                    <utterance_translation>A friend of mine -- a rich man -- said to me and Ned Coleman -- that's in the last war, now, I'm going on to -- he said, I'm gonna take you boys out and give you a good lunch.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6548,7 +6550,7 @@
                 <unit uid="0080" start_time="354151" end_time="359193">
                     <utterance_id>english_kent02_0080</utterance_id>
                     <utterance>Old Coleman said, No, I'm not eating that -- he's a Scotch chap -- he said, No, I'm not eating whale meat.</utterance>
-                    <utterance_translation>Old Coleman said, No, I'm not eating that - he's a Scotch chap - he said, No, I'm not eating whale meat.</utterance_translation>
+                    <utterance_translation>Old Coleman said, No, I'm not eating that -- he's a Scotch chap -- he said, No, I'm not eating whale meat.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7872,7 +7874,7 @@
                 <unit uid="0095" start_time="412512" end_time="421833">
                     <utterance_id>english_kent02_0095</utterance_id>
                     <utterance>When I used to go round with chicken, buying poultry, I had -- Father used to give me about seven or eight sovereigns to go off with, see.</utterance>
-                    <utterance_translation>When I used to go round with chicken, buying poultry, I had - father used to give me about seven or eight sovereigns to go off with, see.</utterance_translation>
+                    <utterance_translation>When I used to go round with chicken, buying poultry, I had -- father used to give me about seven or eight sovereigns to go off with, see.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7968,7 +7970,7 @@
                         <segment>
                             <gword>Father</gword>
                             <gloss>Father</gloss>
-                            <graid>pn_pro.1:a</graid>
+                            <graid>pn_pro.h:a</graid>
                             <refind>3027</refind>
                         </segment>
                         <segment>
@@ -8494,7 +8496,7 @@
                 <unit uid="0100" start_time="447123" end_time="460947">
                     <utterance_id>english_kent02_0100</utterance_id>
                     <utterance>So I, my old neighbour got a pony, colt he was, and he, he asked me -- the blacksmith, if I would give him a run, to, you know, take him out, and so I used to drive him out when I wanted.</utterance>
-                    <utterance_translation>So I, my old neighbour got a pony, colt he was, and he, he asked me - the blacksmith, if I would give him a run, to, you know, take him out, and so I used to drive him out when I wanted.</utterance_translation>
+                    <utterance_translation>So I, my old neighbour got a pony, colt he was, and he, he asked me -- the blacksmith, if I would give him a run, to, you know, take him out, and so I used to drive him out when I wanted.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -9418,7 +9420,7 @@
                 <unit uid="0109" start_time="488590" end_time="490756">
                     <utterance_id>english_kent02_0109</utterance_id>
                     <utterance>[INTERVIEWER] Were you worked -- you were still working for your father then, were you?</utterance>
-                    <utterance_translation>[INTERVIEWER] Were you worked - you were still working for your father then, were you?</utterance_translation>
+                    <utterance_translation>[INTERVIEWER] Were you worked -- you were still working for your father then, were you?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>[INT]</gword>
@@ -9762,7 +9764,7 @@
                 <unit uid="0114" start_time="502161" end_time="504838">
                     <utterance_id>english_kent02_0114</utterance_id>
                     <utterance>We -- I was managing mi father's farm then.</utterance>
-                    <utterance_translation>We - I was managing mi father's farm then.</utterance_translation>
+                    <utterance_translation>We -- I was managing mi father's farm then.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10107,7 +10109,7 @@
                         <segment>
                             <gword>yourself</gword>
                             <gloss>2SG.REFL</gloss>
-                            <graid>nc_pro.2</graid>
+                            <graid>nc_refl.2</graid>
                             <refind>3000</refind>
                         </segment>
                     </annotations>
@@ -10130,7 +10132,7 @@
                         <segment>
                             <gword>miself</gword>
                             <gloss>1SG.REFL</gloss>
-                            <graid>nc_pro.1</graid>
+                            <graid>nc_refl.1</graid>
                             <refind>3000</refind>
                         </segment>
                     </annotations>
@@ -10469,7 +10471,7 @@
                 <unit uid="0128" start_time="537451" end_time="550868">
                     <utterance_id>english_kent02_0128</utterance_id>
                     <utterance>I used to have to go mow around it in the morning, so the horses didn't trample it down, and the binder went round and cut it, then I had to shock it -- we called it shocking it, standing it like that, see -- tending a shock.</utterance>
-                    <utterance_translation>I used to have to go mow around it in the morning, so the horses didn't trample it down, and the binder went round and cut it, then I had to shock it - we called it shocking it, standing it like that, see - tending a shock.</utterance_translation>
+                    <utterance_translation>I used to have to go mow around it in the morning, so the horses didn't trample it down, and the binder went round and cut it, then I had to shock it -- we called it shocking it, standing it like that, see -- tending a shock.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13023,7 +13025,7 @@
                 <unit uid="0148" start_time="673763" end_time="693876">
                     <utterance_id>english_kent02_0148</utterance_id>
                     <utterance>And that was just handy for us 'cause when was summertime when you we -- I was working up there with mi horses, I got, well half of a quarter of a mile to walk home, with the horses and back again, and so I used to keep mi old bike out there and put the horses in there to have their dinner on the grass, and bike home, see.</utterance>
-                    <utterance_translation>And that was just handy for us 'cause when was summertime when you we - I was working up there with mi horses, I got, well half of a quarter of a mile to walk home, with the horses and back again, and so I used to keep mi old bike out there and put the horses in there to have their dinner on the grass, and bike home, see.</utterance_translation>
+                    <utterance_translation>And that was just handy for us 'cause when was summertime when you we -- I was working up there with mi horses, I got, well half of a quarter of a mile to walk home, with the horses and back again, and so I used to keep mi old bike out there and put the horses in there to have their dinner on the grass, and bike home, see.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -13917,7 +13919,7 @@
                 <unit uid="0153" start_time="713205" end_time="733980">
                     <utterance_id>english_kent02_0153</utterance_id>
                     <utterance>There was Badlesmere Fair -- that's in May always -- Throwley Fair -- that's just up the road -- Molash Fair, Challock Fair, all within a month, month or five weeks, them four fairs were.</utterance>
-                    <utterance_translation>There was Badlesmere Fair - that's in May always - Throwley Fair - that's just up the road - Molash Fair, Challock Fair, all within a month, month or five weeks, them four fairs were.</utterance_translation>
+                    <utterance_translation>There was Badlesmere Fair -- that's in May always -- Throwley Fair -- that's just up the road -- Molash Fair, Challock Fair, all within a month, month or five weeks, them four fairs were.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -14697,7 +14699,7 @@
                         <segment>
                             <gword>='em</gword>
                             <gloss>=3PL.OBL</gloss>
-                            <graid>=pro:p</graid>
+                            <graid>=pro:other</graid>
                             <refind>3138</refind>
                         </segment>
                         <segment>
@@ -15963,7 +15965,7 @@
                 <unit uid="0175" start_time="839117" end_time="846605">
                     <utterance_id>english_kent02_0175</utterance_id>
                     <utterance>I went up there one night -- evening, with'em, and I used to go there and they used to tell me all manners of yarns, you know.</utterance>
-                    <utterance_translation>I went up there one night - evening, with'em, and I used to go there and they used to tell me all manners of yarns, you know.</utterance_translation>
+                    <utterance_translation>I went up there one night -- evening, with'em, and I used to go there and they used to tell me all manners of yarns, you know.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -16226,7 +16228,7 @@
                 <unit uid="0178" start_time="852948" end_time="857050">
                     <utterance_id>english_kent02_0178</utterance_id>
                     <utterance>I went in and had some meal with them -- what do you think it was?</utterance>
-                    <utterance_translation>I went in and had some meal with them - what do you think it was?</utterance_translation>
+                    <utterance_translation>I went in and had some meal with them -- what do you think it was?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -17279,7 +17281,7 @@
                 <unit uid="0194" start_time="901963" end_time="921315">
                     <utterance_id>english_kent02_0194</utterance_id>
                     <utterance>Father used to go to Canterbury, and bring home, he used to stop to the old butcher's as -- pretty near sold out, perhaps and then, when they couldn't sell out, he used to buy a big joint, see, about seven or eight pounds, all in, in one piece -- all bones and all, you know.</utterance>
-                    <utterance_translation>Father used to go to Canterbury, and bring home, he used to stop to the old butcher's as - pretty near sold out, perhaps and then, when they couldn't sell out, he used to buy a big joint, see, about seven or eight pounds, all in, in one piece - all bones and all, you know.</utterance_translation>
+                    <utterance_translation>Father used to go to Canterbury, and bring home, he used to stop to the old butcher's as -- pretty near sold out, perhaps and then, when they couldn't sell out, he used to buy a big joint, see, about seven or eight pounds, all in, in one piece -- all bones and all, you know.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -17343,7 +17345,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_meat</gloss>
-                            <graid>np:p</graid>
+                            <graid>0:p</graid>
                             <refind>3156</refind>
                         </segment>
                         <segment>
@@ -17704,7 +17706,7 @@
                 <unit uid="0196" start_time="925188" end_time="930523">
                     <utterance_id>english_kent02_0196</utterance_id>
                     <utterance>And that used to have to last us all the week, with the rabbits -- course, there was always get a rabbit when you liked.</utterance>
-                    <utterance_translation>And that used to have to last us all the week, with the rabbits - course, there was always get a rabbit when you liked.</utterance_translation>
+                    <utterance_translation>And that used to have to last us all the week, with the rabbits -- course, there was always get a rabbit when you liked.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -18407,7 +18409,7 @@
                 <unit uid="0207" start_time="959836" end_time="968587">
                     <utterance_id>english_kent02_0207</utterance_id>
                     <utterance>I had eighteen in my garden last summer -- pheasants, properly ruined my spring greens.</utterance>
-                    <utterance_translation>I had eighteen in my garden last summer - pheasants, properly ruined my spring greens.</utterance_translation>
+                    <utterance_translation>I had eighteen in my garden last summer -- pheasants, properly ruined my spring greens.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -18929,7 +18931,7 @@
                 <unit uid="0215" start_time="989344" end_time="1003908">
                     <utterance_id>english_kent02_0215</utterance_id>
                     <utterance>He -- d-- e-- the keeper what looked after our place, I happened to see a motorbike and sidecar -- the chap lived just up the road here -- come up our lane to the field, about eight o'clock.</utterance>
-                    <utterance_translation>He - d- e- the keeper what looked after our place, I happened to see a motorbike and sidecar - the chap lived just up the road here - come up our lane to the field, about eight o'clock.</utterance_translation>
+                    <utterance_translation>He -- d- e- the keeper what looked after our place, I happened to see a motorbike and sidecar -- the chap lived just up the road here -- come up our lane to the field, about eight o'clock.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -19654,7 +19656,7 @@
                 <unit uid="0221" start_time="1026057" end_time="1037567">
                     <utterance_id>english_kent02_0221</utterance_id>
                     <utterance>I never said nothing till I got alongside the old keeper one day and he says -- I was in the, just in the wood getting a rabbit, you see, yes, and he say, You're trespassing.</utterance>
-                    <utterance_translation>I never said nothing till I got alongside the old keeper one day and he says - I was in the, just in the wood getting a rabbit, you see, yes, and he say, You're trespassing.</utterance_translation>
+                    <utterance_translation>I never said nothing till I got alongside the old keeper one day and he says -- I was in the, just in the wood getting a rabbit, you see, yes, and he say, You're trespassing.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -20711,7 +20713,7 @@
                 <unit uid="0233" start_time="1075833" end_time="1082277">
                     <utterance_id>english_kent02_0233</utterance_id>
                     <utterance>And this was all, I'd be -- what would I be then?</utterance>
-                    <utterance_translation>And this was all, I'd be - what would I be then?</utterance_translation>
+                    <utterance_translation>And this was all, I'd be -- what would I be then?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -20977,7 +20979,7 @@
                 <unit uid="0237" start_time="1093882" end_time="1100336">
                     <utterance_id>english_kent02_0237</utterance_id>
                     <utterance>Won a silver watch and chain, before I was seventeen, but then I lost the silver watch when I went in the army -- th-- somebody pinched it.</utterance>
-                    <utterance_translation>Won a silver watch and chain, before I was seventeen, but then I lost the silver watch when I went in the army - th- somebody pinched it.</utterance_translation>
+                    <utterance_translation>Won a silver watch and chain, before I was seventeen, but then I lost the silver watch when I went in the army -- th- somebody pinched it.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -21242,7 +21244,7 @@
                 <unit uid="0239" start_time="1105553" end_time="1112957">
                     <utterance_id>english_kent02_0239</utterance_id>
                     <utterance>And eh -- my father used to take a load of chicken, to Boughton, The King's Head, Boughton.</utterance>
-                    <utterance_translation>And eh - my father used to take a load of chicken, to Boughton, The King's Head, Boughton.</utterance_translation>
+                    <utterance_translation>And eh -- my father used to take a load of chicken, to Boughton, The King's Head, Boughton.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -21447,7 +21449,7 @@
                 <unit uid="0243" start_time="1117504" end_time="1122218">
                     <utterance_id>english_kent02_0243</utterance_id>
                     <utterance>He used to s-- sell -- say, a chicken was worth three bob.</utterance>
-                    <utterance_translation>He used to s- sell - say, a chicken was worth three bob.</utterance_translation>
+                    <utterance_translation>He used to s- sell -- say, a chicken was worth three bob.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -22057,7 +22059,7 @@
                 <unit uid="0251" start_time="1147184" end_time="1154680">
                     <utterance_id>english_kent02_0251</utterance_id>
                     <utterance>And I bou--, he come home one day, with a load of rabbits -- were all the tame rabbits.</utterance>
-                    <utterance_translation>And I bou--, he come home one day, with a load of rabbits - were all the tame rabbits.</utterance_translation>
+                    <utterance_translation>And I bou--, he come home one day, with a load of rabbits -- were all the tame rabbits.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -22174,7 +22176,7 @@
                 <unit uid="0252" start_time="1154680" end_time="1158546">
                     <utterance_id>english_kent02_0252</utterance_id>
                     <utterance>I remember I was -- oh, it was when I was about sixteen.</utterance>
-                    <utterance_translation>I remember I was - oh, it was when I was about sixteen.</utterance_translation>
+                    <utterance_translation>I remember I was -- oh, it was when I was about sixteen.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -22991,7 +22993,7 @@
                 <unit uid="0263" start_time="1198147" end_time="1207484">
                     <utterance_id>english_kent02_0263</utterance_id>
                     <utterance>He says, Come in there -- they used to have these swinging targets -- he says, Come on, he says, I'll pay for you, Come on along with us, he says.</utterance>
-                    <utterance_translation>He says, Come in there - they used to have these swinging targets - he says, Come on, he says, I'll pay for you, Come on along with us, he says.</utterance_translation>
+                    <utterance_translation>He says, Come in there -- they used to have these swinging targets -- he says, Come on, he says, I'll pay for you, Come on along with us, he says.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -23509,7 +23511,7 @@
                 <unit uid="0268" start_time="1223603" end_time="1231320">
                     <utterance_id>english_kent02_0268</utterance_id>
                     <utterance>And it shook quick, you know, it -- this chap was swinging it and you had to shoot, and I hit it every time.</utterance>
-                    <utterance_translation>And it shook quick, you know, it - this chap was swinging it and you had to shoot, and I hit it every time.</utterance_translation>
+                    <utterance_translation>And it shook quick, you know, it -- this chap was swinging it and you had to shoot, and I hit it every time.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -24371,7 +24373,7 @@
                 <unit uid="0276" start_time="1263833" end_time="1272092">
                     <utterance_id>english_kent02_0276</utterance_id>
                     <utterance>Then s--, then you shot, and then you got all that go-through again -- it wadn't like it is today.</utterance>
-                    <utterance_translation>Then s--, then you shot, and then you got all that go-through again - it wadn't like it is today.</utterance_translation>
+                    <utterance_translation>Then s--, then you shot, and then you got all that go-through again -- it wadn't like it is today.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -24571,7 +24573,7 @@
                 <unit uid="0280" start_time="1276792" end_time="1280663">
                     <utterance_id>english_kent02_0280</utterance_id>
                     <utterance>[INTERVIEWER] Were they held -- when were these shoots held? Were they a Saturday or week night or something?</utterance>
-                    <utterance_translation>[INTERVIEWER] Were they held - when were these shoots held? Were they a Saturday or week night or something?</utterance_translation>
+                    <utterance_translation>[INTERVIEWER] Were they held -- when were these shoots held? Were they a Saturday or week night or something?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>[INT]</gword>
@@ -24681,7 +24683,7 @@
                 <unit uid="0281" start_time="1280663" end_time="1282207">
                     <utterance_id>english_kent02_0281</utterance_id>
                     <utterance>What eh -- Boughton?</utterance>
-                    <utterance_translation>What eh - Boughton?</utterance_translation>
+                    <utterance_translation>What eh -- Boughton?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>what</gword>
@@ -25214,7 +25216,7 @@
                 <unit uid="0292" start_time="1313648" end_time="1323683">
                     <utterance_id>english_kent02_0292</utterance_id>
                     <utterance>He was, ehr, working on the farm, and he used to sleep in the bedroom but he wouldn't ever go in there -- not when he was here.</utterance>
-                    <utterance_translation>He was ehr working on the farm, and he used to sleep in the bedroom but he wouldn't ever go in there - not when he was here.</utterance_translation>
+                    <utterance_translation>He was ehr working on the farm, and he used to sleep in the bedroom but he wouldn't ever go in there -- not when he was here.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -26127,7 +26129,7 @@
                 <unit uid="0310" start_time="1349393" end_time="1352457">
                     <utterance_id>english_kent02_0310</utterance_id>
                     <utterance>Oh, always Saturday, oh, yes -- Saturday afternoons.</utterance>
-                    <utterance_translation>Oh, always Saturday, oh, yes - Saturday afternoons.</utterance_translation>
+                    <utterance_translation>Oh, always Saturday, oh, yes -- Saturday afternoons.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -26717,7 +26719,7 @@
                 <unit uid="0320" start_time="1395869" end_time="1399102">
                     <utterance_id>english_kent02_0320</utterance_id>
                     <utterance>We had saved our money -- not waste it!</utterance>
-                    <utterance_translation>We had saved our money - not waste it!</utterance_translation>
+                    <utterance_translation>We had saved our money -- not waste it!</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -27919,7 +27921,7 @@
                 <unit uid="0335" start_time="1456234" end_time="1463334">
                     <utterance_id>english_kent02_0335</utterance_id>
                     <utterance>So, I was off; I's about fifteen, sixteen -- sixteen, I reckon I was.</utterance>
-                    <utterance_translation>So, I was off; I's about fifteen, sixteen - sixteen, I reckon I was.</utterance_translation>
+                    <utterance_translation>So, I was off; I's about fifteen, sixteen -- sixteen, I reckon I was.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -28331,7 +28333,7 @@
                 <unit uid="0339" start_time="1481756" end_time="1493231">
                     <utterance_id>english_kent02_0339</utterance_id>
                     <utterance>But anyway, I went down there, to the ... the pub's name was, it was in Charing anyway, we had to go there -- in Wye.</utterance>
-                    <utterance_translation>But anyway, I went down there, to the ... the pub's name was, it was in Charing anyway, we had to go there - in Wye.</utterance_translation>
+                    <utterance_translation>But anyway, I went down there, to the ... the pub's name was, it was in Charing anyway, we had to go there -- in Wye.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -30042,7 +30044,7 @@
                 <unit uid="0357" start_time="1579397" end_time="1587282">
                     <utterance_id>english_kent02_0357</utterance_id>
                     <utterance>So, we always used stand her right up against the wall, so she couldn't dash out -- dash forward, see, till we got her out, and then pushed the cart back off her.</utterance>
-                    <utterance_translation>So, we always used stand her right up against the wall, so she couldn't dash out - dash forward, see, till we got her out, and then pushed the cart back off her.</utterance_translation>
+                    <utterance_translation>So, we always used stand her right up against the wall, so she couldn't dash out -- dash forward, see, till we got her out, and then pushed the cart back off her.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -30647,7 +30649,7 @@
                 <unit uid="0364" start_time="1606574" end_time="1637817">
                     <utterance_id>english_kent02_0364</utterance_id>
                     <utterance>And eh, as I say about this quit rent, we went in there, there was about twenty of us, I should think, sit down to a table in this pub, and ohh, dinner was laid out, all cold meat, and salad, bread rolls, and beside each plates was a little green glass, and a bottle of ale, in front of you -- pint bottle, mind you, not a half pint: pint -- and a glass, this little green glass, like ah!</utterance>
-                    <utterance_translation>And eh, as I say about this quit rent, we went in there, there was about twenty of us, I should think, sit down to a table in this pub, and ohh, dinner was laid out, all cold meat, and salad, bread rolls, and beside each plates was a little green glass, and a bottle of ale, in front of you - pint bottle, mind you, not a half pint: pint - and a glass, this little green glass, like ah!</utterance_translation>
+                    <utterance_translation>And eh, as I say about this quit rent, we went in there, there was about twenty of us, I should think, sit down to a table in this pub, and ohh, dinner was laid out, all cold meat, and salad, bread rolls, and beside each plates was a little green glass, and a bottle of ale, in front of you -- pint bottle, mind you, not a half pint: pint -- and a glass, this little green glass, like ah!</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -31105,7 +31107,7 @@
                 <unit uid="0365" start_time="1637817" end_time="1648071">
                     <utterance_id>english_kent02_0365</utterance_id>
                     <utterance>I looked at this green glass, I'd never seen a little teeny green glass 'fore, and the old bloke come round and shot some wine in it -- in this green glass.</utterance>
-                    <utterance_translation>I looked at this green glass, I'd never seen a little teeny green glass 'fore, and the old bloke come round and shot some wine in it - in this green glass.</utterance_translation>
+                    <utterance_translation>I looked at this green glass, I'd never seen a little teeny green glass 'fore, and the old bloke come round and shot some wine in it -- in this green glass.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -31306,7 +31308,7 @@
                 <unit uid="0366" start_time="1648071" end_time="1653167">
                     <utterance_id>english_kent02_0366</utterance_id>
                     <utterance>Now, we drink the health of the King -- Queen.</utterance>
-                    <utterance_translation>Now, we drink the health of the King - Queen.</utterance_translation>
+                    <utterance_translation>Now, we drink the health of the King -- Queen.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -31366,7 +31368,7 @@
                 <unit uid="0367" start_time="1653167" end_time="1656086">
                     <utterance_id>english_kent02_0367</utterance_id>
                     <utterance>Q-- Queen Elizabeth, wadn't it -- Queen -- Victoria, wadn't it?</utterance>
-                    <utterance_translation>Q- Queen Elizabeth, wadn't it - Queen - Victoria, wadn't it?</utterance_translation>
+                    <utterance_translation>Q- Queen Elizabeth, wadn't it -- Queen -- Victoria, wadn't it?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -31450,7 +31452,7 @@
                 <unit uid="0369" start_time="1657571" end_time="1658991">
                     <utterance_id>english_kent02_0369</utterance_id>
                     <utterance>I -- sixteen, near there.</utterance>
-                    <utterance_translation>I - sixteen, near there.</utterance_translation>
+                    <utterance_translation>I -- sixteen, near there.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -32053,7 +32055,7 @@
                 <unit uid="0383" start_time="1685302" end_time="1690789">
                     <utterance_id>english_kent02_0383</utterance_id>
                     <utterance>So we had, say -- I know we had three or four we had drink the health of.</utterance>
-                    <utterance_translation>So we had, say - I know we had three or four we had drink the health of.</utterance_translation>
+                    <utterance_translation>So we had, say -- I know we had three or four we had drink the health of.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -32224,7 +32226,7 @@
                 <unit uid="0385" start_time="1693055" end_time="1700148">
                     <utterance_id>english_kent02_0385</utterance_id>
                     <utterance>Well, I'd no-- never go-- been used to spirits of any sort -- I whether, what it was, I'd never did know.</utterance>
-                    <utterance_translation>Well, I'd no- never go- been used to spirits of any sort - I whether, what it was, I'd never did know.</utterance_translation>
+                    <utterance_translation>Well, I'd no- never go- been used to spirits of any sort -- I whether, what it was, I'd never did know.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -33101,7 +33103,7 @@
                 <unit uid="0396" start_time="1735072" end_time="1746553">
                     <utterance_id>english_kent02_0396</utterance_id>
                     <utterance>This josseler chap at this pub put mi mare in -- she was easy to put in -- and I got up and they said I went through Wye as if I 'as mad -- full gallop.</utterance>
-                    <utterance_translation>This josseler chap at this pub put mi mare in - she was easy to put in - and I got up and they said I went through Wye as if I 'as mad - full gallop.</utterance_translation>
+                    <utterance_translation>This josseler chap at this pub put mi mare in -- she was easy to put in -- and I got up and they said I went through Wye as if I 'as mad -- full gallop.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -34257,7 +34259,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_I</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>3000</refind>
                         </segment>
                         <segment>

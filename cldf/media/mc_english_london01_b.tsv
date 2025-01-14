@@ -3455,7 +3455,7 @@ english	london01	0340	you	2SG	gen_pro.2:a	gen_pro	2	a
 english	london01	0340	made	make.PST	v:pred	v		pred		
 english	london01	0340	a	a	ln_deti	ln_deti				
 english	london01	0340	blower	blower	np:p	np		p		
-english	london01	0340	yourself	yourself	gen_refl.2:other	gen_refl	2	other		
+english	london01	0340	yourself	2SG.REFL	gen_refl.2:other	gen_refl	2	other		
 english	london01	0340	out	out	adp	adp				
 english	london01	0340	of	of	adp	adp				
 english	london01	0340	newspaper	newspaper	np:obl	np		obl		
@@ -4808,7 +4808,7 @@ english	london01	0391	was	be.PST.3SG	cop	cop
 english	london01	0391	cast iron	cast_iron	np:pred	np		pred		
 english	london01	0391	#	#	##	##				
 english	london01	0391	and	and	other	other				
-english	london01	0391	they	3PL	pro.h:s	pro	h	s		
+english	london01	0391	they	3PL	pro:s	pro		s		
 english	london01	0391	were	be.PST	lv_aux	lv_aux				
 english	london01	0391	chain-ed	chain-PTCP.PST	v:pred	v		pred		
 english	london01	0391	#	#	##	##				

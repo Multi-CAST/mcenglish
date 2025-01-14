@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-09-12T18:15:03+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2021-01-10T09:14:06+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_english_kent03_a.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e560379f-d583-4fdf-880b-104a6f2a5140</PROPERTY>
@@ -2448,7 +2448,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a655" ANNOTATION_REF="a377">
-                <ANNOTATION_VALUE>and he said, What's the matter with you boy?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and he said, What's the matter with you, boy?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -55654,12 +55654,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30758" ANNOTATION_REF="a26395">
-                <ANNOTATION_VALUE>np.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np.h:dt_s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30759" ANNOTATION_REF="a26396">
-                <ANNOTATION_VALUE>pro.1:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.h:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -56549,7 +56549,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36614" ANNOTATION_REF="a36155">
-                <ANNOTATION_VALUE>pro.1:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.1:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -57284,7 +57284,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36648" ANNOTATION_REF="a36189">
-                <ANNOTATION_VALUE>pro.1:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.1:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -63029,7 +63029,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32006" ANNOTATION_REF="a27643">
-                <ANNOTATION_VALUE>pro.h:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.h:p2</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -64309,7 +64309,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32216" ANNOTATION_REF="a27853">
-                <ANNOTATION_VALUE>intrg_other:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>intrg_other:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -64324,7 +64324,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32219" ANNOTATION_REF="a27856">
-                <ANNOTATION_VALUE>np:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -68479,7 +68479,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32890" ANNOTATION_REF="a28527">
-                <ANNOTATION_VALUE>=pro:l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=pro:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -71134,7 +71134,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33322" ANNOTATION_REF="a28959">
-                <ANNOTATION_VALUE>np.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np.h:dt_s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72379,7 +72379,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a39492" ANNOTATION_REF="a39062">
-                <ANNOTATION_VALUE>np:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -87183,12 +87183,12 @@
     <TIER ANNOTATOR="Nils Schiborr" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="refind" PARTICIPANT="EN03" TIER_ID="isnref">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a45760" ANNOTATION_REF="a41493">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>unused</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a45766" ANNOTATION_REF="a41499">
-                <ANNOTATION_VALUE>bridging</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>unused</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -88935,7 +88935,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35458" ANNOTATION_REF="a624">
-                <ANNOTATION_VALUE>That meant start tw-, by twelve o'clock again at night.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>That meant start by twelve o'clock again at night.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -89090,7 +89090,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35489" ANNOTATION_REF="a655">
-                <ANNOTATION_VALUE>and he said, What's the matter with you boy?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and he said, What's the matter with you, boy?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

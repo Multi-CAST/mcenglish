@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 english	devon01	0001	[INT]	[INT]	[INT]	[INT]				
 english	devon01	0001	#	#	#nc	#nc				
 english	devon01	0001	so	so	nc	nc				
-english	devon01	0001	you	2SG	nc_pro.2	nc_pro	2		1000	bridging
+english	devon01	0001	you	2SG	nc_pro.2	nc_pro	2		1000	unused
 english	devon01	0001	were	be.PST	nc	nc				
 english	devon01	0001	say-ing	say-PTCP.PRS	nc	nc				
 english	devon01	0001	#	#	#nc	#nc				
@@ -109,7 +109,7 @@ english	devon01	0005	the	the	ln_det	ln_det
 english	devon01	0005	curate	curate	np.h:s	np	h	s	1010	
 english	devon01	0005	came	come.PST	v:pred	v		pred		
 english	devon01	0005	#	#	##	##				
-english	devon01	0005	he	3SG.M	pro.1:a	pro	1	a	1010	
+english	devon01	0005	he	3SG.M	pro.h:a	pro	h	a	1010	
 english	devon01	0005	was	be.PRS.3SG	lv_aux	lv_aux				
 english	devon01	0005	riding	ride.PTCP.PRS	v:pred	v		pred		
 english	devon01	0005	a	a	ln_deti	ln_deti				
@@ -400,7 +400,7 @@ english	devon01	0012	parish council	parish_council	rn_np.h	rn_np	h		1034
 english	devon01	0012	#	#	##	##				
 english	devon01	0012	and	and	other	other				
 english	devon01	0012	then	then	other	other				
-english	devon01	0012	it	3SG.N	pro.1:s	pro	1	s	1035	
+english	devon01	0012	it	3SG.N	pro:s	pro		s	1035	
 english	devon01	0012	would	would	lv_aux	lv_aux				
 english	devon01	0012	be	be.INF	lv_aux	lv_aux				
 english	devon01	0012	pass-ed	pass-PTCP.PST	v:pred	v		pred		
@@ -588,7 +588,7 @@ english	devon01	0018	rate-s	rate-PL	np:obl	np		obl
 english	devon01	0019	[INT]	[INT]	[INT]	[INT]				
 english	devon01	0019	#	#	#nc	#nc				
 english	devon01	0019	yes	yes	nc	nc				
-english	devon01	0019	I	1SG	nc_pro.1	nc_pro	1		1001	
+english	devon01	0019	I	1SG	nc_pro.1	nc_pro	1		1001	unused
 english	devon01	0019	should	should	nc	nc				
 english	devon01	0019	say	say.INF	nc	nc				
 english	devon01	0019	#	#	#nc	#nc				
@@ -824,7 +824,7 @@ english	devon01	0027	school-s	school-PL	np:l	np		l
 english	devon01	0027	now	now	other	other				
 english	devon01	0027	apparently	apparently	other	other				
 english	devon01	0027	#	#	##	##				
-english	devon01	0027	she	3SG.F	pro.1:s	pro	1	s	1061	
+english	devon01	0027	she	3SG.F	pro.h:s	pro	h	s	1061	
 english	devon01	0027	was	be.PRS.3SG	lv_aux	lv_aux				
 english	devon01	0027	talk-ing	talk-PTCP.PRS	v:pred	v		pred		
 english	devon01	0027	to	to	adp	adp				
@@ -982,7 +982,7 @@ english	devon01	0031	on	on	adp	adp
 english	devon01	0031	a	a	ln_deti	ln_deti				
 english	devon01	0031	farm	farm	np:l	np		l	1071	new
 english	devon01	0031	#	#	##	##				
-english	devon01	0031	he	3SG.M	pro.1:a	pro	1	a	1070	
+english	devon01	0031	he	3SG.M	pro.h:a	pro	h	a	1070	
 english	devon01	0031	was	be.PRS.3SG	lv_aux	lv_aux				
 english	devon01	0031	getting	get.PTCP.PRS	v:pred	v		pred		
 english	devon01	0031	fifteen	fifteen	ln_num	ln_num				
@@ -1425,7 +1425,7 @@ english	devon01	0042	written	write.PTCP.PST	v:pred	v		pred
 english	devon01	0042	several	several	ln_adj	ln_adj				
 english	devon01	0042	book-s	book-PL	np:p	np		p	1099	
 english	devon01	0042	#	#	##	##				
-english	devon01	0042	he	3SG.M	pro.1:a	pro	1	a	1098	
+english	devon01	0042	he	3SG.M	pro.h:a	pro	h	a	1098	
 english	devon01	0042	gave	give.PST	v:pred	v		pred		
 english	devon01	0042	up	up	rv	rv				
 english	devon01	0042	doctoring	doctoring	np:p	np		p		
@@ -1496,7 +1496,7 @@ english	devon01	0044	time	time	np:other	np		other
 english	devon01	0044	#	#	##ds	##ds				
 english	devon01	0044	oh	oh	other	other				
 english	devon01	0044	well	well	other	other				
-english	devon01	0044	0	0_I	imp_0.h:s	imp_0	h	s	1000	
+english	devon01	0044	0	0_I	imp_0.2:s	imp_0	2	s	1000	
 english	devon01	0044	come	come.IMP	v:pred	v		pred		
 english	devon01	0044	in	in	rv	rv				
 english	devon01	0045	#	#	##	##				
@@ -1511,7 +1511,7 @@ english	devon01	0045	#	#	#cc:obl	#cc		obl
 english	devon01	0045	0	0_I	f0.1:s	f0	1	s	1000	
 english	devon01	0045	holler	holler	vother:pred	vother		pred		
 english	devon01	0045	#	#	##	##				
-english	devon01	0045	he	3SG.M	pro.1:a	pro	1	a	1098	
+english	devon01	0045	he	3SG.M	pro.h:a	pro	h	a	1098	
 english	devon01	0045	pull-ed	pull-PST	v:pred	v		pred		
 english	devon01	0045	mi	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	1000	
 english	devon01	0045	tooth	tooth	np:p	np		p	1097	
@@ -1582,11 +1582,11 @@ english	devon01	0047	a	a	ln_deti	ln_deti
 english	devon01	0047	farmer	farmer	np.h:dt_a	np	h	dt_a	1104	new
 english	devon01	0047	down	down	adp	adp				
 english	devon01	0047	Churston Court	Churston_Court	pn_np:l	pn_np		l	1105	new
-english	devon01	0047	#	#	##	##				
+english	devon01	0047	#	#	#	#				
 english	devon01	0047	that	DIST.SG	dem_pro.h:s	dem_pro	h	s	1104	
 english	devon01	0047	='s	=be.PST.3SG	=cop	=cop				
 english	devon01	0047	the	the	ln_det	ln_det				
-english	devon01	0047	farmer	farmer	np.h:pred	np	h	pred		
+english	devon01	0047	farmer	farmer	np.h:pred	np	h	pred	1104	
 english	devon01	0047	beside	beside	rn_adp	rn_adp				
 english	devon01	0047	the	the	rn_det	rn_det				
 english	devon01	0047	church	church	rn_np	rn_np			1106	bridging
@@ -1594,7 +1594,7 @@ english	devon01	0047	%	%	%	%
 english	devon01	0047	he	3SG.M	pro.h:a	pro	h	a	1104	
 english	devon01	0047	bought	buy.PST	v:pred	v		pred		
 english	devon01	0047	one	one	num_np:p	num_np		p	1107	bridging
-english	devon01	0047	of	of	rn	rn				
+english	devon01	0047	of	of	rn_adp	rn_adp				
 english	devon01	0047	they	DIST.PL	rn_dem	rn_dem				
 english	devon01	0047	cow-s	cow-PL	rn_np	rn_np			1067	
 english	devon01	0047	#	#	#ac	#ac				
@@ -2175,7 +2175,7 @@ english	devon01	0065	you	2SG	pro.2:a	pro	2	a	1155
 english	devon01	0065	would	would	lv_aux	lv_aux				
 english	devon01	0065	0	0_that	0:p	0		p		
 english	devon01	0065	the	the	ln_det	ln_det				
-english	devon01	0065	man	man	np.h:p2	np	h	p2		
+english	devon01	0065	man	man	np.h:p	np	h	p		
 english	devon01	0065	next	next	rn_adj	rn_adj				
 english	devon01	0065	door	door	rn_np	rn_np				
 english	devon01	0065	#	#	##	##				
@@ -2616,7 +2616,7 @@ english	devon01	0081	#	#	##	##
 english	devon01	0081	he	3SG.M	pro.h:s_ds	pro	h	s_ds	1179	
 english	devon01	0081	said	say.PST	v:pred	v		pred		
 english	devon01	0081	#	#	##ds	##ds				
-english	devon01	0081	I	1SG	pro.2:a	pro	2	a	1000	
+english	devon01	0081	I	1SG	pro.1:a	pro	1	a	1000	
 english	devon01	0081	will	will	lv_aux	lv_aux				
 english	devon01	0081	that	DIST.SG	dem_pro:p	dem_pro		p		
 english	devon01	0082	#	#	##	##				
@@ -2916,7 +2916,7 @@ english	devon01	0091	#	#	##	##
 english	devon01	0091	I	1SG	pro.1:s_ds	pro	1	s_ds	1000	
 english	devon01	0091	said	say.PST	v:pred	v		pred		
 english	devon01	0091	#	#	##ds.neg	##ds.neg				
-english	devon01	0091	he	3SG.M	pro.1:a	pro	1	a	1199	
+english	devon01	0091	he	3SG.M	pro.h:a	pro	h	a	1199	
 english	devon01	0091	won't	will.NEG	lv_aux	lv_aux				
 english	devon01	0091	take	take.INF	v:pred	v		pred		
 english	devon01	0091	me	1SG.OBL	pro.1:p	pro	1	p	1000	
@@ -3064,7 +3064,7 @@ english	devon01	0096	year-s	year-PL	np:other	np		other	1211	bridging
 english	devon01	0097	#	#	#nc	#nc				
 english	devon01	0097	he	3SG.M	nc_pro.h	nc_pro	h		1199	
 english	devon01	0097	said	say.PST	nc	nc				
-english	devon01	0097	they	3PL	nc	nc				
+english	devon01	0097	they	3PL	nc_pro	nc_pro			1210	
 english	devon01	0097	#	#	##	##				
 english	devon01	0097	I	1SG	pro.1:s_ds	pro	1	s_ds	1000	
 english	devon01	0097	said	say.PST	v:pred	v		pred		
@@ -3940,9 +3940,9 @@ english	devon01	0125	and	and	other	other
 english	devon01	0125	0	0_prisoners	0.h:a	0	h	a	1268	
 english	devon01	0125	pick	pick.INF	v:pred	v		pred		
 english	devon01	0125	it	3SG.N.OBL	pro:p	pro		p	1271	
-english	devon01	0125	all	all	other	other				
-english	devon01	0125	to	to	adp	adp				
-english	devon01	0125	piece-s	piece-PL	np:other	np		other		
+english	devon01	0125	all	all	rn	rn				
+english	devon01	0125	to	to	rv_adp	rv_adp				
+english	devon01	0125	piece-s	piece-PL	rv_np	rv_np				
 english	devon01	0125	#	#	#ac	#ac				
 english	devon01	0125	0	0_prisoners	f0.h:a	f0	h	a	1268	
 english	devon01	0125	to	to	lv	lv				
@@ -4541,7 +4541,7 @@ english	devon01	0150	the	the	rn_det	rn_det
 english	devon01	0150	War	War	rn_pn_np	rn_pn_np			1167	
 english	devon01	0150	#	#	##	##				
 english	devon01	0150	and	and	other	other				
-english	devon01	0150	he	3SG.M	pro.1:a	pro	1	a	1312	
+english	devon01	0150	he	3SG.M	pro.h:a	pro	h	a	1312	
 english	devon01	0150	had	have.PST	lv_aux	lv_aux				
 english	devon01	0150	this	PROX.SG	ln_dem	ln_dem				
 english	devon01	0150	Provident	Provident	pn_np:p	pn_np		p	1318	new

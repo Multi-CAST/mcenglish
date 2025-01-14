@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="devon01" annotators="Nils Schiborr" speaker="EN02">
-            <file f_name="mc_english_devon01" audio="mc_english_devon01.wav" updated="2019-09-06">
+            <file f_name="mc_english_devon01" audio="mc_english_devon01.wav" updated="2020-10-05">
                 <unit uid="0001" start_time="0" end_time="1981">
                     <utterance_id>english_devon01_0001</utterance_id>
                     <utterance>[INTERVIEWER] So you were saying, you were born in Moreleigh?</utterance>
@@ -28,7 +28,7 @@
                             <gloss>2SG</gloss>
                             <graid>nc_pro.2</graid>
                             <refind>1000</refind>
-                            <isnref>bridging</isnref>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>were</gword>
@@ -631,7 +631,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>pro.h:a</graid>
                             <refind>1010</refind>
                         </segment>
                         <segment>
@@ -2217,7 +2217,7 @@
                         <segment>
                             <gword>it</gword>
                             <gloss>3SG.N</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>pro:s</graid>
                             <refind>1035</refind>
                         </segment>
                         <segment>
@@ -3249,6 +3249,7 @@
                             <gloss>1SG</gloss>
                             <graid>nc_pro.1</graid>
                             <refind>1001</refind>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>should</gword>
@@ -4551,7 +4552,7 @@
                         <segment>
                             <gword>she</gword>
                             <gloss>3SG.F</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>pro.h:s</graid>
                             <refind>1061</refind>
                         </segment>
                         <segment>
@@ -5416,7 +5417,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>pro.h:a</graid>
                             <refind>1070</refind>
                         </segment>
                         <segment>
@@ -7842,7 +7843,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>pro.h:a</graid>
                             <refind>1098</refind>
                         </segment>
                         <segment>
@@ -8226,7 +8227,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_I</gloss>
-                            <graid>imp_0.h:s</graid>
+                            <graid>imp_0.2:s</graid>
                             <refind>1000</refind>
                         </segment>
                         <segment>
@@ -8313,7 +8314,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>pro.h:a</graid>
                             <refind>1098</refind>
                         </segment>
                         <segment>
@@ -8706,7 +8707,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>##</graid>
+                            <graid>#</graid>
                         </segment>
                         <segment>
                             <gword>that</gword>
@@ -8728,6 +8729,7 @@
                             <gword>farmer</gword>
                             <gloss>farmer</gloss>
                             <graid>np.h:pred</graid>
+                            <refind>1104</refind>
                         </segment>
                         <segment>
                             <gword>beside</gword>
@@ -8772,7 +8774,7 @@
                         <segment>
                             <gword>of</gword>
                             <gloss>of</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_adp</graid>
                         </segment>
                         <segment>
                             <gword>they</gword>
@@ -12001,7 +12003,7 @@
                         <segment>
                             <gword>man</gword>
                             <gloss>man</gloss>
-                            <graid>np.h:p2</graid>
+                            <graid>np.h:p</graid>
                         </segment>
                         <segment>
                             <gword>next</gword>
@@ -14469,7 +14471,7 @@
                         <segment>
                             <gword>I</gword>
                             <gloss>1SG</gloss>
-                            <graid>pro.2:a</graid>
+                            <graid>pro.1:a</graid>
                             <refind>1000</refind>
                         </segment>
                         <segment>
@@ -16124,7 +16126,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>pro.h:a</graid>
                             <refind>1199</refind>
                         </segment>
                         <segment>
@@ -16933,7 +16935,7 @@
                 </unit>
                 <unit uid="0097" start_time="1280019" end_time="1285337">
                     <utterance_id>english_devon01_0097</utterance_id>
-                    <utterance>He said, they -- I said, They won't be doing you any good.</utterance>
+                    <utterance>He said, They -- I said, They won't be doing you any good.</utterance>
                     <utterance_translation>I said, They won't be doing you any good.</utterance_translation>
                     <annotations>
                         <segment>
@@ -16955,7 +16957,8 @@
                         <segment>
                             <gword>they</gword>
                             <gloss>3PL</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pro</graid>
+                            <refind>1210</refind>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -21783,17 +21786,17 @@
                         <segment>
                             <gword>all</gword>
                             <gloss>all</gloss>
-                            <graid>other</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
                             <gloss>to</gloss>
-                            <graid>adp</graid>
+                            <graid>rv_adp</graid>
                         </segment>
                         <segment>
                             <gword>piece-s</gword>
                             <gloss>piece-PL</gloss>
-                            <graid>np:other</graid>
+                            <graid>rv_np</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -25125,7 +25128,7 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>pro.h:a</graid>
                             <refind>1312</refind>
                         </segment>
                         <segment>

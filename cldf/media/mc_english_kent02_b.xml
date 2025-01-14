@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent02_b" audio="mc_english_kent02_b.wav" updated="2019-09-06">
+            <file f_name="mc_english_kent02_b" audio="mc_english_kent02_b.wav" updated="2020-10-05">
                 <unit uid="0419" start_time="0" end_time="3317">
                     <utterance_id>english_kent02_0419</utterance_id>
                     <utterance>[INTERVIEWER] How old were, were you when you moved to the farm at Molash?</utterance>
@@ -3754,7 +3754,7 @@
                         <segment>
                             <gword>='em</gword>
                             <gloss>=3PL.OBL</gloss>
-                            <graid>=rn_pro:p</graid>
+                            <graid>=rn_pro</graid>
                             <refind>3325</refind>
                         </segment>
                         <segment>
@@ -6329,7 +6329,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_farm</gloss>
-                            <graid>0:p</graid>
+                            <graid>0:g</graid>
                             <refind>3356</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -8595,7 +8595,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:a</graid>
                             <refind>3030</refind>
                         </segment>
@@ -14759,7 +14759,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:a</graid>
                             <refind>3030</refind>
                         </segment>
@@ -15894,7 +15894,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:a</graid>
                             <refind>3447</refind>
                             <isnref>bridging</isnref>
@@ -24302,7 +24302,7 @@
                         </segment>
                         <segment>
                             <gword>myself</gword>
-                            <gloss>myself</gloss>
+                            <gloss>1SG.REFL</gloss>
                             <graid>refl.1:g</graid>
                             <refind>3000</refind>
                         </segment>
@@ -28264,7 +28264,7 @@
                         <segment>
                             <gword>my</gword>
                             <gloss>1SG.POSS</gloss>
-                            <graid>ln_pro.1:a</graid>
+                            <graid>ln_pro.1:poss</graid>
                             <refind>3000</refind>
                         </segment>
                         <segment>
@@ -29511,12 +29511,14 @@
                         <segment>
                             <gword>your</gword>
                             <gloss>2SG.POSS</gloss>
-                            <graid>ln_gen_pro.2:a</graid>
+                            <graid>ln_gen_pro.2:poss</graid>
                         </segment>
                         <segment>
                             <gword>cigarette</gword>
                             <gloss>cigarette</gloss>
-                            <graid>nc</graid>
+                            <graid>np:p</graid>
+                            <refind>3559</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>in</gword>
@@ -29536,9 +29538,7 @@
                         <segment>
                             <gword>cigarette</gword>
                             <gloss>cigarette</gloss>
-                            <graid>np:p</graid>
-                            <refind>3559</refind>
-                            <isnref>bridging</isnref>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>in</gword>
@@ -32808,7 +32808,7 @@
                             <gword>we</gword>
                             <gloss>1PL</gloss>
                             <graid>pro.1:a</graid>
-                            <refind>3595</refind>
+                            <refind>3594</refind>
                         </segment>
                         <segment>
                             <gword>had</gword>
@@ -32925,7 +32925,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:a</graid>
                             <refind>3594</refind>
                         </segment>
@@ -34429,7 +34429,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>nc_pro.1</graid>
                             <refind>3030</refind>
                         </segment>
@@ -36041,7 +36041,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:a</graid>
                             <refind>3013</refind>
                         </segment>
@@ -36380,7 +36380,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:s</graid>
                             <refind>3110</refind>
                         </segment>
@@ -36423,7 +36423,7 @@
                         </segment>
                         <segment>
                             <gword>we</gword>
-                            <gloss>we</gloss>
+                            <gloss>1PL</gloss>
                             <graid>pro.1:s</graid>
                             <refind>3110</refind>
                         </segment>
@@ -39018,7 +39018,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_I</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>3000</refind>
                         </segment>
                         <segment>

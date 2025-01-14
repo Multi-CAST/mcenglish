@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="london01" annotators="Nils Schiborr" speaker="EN04">
-            <file f_name="mc_english_london01_a" audio="mc_english_london01_a.wav" updated="2019-08-30">
+            <file f_name="mc_english_london01_a" audio="mc_english_london01_a.wav" updated="2020-06-13">
                 <unit uid="0001" start_time="0" end_time="7275">
                     <utterance_id>english_london01_0001</utterance_id>
                     <utterance>Was born in Poplar, and I was born in my parents' house in Lochnagar Street.</utterance>
@@ -28843,7 +28843,7 @@
                         <segment>
                             <gword>his</gword>
                             <gloss>3SG.M.POSS</gloss>
-                            <graid>rn_pro.h:a</graid>
+                            <graid>rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>son</gword>

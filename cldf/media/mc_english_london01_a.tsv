@@ -5498,7 +5498,7 @@ english	london01	0192	Scotsman	Scotsman	np.h:a	np	h	a
 english	london01	0192	did-n't	do.PST-NEG	lv_aux	lv_aux				
 english	london01	0192	0	0_gas_mask	0:p	0		p		
 english	london01	0192	or	or	rn	rn				
-english	london01	0192	his	3SG.M.POSS	rn_pro.h:a	rn_pro	h	a		
+english	london01	0192	his	3SG.M.POSS	rn_pro.h:poss	rn_pro	h	poss		
 english	london01	0192	son	son	rn_np.h	rn_np	h			
 english	london01	0193	#	#	##	##				
 english	london01	0193	so	so	other	other				

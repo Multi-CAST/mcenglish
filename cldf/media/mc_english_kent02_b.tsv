@@ -649,7 +649,7 @@ english	kent02	0464	always	always	other	other
 english	kent02	0464	sell-ing	sell-PTCP.PRS	v:pred	v		pred		
 english	kent02	0464	one	one	num_np:p	num_np		p	3326	bridging
 english	kent02	0464	of	of	rn_adp	rn_adp				
-english	kent02	0464	='em	=3PL.OBL	=rn_pro:p	=rn_pro		p	3325	
+english	kent02	0464	='em	=3PL.OBL	=rn_pro	=rn_pro			3325	
 english	kent02	0464	see	see.PRS	other	other				
 english	kent02	0464	#	#	##	##				
 english	kent02	0464	and	and	other	other				
@@ -1088,7 +1088,7 @@ english	kent02	0500	to	to	lv	lv
 english	kent02	0500	go	go.INF	v:pred	v		pred		
 english	kent02	0500	down	down	adp	adp				
 english	kent02	0500	Adam='s	Adam=POSS	ln_pn_np.h:poss	ln_pn_np	h	poss	3307	
-english	kent02	0500	0	0_farm	0:p	0		p	3356	bridging
+english	kent02	0500	0	0_farm	0:g	0		g	3356	bridging
 english	kent02	0500	#	#	##	##				
 english	kent02	0500	it	3SG.N	pro:s	pro		s	3356	
 english	kent02	0500	was	be.PST.3SG	cop	cop				
@@ -1486,7 +1486,7 @@ english	kent02	0524	your	2SG.POSS	ln_gen_pro.2:poss	ln_gen_pro	2	poss
 english	kent02	0524	wurzel	wurzel	np:p	np		p		
 english	kent02	0524	out	out	rv	rv				
 english	kent02	0525	#	#	##	##				
-english	kent02	0525	we	we	pro.1:a	pro	1	a	3030	
+english	kent02	0525	we	1PL	pro.1:a	pro	1	a	3030	
 english	kent02	0525	used	used	lv_aux	lv_aux				
 english	kent02	0525	to	to	lv	lv				
 english	kent02	0525	call	call.INF	v:pred	v		pred		
@@ -2538,7 +2538,7 @@ english	kent02	0606	ever	ever	other	other
 english	kent02	0606	remember	remember.INF	v:pred	v		pred		
 english	kent02	0606	swine fever	swine_fever	np:p	np		p	3437	
 english	kent02	0607	#	#	##neg	##neg				
-english	kent02	0607	we	we	pro.1:a	pro	1	a	3030	
+english	kent02	0607	we	1PL	pro.1:a	pro	1	a	3030	
 english	kent02	0607	never	never	other	other				
 english	kent02	0607	had	have.PST	v:pred	v		pred		
 english	kent02	0607	it	3SG.N	pro:p	pro		p	3437	
@@ -2736,7 +2736,7 @@ english	kent02	0620	#	#	##	##
 english	kent02	0620	he	3SG.M	pro.h:s_ds	pro	h	s_ds	3446	
 english	kent02	0620	said	say.PST	v:pred	v		pred		
 english	kent02	0620	#	#	##ds	##ds				
-english	kent02	0620	we	we	pro.1:a	pro	1	a	3447	bridging
+english	kent02	0620	we	1PL	pro.1:a	pro	1	a	3447	bridging
 english	kent02	0620	shall	shall	lv_aux	lv_aux				
 english	kent02	0620	have	have.INF	lv_aux	lv_aux				
 english	kent02	0620	to	to	lv	lv				
@@ -4202,7 +4202,7 @@ english	kent02	0713	#	#	##	##
 english	kent02	0713	0	0_I	0.1:s_ds	0	1	s_ds	3000	
 english	kent02	0713	thought	think.PST	v:pred	v		pred		
 english	kent02	0713	to	to	adp	adp				
-english	kent02	0713	myself	myself	refl.1:g	refl	1	g	3000	
+english	kent02	0713	myself	1SG.REFL	refl.1:g	refl	1	g	3000	
 english	kent02	0713	well	well	other	other				
 english	kent02	0714	#	#	##neg	##neg				
 english	kent02	0714	0	0_I	0.1:a	0	1	a	3000	
@@ -4887,7 +4887,7 @@ english	kent02	0757	sixteen	sixteen	other:pred	other		pred
 english	kent02	0758	#	#	##	##				
 english	kent02	0758	silver	silver	ln_adj	ln_adj				
 english	kent02	0758	cigarette case	cigarette_case	np:p	np		p	3548	
-english	kent02	0758	my	1SG.POSS	ln_pro.1:a	ln_pro	1	a	3000	
+english	kent02	0758	my	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3000	
 english	kent02	0758	sister	sister	np.h:a	np	h	a	3543	
 english	kent02	0758	give	give.PST	v:pred	v		pred		
 english	kent02	0758	#	#	##	##				
@@ -5098,12 +5098,12 @@ english	kent02	0776	#	#	##	##
 english	kent02	0776	so	so	other	other				
 english	kent02	0776	you	2SG	gen_pro.2:a	gen_pro	2	a		
 english	kent02	0776	stick	stick.PRS	v:pred	v		pred		
-english	kent02	0776	your	2SG.POSS	ln_gen_pro.2:a	ln_gen_pro	2	a		
-english	kent02	0776	cigarette	cigarette	nc	nc				
+english	kent02	0776	your	2SG.POSS	ln_gen_pro.2:poss	ln_gen_pro	2	poss		
+english	kent02	0776	cigarette	cigarette	np:p	np		p	3559	bridging
 english	kent02	0776	in	in	nc	nc				
 english	kent02	0776	the	the	nc	nc				
 english	kent02	0776	f--	NC	nc	nc				
-english	kent02	0776	cigarette	cigarette	np:p	np		p	3559	bridging
+english	kent02	0776	cigarette	cigarette	nc	nc				
 english	kent02	0776	in	in	adp	adp				
 english	kent02	0776	the	the	ln_det	ln_det				
 english	kent02	0776	funnel	funnel	np:g	np		g	3560	bridging
@@ -5660,7 +5660,7 @@ english	kent02	0824	0	0_we	f0.1:s	f0	1	s	3594	bridging
 english	kent02	0824	hop pick-ing	hop_pick-PTCP.PRS	vother:pred	vother		pred		
 english	kent02	0824	#	#	##	##				
 english	kent02	0824	and	and	other	other				
-english	kent02	0824	we	1PL	pro.1:a	pro	1	a	3595	
+english	kent02	0824	we	1PL	pro.1:a	pro	1	a	3594	
 english	kent02	0824	had	have.PST	v:pred	v		pred		
 english	kent02	0824	a	a	ln_deti	ln_deti				
 english	kent02	0824	basket	basket	np:p	np		p	3595	new
@@ -5681,7 +5681,7 @@ english	kent02	0824	#	#	##	##
 english	kent02	0824	0	0_we	0.1:s	0	1	s	3110	
 english	kent02	0824	play	play.INF	v:pred	v		pred		
 english	kent02	0825	#	#	##	##				
-english	kent02	0825	we	we	pro.1:a	pro	1	a	3594	
+english	kent02	0825	we	1PL	pro.1:a	pro	1	a	3594	
 english	kent02	0825	had	have.PST	lv_aux	lv_aux				
 english	kent02	0825	to	to	lv	lv				
 english	kent02	0825	pick	pick.INF	v:pred	v		pred		
@@ -5949,7 +5949,7 @@ english	kent02	0839	to	to	adp	adp
 english	kent02	0839	the	the	ln_det	ln_det				
 english	kent02	0839	brewery	brewery	np:g	np		g	3609	bridging
 english	kent02	0840	#	#	##	##				
-english	kent02	0840	we	we	nc_pro.1	nc_pro	1		3030	
+english	kent02	0840	we	1PL	nc_pro.1	nc_pro	1		3030	
 english	kent02	0840	have	have.INF	nc	nc				
 english	kent02	0840	sold	sell.PTCP.PST	nc	nc				
 english	kent02	0840	Father	Father	pn_np.h:a	pn_np	h	a	3027	
@@ -6231,7 +6231,7 @@ english	kent02	0854	house	house	np:l	np		l	3617
 english	kent02	0855	[INT]	[INT]	[INT]	[INT]				
 english	kent02	0855	alw--	NC	nc	nc				
 english	kent02	0856	#	#	##	##				
-english	kent02	0856	we	we	pro.1:a	pro	1	a	3013	
+english	kent02	0856	we	1PL	pro.1:a	pro	1	a	3013	
 english	kent02	0856	had	have.PST	v:pred	v		pred		
 english	kent02	0856	a	a	ln_deti	ln_deti				
 english	kent02	0856	nine	nine	ln_num	ln_num				
@@ -6288,14 +6288,14 @@ english	kent02	0860	and	and	rn	rn
 english	kent02	0860	my	1SG.POSS	rn_pro.1:poss	rn_pro	1	poss	3000	
 english	kent02	0860	brother	brother	rn_np.h	rn_np	h		3108	
 english	kent02	0861	#	#	##	##				
-english	kent02	0861	we	we	pro.1:s	pro	1	s	3110	
+english	kent02	0861	we	1PL	pro.1:s	pro	1	s	3110	
 english	kent02	0861	got	get.PST	v:pred	v		pred		
 english	kent02	0861	as	as	other	other				
 english	kent02	0861	drunk	drunk	other:pred	other		pred		
 english	kent02	0861	as	as	other	other				
 english	kent02	0861	pig-s	pig-PL	np:other	np		other		
 english	kent02	0862	#	#	##	##				
-english	kent02	0862	we	we	pro.1:s	pro	1	s	3110	
+english	kent02	0862	we	1PL	pro.1:s	pro	1	s	3110	
 english	kent02	0862	got	get.PST	v:pred	v		pred		
 english	kent02	0862	in	in	adp	adp				
 english	kent02	0862	the	the	ln_det	ln_det				
@@ -6740,7 +6740,7 @@ english	kent02	0896	bank	bank	np:g	np		g	3664
 english	kent02	0896	#	#	##	##				
 english	kent02	0896	and	and	other	other				
 english	kent02	0896	eh	eh	other	other				
-english	kent02	0896	0	0_I	pro.1:a	pro	1	a	3000	
+english	kent02	0896	0	0_I	0.1:a	0	1	a	3000	
 english	kent02	0896	told	tell.PST	v:pred	v		pred		
 english	kent02	0896	him	3SG.M.OBL	pro.h:p	pro	h	p	3665	bridging
 english	kent02	0896	#	#	#cc:p2	#cc		p2		

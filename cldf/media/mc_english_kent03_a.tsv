@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 english	kent03	0001	#	#	##	##				
 english	kent03	0001	well	well	other	other				
 english	kent03	0001	now	now	other	other				
-english	kent03	0001	I	1SG	pro.1:s	pro	1	s	4000	bridging
+english	kent03	0001	I	1SG	pro.1:s	pro	1	s	4000	unused
 english	kent03	0001	='m	=be.PRS.1SG	=cop	=cop				
 english	kent03	0001	about	about	other:pred	other		pred		
 english	kent03	0001	#	#	#cc	#cc				
@@ -10,7 +10,7 @@ english	kent03	0001	0	0_I	f0.1:s	f0	1	s	4000
 english	kent03	0001	to	to	lv	lv				
 english	kent03	0001	relate	relate.INF	vother:pred	vother		pred		
 english	kent03	0001	to	to	adp	adp				
-english	kent03	0001	you	2SG.OBL	pro.2:g	pro	2	g	4001	bridging
+english	kent03	0001	you	2SG.OBL	pro.2:g	pro	2	g	4001	unused
 english	kent03	0001	the	the	ln_det	ln_det				
 english	kent03	0001	whole	whole	np:p	np		p		
 english	kent03	0001	of	of	rn	rn				
@@ -43,8 +43,8 @@ english	kent03	0003	old	old	ln_adj	ln_adj
 english	kent03	0003	Leasden House	Leasden_House	pn_np:l	pn_np		l	4006	new
 english	kent03	0004	#	#	##	##				
 english	kent03	0004	my	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	4000	
-english	kent03	0004	father	father	np.h:s	np	h	s	4007	bridging
-english	kent03	0004	he	3SG.M	pro.1:s	pro	1	s	4007	
+english	kent03	0004	father	father	np.h:dt_s	np	h	dt_s	4007	bridging
+english	kent03	0004	he	3SG.M	pro.h:s	pro	h	s	4007	
 english	kent03	0004	work-ed	work-PST	v:pred	v		pred		
 english	kent03	0004	under	under	adp	adp				
 english	kent03	0004	the	the	ln_det	ln_det				
@@ -222,7 +222,7 @@ english	kent03	0014	go	go.INF	v:pred	v		pred
 english	kent03	0014	round	around	rv	rv				
 english	kent03	0014	#	#	##	##				
 english	kent03	0014	and	and	other	other				
-english	kent03	0014	0	0_I	pro.1:s	pro	1	s	4000	
+english	kent03	0014	0	0_I	0.1:s	0	1	s	4000	
 english	kent03	0014	help	help.INF	v:pred	v		pred		
 english	kent03	0014	with	with	adp	adp				
 english	kent03	0014	the	the	ln_det	ln_det				
@@ -369,7 +369,7 @@ english	kent03	0021	nice	nice	ln_adj	ln_adj
 english	kent03	0021	old	old	ln_adj	ln_adj				
 english	kent03	0021	man	man	np.h:pred	np	h	pred	4025	
 english	kent03	0022	#	#	##neg	##neg				
-english	kent03	0022	0	0_I	pro.1:a	pro	1	a	4000	
+english	kent03	0022	0	0_I	0.1:a	0	1	a	4000	
 english	kent03	0022	never	never	other	other				
 english	kent03	0022	heard	hear.PST	v:pred	v		pred		
 english	kent03	0022	that	DIST.SG	ln_dem	ln_dem				
@@ -1518,7 +1518,7 @@ english	kent03	0087	and	and	other	other
 english	kent03	0087	eh	eh	other	other				
 english	kent03	0087	I	1SG	pro.1:a	pro	1	a	4000	
 english	kent03	0087	paid	pay.PST	v:pred	v		pred		
-english	kent03	0087	them	3PL.OBL	pro.h:p	pro	h	p	4092	bridging
+english	kent03	0087	them	3PL.OBL	pro.h:p2	pro	h	p2	4092	bridging
 english	kent03	0087	seven	seven	num_np:p	num_np		p		
 english	kent03	0087	and	and	rn	rn				
 english	kent03	0087	sixpence	sixpence	rn_np	rn_np				
@@ -1774,10 +1774,10 @@ english	kent03	0099	and	and	other	other
 english	kent03	0099	he	3SG.M	pro.h:s_ds	pro	h	s_ds	4090	
 english	kent03	0099	said	say.PST	v:pred	v		pred		
 english	kent03	0099	#	#	##ds	##ds				
-english	kent03	0099	what	what	intrg_other:s	intrg_other		s		
+english	kent03	0099	what	what	intrg_other:pred	intrg_other		pred		
 english	kent03	0099	='s	=be.PRS.3SG	=cop	=cop				
 english	kent03	0099	the	the	ln_det	ln_det				
-english	kent03	0099	matter	matter	np:pred	np		pred		
+english	kent03	0099	matter	matter	np:s	np		s		
 english	kent03	0099	with	with	rn_adp	rn_adp				
 english	kent03	0099	you	2SG.OBL	rn_pro.2	rn_pro	2		4000	
 english	kent03	0099	boy	boy	np.h:voc	np	h	voc	4000	
@@ -2608,7 +2608,7 @@ english	kent03	0140	he	3SG.M	pro.h:s	pro	h	s	4128
 english	kent03	0140	went	go.PST	v:pred	v		pred		
 english	kent03	0140	up	up	rv	rv				
 english	kent03	0140	between	between	adp	adp				
-english	kent03	0140	='em	=3PL.OBL	=pro:l	=pro		l	4127	
+english	kent03	0140	='em	=3PL.OBL	=pro:g	=pro		g	4127	
 english	kent03	0140	#	#	##	##				
 english	kent03	0140	and	and	other	other				
 english	kent03	0140	0	0_George_Head	0.h:a	0	h	a	4128	
@@ -3139,7 +3139,7 @@ english	kent03	0168	#	#	##	##
 english	kent03	0168	and	and	other	other				
 english	kent03	0168	my	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	4000	
 english	kent03	0168	first	first	ln_adj	ln_adj				
-english	kent03	0168	wife	wife	np.h:s	np	h	s	4168	bridging
+english	kent03	0168	wife	wife	np.h:dt_s	np	h	dt_s	4168	bridging
 english	kent03	0168	she	3SG.F	pro.h:s	pro	h	s	4168	
 english	kent03	0168	got	get.PST	v:pred	v		pred		
 english	kent03	0168	pretty	pretty	other	other				
@@ -3388,7 +3388,7 @@ english	kent03	0181	a	a	ln_deti	ln_deti
 english	kent03	0181	human	human	ln_adj	ln_adj				
 english	kent03	0181	being	being	np.h:a	np	h	a	4179	new
 english	kent03	0181	can't	can.NEG	lv_aux	lv_aux				
-english	kent03	0181	0	0_thing	np:p	np		p	4178	
+english	kent03	0181	0	0_thing	0:p	0		p	4178	
 english	kent03	0182	#	#	##	##				
 english	kent03	0182	but	but	other	other				
 english	kent03	0182	anyhow	anyhow	other	other				

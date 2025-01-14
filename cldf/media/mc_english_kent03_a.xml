@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="kent03" annotators="Nils Schiborr" speaker="EN03">
-            <file f_name="mc_english_kent03_a" audio="mc_english_kent03_a.wav" updated="2019-09-12">
+            <file f_name="mc_english_kent03_a" audio="mc_english_kent03_a.wav" updated="2021-01-10">
                 <unit uid="0001" start_time="0" end_time="8982">
                     <utterance_id>english_kent03_0001</utterance_id>
                     <utterance>Well now, I'm about to relate to you the whole of my life story,</utterance>
@@ -28,7 +28,7 @@
                             <gloss>1SG</gloss>
                             <graid>pro.1:s</graid>
                             <refind>4000</refind>
-                            <isnref>bridging</isnref>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>='m</gword>
@@ -71,7 +71,7 @@
                             <gloss>2SG.OBL</gloss>
                             <graid>pro.2:g</graid>
                             <refind>4001</refind>
-                            <isnref>bridging</isnref>
+                            <isnref>unused</isnref>
                         </segment>
                         <segment>
                             <gword>the</gword>
@@ -271,14 +271,14 @@
                         <segment>
                             <gword>father</gword>
                             <gloss>father</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>np.h:dt_s</graid>
                             <refind>4007</refind>
                             <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>he</gword>
                             <gloss>3SG.M</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>pro.h:s</graid>
                             <refind>4007</refind>
                         </segment>
                         <segment>
@@ -1285,7 +1285,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_I</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>4000</refind>
                         </segment>
                         <segment>
@@ -2119,7 +2119,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_I</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>4000</refind>
                         </segment>
                         <segment>
@@ -6597,7 +6597,7 @@
                 <unit uid="0068" start_time="347115" end_time="350769">
                     <utterance_id>english_kent03_0068</utterance_id>
                     <utterance>That meant start tw--, by twelve o'clock again at night.</utterance>
-                    <utterance_translation>That meant start tw-, by twelve o'clock again at night.</utterance_translation>
+                    <utterance_translation>That meant start by twelve o'clock again at night.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -8625,7 +8625,7 @@
                         <segment>
                             <gword>them</gword>
                             <gloss>3PL.OBL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>pro.h:p2</graid>
                             <refind>4092</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -10049,8 +10049,8 @@
                 </unit>
                 <unit uid="0099" start_time="505833" end_time="508423">
                     <utterance_id>english_kent03_0099</utterance_id>
-                    <utterance>and he said, What's the matter with you boy?</utterance>
-                    <utterance_translation>and he said, What's the matter with you boy?</utterance_translation>
+                    <utterance>and he said, What's the matter with you, boy?</utterance>
+                    <utterance_translation>and he said, What's the matter with you, boy?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10081,7 +10081,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>intrg_other:s</graid>
+                            <graid>intrg_other:pred</graid>
                         </segment>
                         <segment>
                             <gword>='s</gword>
@@ -10096,7 +10096,7 @@
                         <segment>
                             <gword>matter</gword>
                             <gloss>matter</gloss>
-                            <graid>np:pred</graid>
+                            <graid>np:s</graid>
                         </segment>
                         <segment>
                             <gword>with</gword>
@@ -14779,7 +14779,7 @@
                         <segment>
                             <gword>='em</gword>
                             <gloss>=3PL.OBL</gloss>
-                            <graid>=pro:l</graid>
+                            <graid>=pro:g</graid>
                             <refind>4127</refind>
                         </segment>
                         <segment>
@@ -17783,7 +17783,7 @@
                         <segment>
                             <gword>wife</gword>
                             <gloss>wife</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>np.h:dt_s</graid>
                             <refind>4168</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -19190,7 +19190,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_thing</gloss>
-                            <graid>np:p</graid>
+                            <graid>0:p</graid>
                             <refind>4178</refind>
                         </segment>
                     </annotations>

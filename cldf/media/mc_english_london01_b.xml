@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="english">
         <text t_name="london01" annotators="Nils Schiborr" speaker="EN04">
-            <file f_name="mc_english_london01_b" audio="mc_english_london01_b.wav" updated="2019-08-30">
+            <file f_name="mc_english_london01_b" audio="mc_english_london01_b.wav" updated="2021-01-21">
                 <unit uid="0203" start_time="0" end_time="5640">
                     <utterance_id>english_london01_0203</utterance_id>
                     <utterance>And then there was ex--, a great big spurt and a bang in the water.</utterance>
@@ -18249,7 +18249,7 @@
                         </segment>
                         <segment>
                             <gword>yourself</gword>
-                            <gloss>yourself</gloss>
+                            <gloss>2SG.REFL</gloss>
                             <graid>gen_refl.2:other</graid>
                         </segment>
                         <segment>
@@ -25372,7 +25372,7 @@
                         <segment>
                             <gword>they</gword>
                             <gloss>3PL</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro:s</graid>
                         </segment>
                         <segment>
                             <gword>were</gword>

@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 english	kent01	0001	#	#	##	##				
 english	kent01	0001	yes	yes	other	other				
 english	kent01	0001	well	well	other	other				
-english	kent01	0001	my	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	2000	bridging
+english	kent01	0001	my	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	2000	unused
 english	kent01	0001	name	name	np:s	np		s		
 english	kent01	0001	='s	=be.PRS.3SG	=cop	=cop				
 english	kent01	0001	Alistair Crown	Alistair_Crown	pn_np:pred	pn_np		pred		
@@ -422,7 +422,7 @@ english	kent01	0021	lot	lot	ln_detq	ln_detq
 english	kent01	0021	of	of	ln	ln				
 english	kent01	0021	ferret	ferret	np:p	np		p	2042	new
 english	kent01	0022	#	#	#nc	#nc				
-english	kent01	0022	you	2SG	nc_pro.2	nc_pro	2		2001	bridging
+english	kent01	0022	you	2SG	nc_pro.2	nc_pro	2		2001	unused
 english	kent01	0022	know	know.INF	nc	nc				
 english	kent01	0022	#	#	#nc	#nc				
 english	kent01	0022	what	what	nc	nc				
@@ -1568,7 +1568,7 @@ english	kent01	0086	you	2SG	pro.2:s	pro	2	s	2000
 english	kent01	0086	think	think.PRS	v:pred	v		pred		
 english	kent01	0086	so	so	other	other				
 english	kent01	0086	#	#	##	##				
-english	kent01	0086	I	1SG	pro.h:s_ds	pro	h	s_ds	2000	
+english	kent01	0086	I	1SG	pro.1:s_ds	pro	1	s_ds	2000	
 english	kent01	0086	says	say.PRS.3SG	v:pred	v		pred		
 english	kent01	0086	#	#	##ds	##ds				
 english	kent01	0086	I	1SG	pro.1:a	pro	1	a	2000	
@@ -1775,7 +1775,7 @@ english	kent01	0094	0	0_we	0.1:a	0	1	a	2119
 english	kent01	0094	catch-ed	catch-PST	v:pred	v		pred		
 english	kent01	0094	him	3SG.M.OBL	pro:p	pro		p	2118	
 english	kent01	0095	#	#	##	##				
-english	kent01	0095	0	0_we	pro.1:s	pro	1	s	2119	
+english	kent01	0095	0	0_we	0.1:s	0	1	s	2119	
 english	kent01	0095	got	get.PST	v:pred	v		pred		
 english	kent01	0095	out	out	rv	rv				
 english	kent01	0095	#	#	##	##				
@@ -1973,7 +1973,7 @@ english	kent01	0107	horse	horse	np:l	np		l	2144	bridging
 english	kent01	0107	you	2SG	other	other				
 english	kent01	0107	know	know.PRS	other	other				
 english	kent01	0108	#	#	##neg	##neg				
-english	kent01	0108	0	0_they	pro.h:a	pro	h	a	2143	
+english	kent01	0108	0	0_they	0.h:a	0	h	a	2143	
 english	kent01	0108	did-n't	do.PST-NEG	lv_aux	lv_aux				
 english	kent01	0108	want	want.INF	v:pred	v		pred		
 english	kent01	0108	no	no	ln	ln				
@@ -2056,7 +2056,7 @@ english	kent01	0112	farmwork	farmwork	np:obl	np		obl
 english	kent01	0112	#	#	##	##				
 english	kent01	0112	and	and	other	other				
 english	kent01	0112	then	then	other	other				
-english	kent01	0112	0	0_we	pro.1:a	pro	1	a	2119	
+english	kent01	0112	0	0_we	0.1:a	0	1	a	2119	
 english	kent01	0112	sell	sell.INF	v:pred	v		pred		
 english	kent01	0112	them	3PL.OBL	pro:p	pro		p	2141	
 english	kent01	0112	to	to	adp	adp				
@@ -2819,7 +2819,7 @@ english	kent01	0179	#	#	#nc	#nc
 english	kent01	0179	and	and	nc	nc				
 english	kent01	0179	just	just	nc	nc				
 english	kent01	0179	like	like	nc	nc				
-english	kent01	0179	my	1SG.POSS	nc_pro.1:poss	nc_pro	1	poss	2000	
+english	kent01	0179	my	1SG.POSS	nc_pro.1	nc_pro	1		2000	
 english	kent01	0179	wife	wife	nc_np.h	nc_np	h		2188	bridging
 english	kent01	0179	don't	do.PRS.NEG	nc	nc				
 english	kent01	0179	let	let.INF	nc	nc				
