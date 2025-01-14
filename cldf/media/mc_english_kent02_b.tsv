@@ -4811,7 +4811,7 @@ english	kent02	0754	profit	profit	np:p	np		p
 english	kent02	0755	#	#	##	##				
 english	kent02	0755	and	and	other	other				
 english	kent02	0755	Father	Father	pn_np.h:dt_s	pn_np	h	dt_s	3027	
-english	kent02	0755	he	3SG.M	pro.h:s	pro	h	s		
+english	kent02	0755	he	3SG.M	pro.h:s	pro	h	s	3027	
 english	kent02	0755	used	used	lv_aux	lv_aux				
 english	kent02	0755	to	to	lv	lv				
 english	kent02	0755	go	go.INF	v:pred	v		pred		

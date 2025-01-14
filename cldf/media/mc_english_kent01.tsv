@@ -10,8 +10,8 @@ english	kent01	0002	#	#	##	##
 english	kent01	0002	I	1SG	nc	nc				
 english	kent01	0002	='m	=be.PRS.1SG	nc	nc				
 english	kent01	0002	I	1SG	pro.1:s	pro	1	s	2000	
-english	kent01	0002	was	be.PST.1SG	v:pred	v		pred		
-english	kent01	0002	born	born	rv	rv				
+english	kent01	0002	was	be.PST.1SG	lv_aux	lv_aux				
+english	kent01	0002	born	born	v:pred	v		pred		
 english	kent01	0002	at	at	adp	adp				
 english	kent01	0002	Selling Church	Selling_Church	pn_np:l	pn_np		l	2047	new
 english	kent01	0002	in	in	adp	adp				
@@ -22,6 +22,7 @@ english	kent01	0004	#	#	#nc	#nc
 english	kent01	0004	that	DIST.SG	nc	nc				
 english	kent01	0004	='s	=be.PRS.3SG	nc	nc				
 english	kent01	0004	right	right	nc	nc				
+english	kent01	0004	#	#	#nc	#nc				
 english	kent01	0004	you	2SG	nc_pro.2	nc_pro	2		2000	
 english	kent01	0004	='re	=be.PRS	nc	nc				
 english	kent01	0004	eighty-eight	eighty-eight	nc	nc				
