@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1505">
+<multicast version="1905">
     <corpus c_name="english">
         <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-            <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2016-06-29">
+            <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2019-05-08">
                 <unit uid="0001" start_time="0" end_time="2310">
                     <utterance_id>english_kent02_0001</utterance_id>
                     <utterance>[INT] Okay. We're on.</utterance>
@@ -685,9 +685,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>seem</gword>
@@ -775,9 +775,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>see</gword>
@@ -901,7 +901,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:s</graid>
+                            <graid>intrg_pro:s</graid>
                         </segment>
                         <segment>
                             <gword>='s</gword>
@@ -1281,7 +1281,7 @@
                         <segment>
                             <gword>how</gword>
                             <gloss>how</gloss>
-                            <graid>inter_pro:other</graid>
+                            <graid>intrg_pro:other</graid>
                         </segment>
                         <segment>
                             <gword>do</gword>
@@ -1538,9 +1538,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>mind</gword>
@@ -2389,9 +2389,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>live</gword>
@@ -2844,7 +2844,7 @@
                         <segment>
                             <gword>Sourstone</gword>
                             <gloss>Sourstone</gloss>
-                            <graid>rn_pn</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>really</gword>
@@ -2994,9 +2994,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>want</gword>
@@ -3858,7 +3858,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:pred</graid>
+                            <graid>intrg_pro:pred</graid>
                         </segment>
                         <segment>
                             <gword>that</gword>
@@ -3990,7 +3990,7 @@
                         <segment>
                             <gword>everything</gword>
                             <gloss>everything</gloss>
-                            <graid>indef_pro:s</graid>
+                            <graid>indef_other:s</graid>
                         </segment>
                         <segment>
                             <gword>was</gword>
@@ -4685,8 +4685,8 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
                             <graid>NA</graid>
                         </segment>
                         <segment>
@@ -4717,8 +4717,8 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
                             <graid>NA</graid>
                         </segment>
                         <segment>
@@ -4880,9 +4880,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>go</gword>
@@ -5106,9 +5106,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>got</gword>
@@ -5559,8 +5559,8 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
                             <graid>NA</graid>
                         </segment>
                         <segment>
@@ -5620,9 +5620,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>you</gword>
@@ -5726,7 +5726,7 @@
                         <segment>
                             <gword>Ned Coleman</gword>
                             <gloss>Ned.Coleman</gloss>
-                            <graid>rn_pn</graid>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -5761,7 +5761,7 @@
                         <segment>
                             <gword>war</gword>
                             <gloss>war</gloss>
-                            <graid>np:other:pred</graid>
+                            <graid>np:pred_other</graid>
                         </segment>
                         <segment>
                             <gword>now</gword>
@@ -6281,7 +6281,7 @@
                         <segment>
                             <gword>nothing</gword>
                             <gloss>nothing</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>out</gword>
@@ -8589,7 +8589,7 @@
                         <segment>
                             <gword>something</gword>
                             <gloss>something</gloss>
-                            <graid>indef_pro:pred</graid>
+                            <graid>indef_other:pred</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9808,9 +9808,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>trample</gword>
@@ -10142,7 +10142,7 @@
                         <segment>
                             <gword>miself</gword>
                             <gloss>miself</gloss>
-                            <graid>refl_pro.1:other</graid>
+                            <graid>refl.1:other</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -10585,9 +10585,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>get</gword>
@@ -11841,7 +11841,7 @@
                         <segment>
                             <gword>somebody</gword>
                             <gloss>somebody</gloss>
-                            <graid>indef_pro.h:a</graid>
+                            <graid>indef_other.h:a</graid>
                         </segment>
                         <segment>
                             <gword>owed</gword>
@@ -12008,7 +12008,7 @@
                         <segment>
                             <gword>miself</gword>
                             <gloss>miself</gloss>
-                            <graid>refl_pro.1:other</graid>
+                            <graid>refl.1:other</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -12985,7 +12985,7 @@
                         <segment>
                             <gword>May</gword>
                             <gloss>May</gloss>
-                            <graid>np:other:pred</graid>
+                            <graid>np:pred_other</graid>
                         </segment>
                         <segment>
                             <gword>always</gword>
@@ -13065,7 +13065,7 @@
                         <segment>
                             <gword>month</gword>
                             <gloss>month</gloss>
-                            <graid>np:other:pred</graid>
+                            <graid>np:pred_other</graid>
                         </segment>
                         <segment>
                             <gword>month</gword>
@@ -13229,7 +13229,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:s</graid>
+                            <graid>intrg_pro:s</graid>
                         </segment>
                         <segment>
                             <gword>whelks</gword>
@@ -14161,7 +14161,7 @@
                         <segment>
                             <gword>any</gword>
                             <gloss>any</gloss>
-                            <graid>indef_pro:s</graid>
+                            <graid>indef_other:s</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -14191,7 +14191,7 @@
                         <segment>
                             <gword>any</gword>
                             <gloss>any</gloss>
-                            <graid>indef_pro:s</graid>
+                            <graid>indef_other:s</graid>
                         </segment>
                         <segment>
                             <gword>left</gword>
@@ -14805,7 +14805,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>indef_pro:s</graid>
+                            <graid>indef_other:s</graid>
                         </segment>
                         <segment>
                             <gword>happened</gword>
@@ -15185,7 +15185,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:other</graid>
+                            <graid>intrg_pro:other</graid>
                         </segment>
                         <segment>
                             <gword>do</gword>
@@ -15262,9 +15262,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>tell</gword>
@@ -15969,7 +15969,7 @@
                         <segment>
                             <gword>anything</gword>
                             <gloss>anything</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>would</gword>
@@ -15977,9 +15977,9 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>you</gword>
@@ -16036,9 +16036,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>get</gword>
@@ -16325,9 +16325,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>sell</gword>
@@ -17385,7 +17385,7 @@
                         <segment>
                             <gword>something</gword>
                             <gloss>something</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>about</gword>
@@ -17508,7 +17508,7 @@
                         <segment>
                             <gword>everybody</gword>
                             <gloss>everybody</gloss>
-                            <graid>indef_pro.h:a</graid>
+                            <graid>indef_other.h:a</graid>
                         </segment>
                         <segment>
                             <gword>would</gword>
@@ -17623,9 +17623,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>do</gword>
@@ -17635,7 +17635,7 @@
                         <segment>
                             <gword>nothing</gword>
                             <gloss>nothing</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>with</gword>
@@ -17682,7 +17682,7 @@
                         <segment>
                             <gword>much</gword>
                             <gloss>much</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>about</gword>
@@ -17941,7 +17941,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:p</graid>
+                            <graid>intrg_pro:p</graid>
                         </segment>
                         <segment>
                             <gword>the</gword>
@@ -18406,7 +18406,7 @@
                         <segment>
                             <gword>nothing</gword>
                             <gloss>nothing</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -18755,7 +18755,7 @@
                         <segment>
                             <gword>everybody</gword>
                             <gloss>everybody</gloss>
-                            <graid>indef_pro.h:a</graid>
+                            <graid>indef_other.h:a</graid>
                         </segment>
                         <segment>
                             <gword>was</gword>
@@ -18877,9 +18877,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>trespass</gword>
@@ -19024,9 +19024,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>see</gword>
@@ -19460,7 +19460,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:pred</graid>
+                            <graid>intrg_pro:pred</graid>
                         </segment>
                         <segment>
                             <gword>would</gword>
@@ -19616,7 +19616,7 @@
                         <segment>
                             <gword>one</gword>
                             <gloss>one</gloss>
-                            <graid>indef_pro.h:pred</graid>
+                            <graid>indef_other.h:pred</graid>
                         </segment>
                         <segment>
                             <gword>of</gword>
@@ -19656,7 +19656,7 @@
                         <segment>
                             <gword>board</gword>
                             <gloss>board</gloss>
-                            <graid>xnp:p</graid>
+                            <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>at</gword>
@@ -19828,7 +19828,7 @@
                         <segment>
                             <gword>somebody</gword>
                             <gloss>somebody</gloss>
-                            <graid>indef_pro.h:a</graid>
+                            <graid>indef_other.h:a</graid>
                         </segment>
                         <segment>
                             <gword>pinched</gword>
@@ -20342,9 +20342,9 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>it</gword>
@@ -20567,9 +20567,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>let</gword>
@@ -21005,7 +21005,7 @@
                         <segment>
                             <gword>you</gword>
                             <gloss>you</gloss>
-                            <graid>pro.2:adp</graid>
+                            <graid>pro.2:obl</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -21112,9 +21112,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>want</gword>
@@ -21196,9 +21196,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>sell</gword>
@@ -22969,9 +22969,9 @@
                             <graid>cop</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -23806,9 +23806,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>ever</gword>
@@ -24944,7 +24944,7 @@
                         <segment>
                             <gword>ourselves</gword>
                             <gloss>ourselves</gloss>
-                            <graid>refl_pro.1:obl</graid>
+                            <graid>refl.1:obl</graid>
                         </segment>
                         <segment>
                             <gword>at</gword>
@@ -25090,9 +25090,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>afford</gword>
@@ -25378,9 +25378,9 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>I</gword>
@@ -25623,9 +25623,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>been</gword>
@@ -25844,7 +25844,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:s</graid>
+                            <graid>intrg_pro:s</graid>
                         </segment>
                         <segment>
                             <gword>='s</gword>
@@ -26055,7 +26055,7 @@
                         <segment>
                             <gword>much</gword>
                             <gloss>much</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -26488,9 +26488,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>know</gword>
@@ -26500,7 +26500,7 @@
                         <segment>
                             <gword>nothing</gword>
                             <gloss>nothing</gloss>
-                            <graid>indef_pro:p</graid>
+                            <graid>indef_other:p</graid>
                         </segment>
                         <segment>
                             <gword>about</gword>
@@ -26573,9 +26573,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>read</gword>
@@ -26608,9 +26608,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>know</gword>
@@ -27858,9 +27858,9 @@
                             <graid>other:predex</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>many</gword>
@@ -28069,7 +28069,7 @@
                         <segment>
                             <gword>somebody</gword>
                             <gloss>somebody</gloss>
-                            <graid>indef_pro.h:a</graid>
+                            <graid>indef_other.h:a</graid>
                         </segment>
                         <segment>
                             <gword>had</gword>
@@ -28386,9 +28386,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>dash</gword>
@@ -28553,9 +28553,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>send</gword>
@@ -29581,9 +29581,9 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>it</gword>
@@ -29601,9 +29601,9 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>it</gword>
@@ -29855,9 +29855,9 @@
                             <graid>other_tag</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>it</gword>
@@ -30186,7 +30186,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:s</graid>
+                            <graid>intrg_pro:s</graid>
                         </segment>
                         <segment>
                             <gword>='s</gword>
@@ -31615,7 +31615,7 @@
                         <segment>
                             <gword>what</gword>
                             <gloss>what</gloss>
-                            <graid>inter_pro:obl</graid>
+                            <graid>intrg_pro:obl</graid>
                         </segment>
                         <segment>
                             <gword>the</gword>
@@ -31962,7 +31962,7 @@
                         <segment>
                             <gword>myself</gword>
                             <gloss>myself</gloss>
-                            <graid>refl_pro.1:g</graid>
+                            <graid>refl.1:g</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -32135,9 +32135,9 @@
                             <graid>aux</graid>
                         </segment>
                         <segment>
-                            <gword>=n't</gword>
-                            <gloss>=NEG</gloss>
-                            <graid>=neg</graid>
+                            <gword>-n't</gword>
+                            <gloss>-NEG</gloss>
+                            <graid>-rv_neg</graid>
                         </segment>
                         <segment>
                             <gword>go</gword>

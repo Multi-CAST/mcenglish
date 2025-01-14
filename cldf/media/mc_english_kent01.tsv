@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 english	kent01	0001	#	#	##	##				
 english	kent01	0001	yes	yes	other_dp	other_dp				
 english	kent01	0001	well	well	other_dp	other_dp				
@@ -263,7 +263,7 @@ english	kent01	0015	#	#	##neg	##neg
 english	kent01	0015	well	well	other_dp	other_dp				
 english	kent01	0015	it	it	xpro:s	xpro		s		
 english	kent01	0015	would	would	aux	aux				
-english	kent01	0015	=n't	=NEG	=neg	=neg				
+english	kent01	0015	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0015	do	do	v:pred	v		pred		
 english	kent01	0015	#	#	#	#				
 english	kent01	0015	to	to	lv_to	lv_to				
@@ -289,7 +289,7 @@ english	kent01	0016	one	one	imp_pro:p	imp_pro		p
 english	kent01	0016	#	#	#rc.neg	#rc.neg				
 english	kent01	0016	that	that	rel_pro:s	rel_pro		s		
 english	kent01	0016	was	was	cop	cop				
-english	kent01	0016	=n't	=NEG	=neg	=neg				
+english	kent01	0016	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0016	genuine	genuine	other:pred	other		pred		
 english	kent01	0016	#	#	##	##				
 english	kent01	0016	he	he	pro.h:a	pro	h	a		
@@ -324,7 +324,7 @@ english	kent01	0017	#	#	#neg	#neg
 english	kent01	0017	so	so	other	other				
 english	kent01	0017	he	he	pro.h:a	pro	h	a		
 english	kent01	0017	did	did	aux	aux				
-english	kent01	0017	=n't	=NEG	=neg	=neg				
+english	kent01	0017	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0017	lose	lose	v:pred	v		pred		
 english	kent01	0017	too	too	ln	ln				
 english	kent01	0017	much	much	ln_det	ln_det				
@@ -372,13 +372,13 @@ english	kent01	0020	horses	horses	np:dt_s	np		dt_s
 english	kent01	0020	#	#	#rc.neg	#rc.neg				
 english	kent01	0020	that	that	rel_pro:s	rel_pro		s		
 english	kent01	0020	was	was	cop	cop				
-english	kent01	0020	=n't	=NEG	=neg	=neg				
+english	kent01	0020	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0020	genuine	genuine	other:pred	other		pred		
 english	kent01	0020	#	#	#rc.neg	#rc.neg				
 english	kent01	0020	what	what	rel_pro:a	rel_pro		a		
 english	kent01	0020	you	you	imp_pro.2:a	imp_pro	2	a		
 english	kent01	0020	could	could	aux	aux				
-english	kent01	0020	=n't	=NEG	=neg	=neg				
+english	kent01	0020	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0020	recommend	recommend	v:pred	v		pred		
 english	kent01	0020	%	%	%	%				
 english	kent01	0020	they	they	pro:s	pro		s		
@@ -413,7 +413,7 @@ english	kent01	0022	#	#	#	#
 english	kent01	0022	you	you	pro.2:a	pro	2	a		
 english	kent01	0022	know	know	v:pred	v		pred		
 english	kent01	0022	#	#	#cc:p	#cc		p		
-english	kent01	0022	what	what	inter_pro:pred	inter_pro		pred		
+english	kent01	0022	what	what	intrg_pro:pred	intrg_pro		pred		
 english	kent01	0022	a	a	ln_deti	ln_deti				
 english	kent01	0022	ferret	ferret	np:s	np		s		
 english	kent01	0022	is	is	cop	cop				
@@ -491,7 +491,7 @@ english	kent01	0025	#	#	#ac.neg	#ac.neg
 english	kent01	0025	if	if	other	other				
 english	kent01	0025	you	you	imp_pro.2:s	imp_pro	2	s		
 english	kent01	0025	wad	were	aux	aux				
-english	kent01	0025	=n't	=NEG	=neg	=neg				
+english	kent01	0025	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0025	careful	careful	other:pred	other		pred		
 english	kent01	0026	#	#	##	##				
 english	kent01	0026	so	so	other	other				
@@ -724,7 +724,7 @@ english	kent01	0035	#	#	##	##
 english	kent01	0035	he	he	pro.h:a	pro	h	a		
 english	kent01	0035	='d	=would	=waux	=waux				
 english	kent01	0035	take	take	v:pred	v		pred		
-english	kent01	0035	anything	anything	indef_pro:p	indef_pro		p		
+english	kent01	0035	anything	anything	indef_other:p	indef_other		p		
 english	kent01	0035	up	up	rn_adp	rn_adp				
 english	kent01	0035	to	to	rn_adp	rn_adp				
 english	kent01	0035	two	two	rn	rn				
@@ -825,7 +825,7 @@ english	kent01	0040	would	would	aux	aux
 english	kent01	0040	jump	jump	v:pred	v		pred		
 english	kent01	0040	out	out	rv_adp	rv_adp				
 english	kent01	0040	would	would	other_tag	other_tag				
-english	kent01	0040	=n't	=NEG	=neg	=neg				
+english	kent01	0040	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0040	it	it	other	other				
 english	kent01	0041	#	#	##	##				
 english	kent01	0041	so	so	other	other				
@@ -861,7 +861,7 @@ english	kent01	0042	#	#	#neg	#neg
 english	kent01	0042	so	so	other	other				
 english	kent01	0042	he	he	pro:s	pro		s		
 english	kent01	0042	could	could	aux	aux				
-english	kent01	0042	=n't	=NEG	=neg	=neg				
+english	kent01	0042	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0042	get	get	v:pred	v		pred		
 english	kent01	0042	out	out	rv_adp	rv_adp				
 english	kent01	0043	#	#	#	#				
@@ -899,7 +899,7 @@ english	kent01	0043	#	#	##	##
 english	kent01	0043	you	you	pro.2:a	pro	2	a		
 english	kent01	0043	know	know	v:pred	v		pred		
 english	kent01	0043	#	#	#cc:p	#cc		p		
-english	kent01	0043	where	where	inter_pro:pred	inter_pro		pred		
+english	kent01	0043	where	where	intrg_pro:pred	intrg_pro		pred		
 english	kent01	0043	that	that	dem_pro:s	dem_pro		s		
 english	kent01	0043	is	is	cop	cop				
 english	kent01	0044	#	#	#nc	#nc				
@@ -1027,7 +1027,7 @@ english	kent01	0049	#	#	##	##
 english	kent01	0049	he	he	pro.h:s_ds	pro	h	s_ds		
 english	kent01	0049	says	says	v:pred	v		pred		
 english	kent01	0049	#	#	#ds	#ds				
-english	kent01	0049	where	where	inter_pro:g	inter_pro		g		
+english	kent01	0049	where	where	intrg_pro:g	intrg_pro		g		
 english	kent01	0049	you	you	pro.2:a	pro	2	a		
 english	kent01	0049	gonna	gonna	aux	aux				
 english	kent01	0049	take	take	v:pred	v		pred		
@@ -1196,7 +1196,7 @@ english	kent01	0058	#	#	##	##
 english	kent01	0058	0	0_he	0.h:s_ds	0	h	s_ds		
 english	kent01	0058	says	says	v:pred	v		pred		
 english	kent01	0058	#	#	#ds	#ds				
-english	kent01	0058	where	where	inter_pro:pred_l	inter_pro		pred_l		
+english	kent01	0058	where	where	intrg_pro:pred_l	intrg_pro		pred_l		
 english	kent01	0058	are	are	cop	cop				
 english	kent01	0058	they	they	pro:s	pro		s		
 english	kent01	0059	#	#	##	##				
@@ -1216,7 +1216,7 @@ english	kent01	0061	he	he	pro.h:a	pro	h	a
 english	kent01	0061	='s	=is	=v:pred	=v		pred		
 english	kent01	0061	#	#	#ds.neg:p	#ds.neg		p		
 english	kent01	0061	did	did	aux	aux				
-english	kent01	0061	=n't	=NEG	=neg	=neg				
+english	kent01	0061	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0061	I	I	pro.1:a	pro	1	a		
 english	kent01	0061	tell	tell	v:pred	v		pred		
 english	kent01	0061	you	you	np:g	np		g		
@@ -1352,7 +1352,7 @@ english	kent01	0073	see	see	other_dp	other_dp
 english	kent01	0074	#	#	##neg	##neg				
 english	kent01	0074	father	father	np.h:a	np	h	a		
 english	kent01	0074	would	would	aux	aux				
-english	kent01	0074	=n't	=NEG	=neg	=neg				
+english	kent01	0074	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0074	help	help	v:pred	v		pred		
 english	kent01	0074	me	me	np:p	np		p		
 english	kent01	0074	you know	you	other_dp	other_dp				
@@ -1507,7 +1507,7 @@ english	kent01	0084	cart	cart	np:g	np		g
 english	kent01	0085	#	#	##neg	##neg				
 english	kent01	0085	0	0_we	0.1:s	0	1	s		
 english	kent01	0085	had	had	aux	aux				
-english	kent01	0085	=n't	=NEG	=neg	=neg				
+english	kent01	0085	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0085	got	got	v:pred	v		pred		
 english	kent01	0085	out	out	adp	adp				
 english	kent01	0085	the	the	ln_det	ln_det				
@@ -1607,7 +1607,7 @@ english	kent01	0091	#	#	##neg	##neg
 english	kent01	0091	and	and	other	other				
 english	kent01	0091	he	he	pro:s	pro		s		
 english	kent01	0091	would	would	aux	aux				
-english	kent01	0091	=n't	=NEG	=neg	=neg				
+english	kent01	0091	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0091	go	go	v:pred	v		pred		
 english	kent01	0091	no	no	other	other				
 english	kent01	0091	further	further	other	other				
@@ -1767,10 +1767,10 @@ english	kent01	0097	wherever	wherever	nc	nc
 english	kent01	0097	w-	NC	nc	nc				
 english	kent01	0097	we	we	pro.1:a	pro	1	a		
 english	kent01	0097	did	did	aux	aux				
-english	kent01	0097	=n't	=NEG	=neg	=neg				
+english	kent01	0097	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0097	know	know	v:pred	v		pred		
 english	kent01	0097	#	#	#cc:p	#cc		p		
-english	kent01	0097	who	who	inter_pro.h:a	inter_pro	h	a		
+english	kent01	0097	who	who	intrg_pro.h:a	intrg_pro	h	a		
 english	kent01	0097	broke	broke	v:pred	v		pred		
 english	kent01	0097	them	them	pro:p	pro		p		
 english	kent01	0097	#	#	##	##				
@@ -1821,14 +1821,14 @@ english	kent01	0098	was	was	cop	cop
 english	kent01	0098	landed	landed	other:pred	other		pred		
 english	kent01	0099	#	#	##neg	##neg				
 english	kent01	0099	wad	was	other:predex	other		predex		
-english	kent01	0099	=n't	=NEG	=neg	=neg				
+english	kent01	0099	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0099	no	no	ln_neg	ln_neg				
 english	kent01	0099	law	law	np:s	np		s		
 english	kent01	0100	#	#	##neg	##neg				
 english	kent01	0100	see	see	other_dp	other_dp				
 english	kent01	0100	you	you	imp_pro.2:a	imp_pro	2	a		
 english	kent01	0100	could	could	aux	aux				
-english	kent01	0100	=n't	=NEG	=neg	=neg				
+english	kent01	0100	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0100	take	take	v:pred	v		pred		
 english	kent01	0100	a	a	ln_deti	ln_deti				
 english	kent01	0100	man	man	np.h:p	np	h	p		
@@ -1931,7 +1931,7 @@ english	kent01	0107	know	know	other_dp	other_dp
 english	kent01	0108	#	#	##neg	##neg				
 english	kent01	0108	0	0_they	0.h:a	0	h	a		
 english	kent01	0108	did	did	aux	aux				
-english	kent01	0108	=n't	=NEG	=neg	=neg				
+english	kent01	0108	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0108	want	want	v:pred	v		pred		
 english	kent01	0108	no	no	ln_neg	ln_neg				
 english	kent01	0108	pulling	pulling	np:p	np		p		
@@ -2077,7 +2077,7 @@ english	kent01	0119	used	used	aux	aux
 english	kent01	0119	to	to	rv	rv				
 english	kent01	0119	say	say	v:pred	v		pred		
 english	kent01	0119	#	#	#ds	#ds				
-english	kent01	0119	where	where	inter_pro:l	inter_pro		l		
+english	kent01	0119	where	where	intrg_pro:l	intrg_pro		l		
 english	kent01	0119	you	you	pro.2:s	pro	2	s		
 english	kent01	0119	wanna	wanna	aux	aux				
 english	kent01	0119	go	go	v:pred	v		pred		
@@ -2101,7 +2101,8 @@ english	kent01	0121	that	that	dem_pro:p	dem_pro		p
 english	kent01	0121	%	%	%	%				
 english	kent01	0121	and	and	other	other				
 english	kent01	0121	perhaps	perhaps	other	other				
-english	kent01	0121	he='d	he=would	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0121	he	he	pro.h:a	pro	h	a		
+english	kent01	0121	='d	=would	=waux	=waux				
 english	kent01	0121	bring	bring	v:pred	v		pred		
 english	kent01	0121	about	about	ln_adp	ln_adp				
 english	kent01	0121	four	four	np:p	np		p		
@@ -2115,7 +2116,8 @@ english	kent01	0122	other	other	nc	nc
 english	kent01	0122	buyer	buyer	nc	nc				
 english	kent01	0122	#	#	##	##				
 english	kent01	0122	perhaps	perhaps	other	other				
-english	kent01	0122	we='d	we=would	pro.1:a=waux	pro	1	a=waux		
+english	kent01	0122	we	we	pro.1:a	pro	1	a		
+english	kent01	0122	='d	=would	=waux	=waux				
 english	kent01	0122	buy	buy	v:pred	v		pred		
 english	kent01	0122	two	two	np:p	np		p		
 english	kent01	0122	#	#	##	##				
@@ -2174,7 +2176,7 @@ english	kent01	0122	near	near	other	other
 english	kent01	0122	boozed	boozed	other:pred	other		pred		
 english	kent01	0123	yeah	yeah	other	other				
 english	kent01	0124	[INT]	[INT]	[INT]	[INT]				
-english	kent01	0124	could=n't	could=not	nc	nc				
+english	kent01	0124	couldn't	could.NEG	nc	nc				
 english	kent01	0124	they	they	nc	nc				
 english	kent01	0124	bring	bring	nc	nc				
 english	kent01	0124	them	them	nc	nc				
@@ -2185,7 +2187,7 @@ english	kent01	0125	no	no	nc	nc
 english	kent01	0126	#	#	##neg	##neg				
 english	kent01	0126	they	they	pro.h:a	pro	h	a		
 english	kent01	0126	could	could	aux	aux				
-english	kent01	0126	=n't	=NEG	=neg	=neg				
+english	kent01	0126	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0126	have	have	v:pred	v		pred		
 english	kent01	0126	them	them	pro:p	pro		p		
 english	kent01	0126	on	on	adp	adp				
@@ -2200,12 +2202,13 @@ english	kent01	0126	gypsy	gypsy	nc	nc
 english	kent01	0126	of	of	nc	nc				
 english	kent01	0126	the	the	nc	nc				
 english	kent01	0126	#	#	##	##				
-english	kent01	0126	what='s	what=is	inter_pro:s=cop	inter_pro		s=cop		
+english	kent01	0126	what	what	intrg_pro:s	intrg_pro		s		
+english	kent01	0126	='s		=cop	=cop				
 english	kent01	0126	the	the	ln_det	ln_det				
 english	kent01	0126	name	name	np:p	np		p		
 english	kent01	0126	donkey	donkey	nc	nc				
 english	kent01	0126	would	would	other_tag	other_tag				
-english	kent01	0126	=n't	=NEG	=neg	=neg				
+english	kent01	0126	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0126	it	it	other	other				
 english	kent01	0127	#	#	##	##				
 english	kent01	0127	I	I	pro.1:s_ds	pro	1	s_ds		
@@ -2219,7 +2222,7 @@ english	kent01	0127	the	the	ln_det	ln_det
 english	kent01	0127	gypsy='s	gypsy=POSS	ln_np.h:poss	ln_np	h	poss		
 english	kent01	0127	donkey	donkey	np:pred	np		pred		
 english	kent01	0127	would	would	other_tag	other_tag				
-english	kent01	0127	=n't	=NEG	=neg	=neg				
+english	kent01	0127	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0127	it	it	other	other				
 english	kent01	0128	[INT]	[INT]	[INT]	[INT]				
 english	kent01	0128	what='s	what=is	nc	nc				
@@ -2251,7 +2254,7 @@ english	kent01	0130	a	a	nc	nc
 english	kent01	0130	in	in	adp	adp				
 english	kent01	0130	a	a	ln_deti	ln_deti				
 english	kent01	0130	town	town	np:l	np		l		
-english	kent01	0130	somewhere	somewhere	indef_pro:l	indef_pro		l		
+english	kent01	0130	somewhere	somewhere	indef_other:l	indef_other		l		
 english	kent01	0130	#	#	#nc	#nc				
 english	kent01	0130	and	and	nc	nc				
 english	kent01	0130	it	it	nc	nc				
@@ -2329,7 +2332,8 @@ english	kent01	0133	I	I	pro.1:a	pro	1	a
 english	kent01	0133	bet	bet	v:pred	v		pred		
 english	kent01	0133	#	#	#cc:p	#cc		p		
 english	kent01	0133	old	old	ln	ln				
-english	kent01	0133	Jamie='s	Jamie=is	pn_np:a=waux	pn_np		a=waux		
+english	kent01	0133	Jamie	Jamie	pn_np:a	pn_np		a		
+english	kent01	0133	='s	=is	=waux	=waux				
 english	kent01	0133	legging	legging	v:pred	v		pred		
 english	kent01	0133	it	it	xpro:p	xpro		p		
 english	kent01	0133	now	now	other	other				
@@ -2344,7 +2348,8 @@ english	kent01	0134	in	in	rv_adp	rv_adp
 english	kent01	0135	yeah	yeah	other_dp	other_dp				
 english	kent01	0136	#	#	##	##				
 english	kent01	0136	oh	oh	nc	nc				
-english	kent01	0136	we='ve	we=have	pro.1:a=waux	pro	1	a=waux		
+english	kent01	0136	we	we	pro.1:a	pro	1	a		
+english	kent01	0136	='ve	=have	=waux	=waux				
 english	kent01	0136	had	had	v:pred	v		pred		
 english	kent01	0136	some	some	ln_deti	ln_deti				
 english	kent01	0136	fun	fun	np:p	np		p		
@@ -2367,14 +2372,16 @@ english	kent01	0140	#	#	#ac.neg	#ac.neg
 english	kent01	0140	if	if	other	other				
 english	kent01	0140	I	I	pro.1:s	pro	1	s		
 english	kent01	0140	did	did	aux	aux				
-english	kent01	0140	=n't	=NEG	=neg	=neg				
+english	kent01	0140	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0140	work	work	v:pred	v		pred		
 english	kent01	0140	so	so	other	other				
 english	kent01	0140	hard	hard	other	other				
 english	kent01	0140	#	#	##	##				
-english	kent01	0140	I='d	I=would	nc	nc				
+english	kent01	0140	I	I	nc	nc				
+english	kent01	0140	='d	=would	nc	nc				
 english	kent01	0140	enjoyed	enjoyed	nc	nc				
-english	kent01	0140	I='d	I=would	pro.1:a=waux	pro	1	a=waux		
+english	kent01	0140	I	I	pro.1:a	pro	1	a		
+english	kent01	0140	='d	=would	=waux	=waux				
 english	kent01	0140	enjoyed	enjoyed	v:pred	v		pred		
 english	kent01	0140	it	it	pro:p	pro		p		
 english	kent01	0140	#	#	#	#				
@@ -2407,7 +2414,7 @@ english	kent01	0142	business	business	np:p	np		p
 english	kent01	0142	#	#	#ac	#ac				
 english	kent01	0142	to	to	lv_to	lv_to				
 english	kent01	0142	do	do	vother:pred	vother		pred		
-english	kent01	0142	anything	anything	indef_pro:p	indef_pro		p		
+english	kent01	0142	anything	anything	indef_other:p	indef_other		p		
 english	kent01	0142	on	on	adp	adp				
 english	kent01	0142	the	the	ln_det	ln_det				
 english	kent01	0142	farm	farm	np:l	np		l		
@@ -2419,7 +2426,8 @@ english	kent01	0142	he	he	pro.h:s_ds	pro	h	s_ds
 english	kent01	0142	said	said	v:pred	v		pred		
 english	kent01	0142	#	#	#ds	#ds				
 english	kent01	0142	well	well	other_dp	other_dp				
-english	kent01	0142	you='ll	you=will	pro.2:a=waux	pro	2	a=waux		
+english	kent01	0142	you	you	pro.2:a	pro	2	a		
+english	kent01	0142	='ll	=will	=waux	=waux				
 english	kent01	0142	have	have	aux	aux				
 english	kent01	0142	to	to	lv_to	lv_to				
 english	kent01	0142	look	look	v:pred	v		pred		
@@ -2588,7 +2596,7 @@ english	kent01	0164	had	had	v:pred	v		pred
 english	kent01	0164	two	two	ln	ln				
 english	kent01	0164	places	places	np:p	np		p		
 english	kent01	0164	here	here	other:l	other		l		
-english	kent01	0165	#	#	##	##				
+english	kent01	0165	#	#	##neg	##neg				
 english	kent01	0165	and	and	other	other				
 english	kent01	0165	he	he	nc	nc				
 english	kent01	0165	the	the	ln_det	ln_det				
@@ -2598,16 +2606,16 @@ english	kent01	0165	we	we	pro.1:s	pro	1	s
 english	kent01	0165	come	come	v:pred	v		pred		
 english	kent01	0165	in	in	adp	adp				
 english	kent01	0165	first	first	other	other				
-english	kent01	0165	%	%	%neg	%neg				
+english	kent01	0165	%	%	%	%				
 english	kent01	0165	we	we	pro.1:s	pro	1	s		
 english	kent01	0165	did	did	aux	aux				
-english	kent01	0165	=n't	=NEG	=neg	=neg				
+english	kent01	0165	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0165	stop	stop	v:pred	v		pred		
 english	kent01	0165	long	long	other	other				
 english	kent01	0166	#	#	##neg	##neg				
 english	kent01	0166	0	0_it	0:s	0		s		
 english	kent01	0166	wad	was	cop	cop				
-english	kent01	0166	=n't	=NEG	=neg	=neg				
+english	kent01	0166	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0166	big	big	other:pred	other		pred		
 english	kent01	0166	#	#	##	##				
 english	kent01	0166	it	it	pro:s	pro		s		
@@ -2658,7 +2666,7 @@ english	kent01	0167	shepherd	shepherd	nc	nc
 english	kent01	0167	did	did	nc	nc				
 english	kent01	0167	he	he	nc	nc				
 english	kent01	0168	#	#	##	##				
-english	kent01	0168	where	where	inter_pro:l	inter_pro		l		
+english	kent01	0168	where	where	intrg_pro:l	intrg_pro		l		
 english	kent01	0168	did	did	aux	aux				
 english	kent01	0168	they	they	pro.h:a	pro	h	a		
 english	kent01	0168	get	get	v:pred	v		pred		
@@ -2683,7 +2691,7 @@ english	kent01	0172	#	#	##neg	##neg
 english	kent01	0172	and	and	other	other				
 english	kent01	0172	you	you	imp_pro.2:a	imp_pro	2	a		
 english	kent01	0172	did	did	aux	aux				
-english	kent01	0172	=n't	=NEG	=neg	=neg				
+english	kent01	0172	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0172	spend	spend	v:pred	v		pred		
 english	kent01	0172	threepence	threepence	np:p	np		p		
 english	kent01	0172	#	#	#ac	#ac				
@@ -2695,7 +2703,7 @@ english	kent01	0172	you	you	other_dp	other_dp
 english	kent01	0172	know	know	other_dp	other_dp				
 english	kent01	0173	#	#	##	##				
 english	kent01	0173	well	well	other_dp	other_dp				
-english	kent01	0173	what	what	inter_pro:p	inter_pro		p		
+english	kent01	0173	what	what	intrg_pro:p	intrg_pro		p		
 english	kent01	0173	='s	=does	=waux	=waux				
 english	kent01	0173	your	your	ln_pro.h:poss	ln_pro	h	poss		
 english	kent01	0173	farm	farm	np:a	np		a		
@@ -2726,7 +2734,7 @@ english	kent01	0178	#	#	#ds	#ds
 english	kent01	0178	the	the	ln_det	ln_det				
 english	kent01	0178	bank	bank	np:a	np		a		
 english	kent01	0178	or	or	rn	rn				
-english	kent01	0178	somebody	somebody	rn_indef_pro.h	rn_indef_pro	h			
+english	kent01	0178	somebody	somebody	rn_indef_other.h	rn_indef_other	h			
 english	kent01	0178	helped	helped	v:pred	v		pred		
 english	kent01	0178	mi	my	ln_pro.1:poss	ln_pro	1	poss		
 english	kent01	0178	dad	dad	np.h:p	np	h	p		
@@ -2747,7 +2755,8 @@ english	kent01	0179	was	was	cop	cop
 english	kent01	0179	very	very	other	other				
 english	kent01	0179	thrifty	thrifty	other:pred	other		pred		
 english	kent01	0180	#	#	##	##				
-english	kent01	0180	she='d	she=had	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0180	she	she	pro.h:a	pro	h	a		
+english	kent01	0180	='d	=had	=waux	=waux				
 english	kent01	0180	got	got	v:pred	v		pred		
 english	kent01	0180	quite	quite	ln	ln				
 english	kent01	0180	a	a	ln_deti	ln_deti				
@@ -2856,14 +2865,15 @@ english	kent01	0189	get	get	v:pred	v		pred
 english	kent01	0189	some	some	ln_deti	ln_deti				
 english	kent01	0189	beer	beer	np:p	np		p		
 english	kent01	0189	#	#	##	##				
-english	kent01	0189	nobody	nobody	indef_pro.h:a	indef_pro	h	a		
+english	kent01	0189	nobody	nobody	indef_other.h:a	indef_other	h	a		
 english	kent01	0189	said	said	v:pred	v		pred		
 english	kent01	0189	nothing	nothing	other:p	other		p		
 english	kent01	0189	about	about	adp	adp				
 english	kent01	0189	it	it	pro:obl	pro		obl		
 english	kent01	0190	#	#	##	##				
 english	kent01	0190	and	and	other	other				
-english	kent01	0190	we='d	we=would	pro.1:s=waux	pro	1	s=waux		
+english	kent01	0190	we	we	pro.1:s	pro	1	s		
+english	kent01	0190	='d	=would	=waux	=waux				
 english	kent01	0190	go	go	v:pred	v		pred		
 english	kent01	0190	on	on	adp	adp				
 english	kent01	0190	a	a	ln_deti	ln_deti				
@@ -2871,7 +2881,7 @@ english	kent01	0190	farm	farm	np:g	np		g
 english	kent01	0190	#	#	##	##				
 english	kent01	0190	and	and	other	other				
 english	kent01	0190	perhaps	perhaps	other	other				
-english	kent01	0190	somebody	somebody	indef_pro.h:s	indef_pro	h	s		
+english	kent01	0190	somebody	somebody	indef_other.h:s	indef_other	h	s		
 english	kent01	0190	s-	NC	nc	nc				
 english	kent01	0190	like	like	other	other				
 english	kent01	0190	the	the	ln_det	ln_det				
@@ -2892,7 +2902,8 @@ english	kent01	0190	for	for	adp	adp
 english	kent01	0190	sale	sale	np:obl	np		obl		
 english	kent01	0191	#	#	##	##				
 english	kent01	0191	my	my	ln_pro.1:poss	ln_pro	1	poss		
-english	kent01	0191	father='d	father=would	np.h:s=waux	np	h	s=waux		
+english	kent01	0191	father	father	np.h:s	np	h	s		
+english	kent01	0191	='d	=would	=waux	=waux				
 english	kent01	0191	slip	slip	v:pred	v		pred		
 english	kent01	0191	up	up	rv_adp	rv_adp				
 english	kent01	0191	#	#	#	#				
@@ -2966,13 +2977,14 @@ english	kent01	0198	good	good	other:pred	other		pred
 english	kent01	0199	#	#	##	##				
 english	kent01	0199	if	if	nc	nc				
 english	kent01	0199	he	he	nc	nc				
-english	kent01	0199	he='d	he=would	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0199	he	he	pro.h:a	pro	h	a		
+english	kent01	0199	='d	=would	=waux	=waux				
 english	kent01	0199	know	know	v:pred	v		pred		
 english	kent01	0199	#	#	#ac.neg:p	#ac.neg		p		
 english	kent01	0199	if	if	other	other				
 english	kent01	0199	it	it	pro:s	pro		s		
 english	kent01	0199	wad	was	aux	aux				
-english	kent01	0199	=n't	=NEG	=neg	=neg				
+english	kent01	0199	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0199	0	0_that	0:pred	0		pred		
 english	kent01	0199	too	too	other	other				
 english	kent01	0200	#	#	##	##				
@@ -2986,7 +2998,8 @@ english	kent01	0200	try	try	vother:pred	vother		pred
 english	kent01	0200	him	him	pro:p	pro		p		
 english	kent01	0201	#	#	##	##				
 english	kent01	0201	so	so	other	other				
-english	kent01	0201	they='d	they=would	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0201	they	they	pro.h:a	pro	h	a		
+english	kent01	0201	='d	=would	=waux	=waux				
 english	kent01	0201	put	put	v:pred	v		pred		
 english	kent01	0201	this	this	ln_dem	ln_dem				
 english	kent01	0201	pony	pony	np:p	np		p		
@@ -3009,7 +3022,8 @@ english	kent01	0201	road	road	np:l	np		l
 english	kent01	0202	#	#	##	##				
 english	kent01	0202	and	and	other	other				
 english	kent01	0202	my	my	ln_pro.1:poss	ln_pro	1	poss		
-english	kent01	0202	father='d	father=would	np.h:a=waux	np	h	a=waux		
+english	kent01	0202	father	father	np.h:a	np	h	a		
+english	kent01	0202	='d	=would	=waux	=waux				
 english	kent01	0202	have	have	v:pred	v		pred		
 english	kent01	0202	all	all	ln	ln				
 english	kent01	0202	manners	manners	np:p	np		p		
@@ -3046,13 +3060,13 @@ english	kent01	0203	if	if	other	other
 english	kent01	0203	the	the	ln_det	ln_det				
 english	kent01	0203	pony	pony	np:s	np		s		
 english	kent01	0203	did	did	aux	aux				
-english	kent01	0203	=n't	=NEG	=neg	=neg				
+english	kent01	0203	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0203	take	take	v:pred	v		pred		
-english	kent01	0203	notice	notice	xnp:lvc	xnp		lvc		
+english	kent01	0203	notice	notice	np:lvc	np		lvc		
 english	kent01	0203	#	#	##neg	##neg				
 english	kent01	0203	he	he	pro.h:s	pro	h	s		
 english	kent01	0203	wad	was	cop	cop				
-english	kent01	0203	=n't	=NEG	=neg	=neg				
+english	kent01	0203	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0203	a	a	ln_deti	ln_deti				
 english	kent01	0203	shyer	shyer	np:pred	np		pred		
 english	kent01	0204	see	see	other_dp	other_dp				
@@ -3071,7 +3085,8 @@ english	kent01	0205	his	his	ln_pro.h:poss	ln_pro	h	poss
 english	kent01	0205	house	house	np:other	np		other		
 english	kent01	0205	#	#	#ac	#ac				
 english	kent01	0205	where	where	other:l	other		l		
-english	kent01	0205	he='d	he=had	pro:s=waux	pro		s=waux		
+english	kent01	0205	he	he	pro:s	pro		s		
+english	kent01	0205	='d	=had	=waux	=waux				
 english	kent01	0205	stopped	stopped	v:pred	v		pred		
 english	kent01	0206	#	#	#ac	#ac				
 english	kent01	0206	now	now	other	other				
@@ -3083,7 +3098,8 @@ english	kent01	0206	out	out	rn_adp	rn_adp
 english	kent01	0206	of	of	rn	rn				
 english	kent01	0206	ten	ten	rn	rn				
 english	kent01	0206	if	if	other	other				
-english	kent01	0206	you='d	you=would	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0206	you	you	pro.h:a	pro	h	a		
+english	kent01	0206	='d	=would	=waux	=waux				
 english	kent01	0206	try	try	aux	aux				
 english	kent01	0206	to	to	lv_to	lv_to				
 english	kent01	0206	drive	drive	v:pred	v		pred		
@@ -3098,10 +3114,12 @@ english	kent01	0206	home	home	np:s	np		s
 english	kent01	0206	was	was	cop	cop				
 english	kent01	0206	#	#	#ac	#ac				
 english	kent01	0206	where	where	other:l	other		l		
-english	kent01	0206	they='d	they=had	pro:s=waux	pro		s=waux		
+english	kent01	0206	they	they	pro:s	pro		s		
+english	kent01	0206	='d	=had	=waux	=waux				
 english	kent01	0206	been	been	v:pred	v		pred		
 english	kent01	0206	#	#	##	##				
-english	kent01	0206	they='d	they=would	pro:s=waux	pro		s=waux		
+english	kent01	0206	they	they	pro:s	pro		s		
+english	kent01	0206	='d	=would	=waux	=waux				
 english	kent01	0206	pull	pull	v:pred	v		pred		
 english	kent01	0206	in	in	rv_adp	rv_adp				
 english	kent01	0206	you	you	other_dp	other_dp				
@@ -3160,7 +3178,7 @@ english	kent01	0209	#	#	#ac.neg	#ac.neg
 english	kent01	0209	if	if	other	other				
 english	kent01	0209	they	they	pro:s	pro		s		
 english	kent01	0209	did	did	aux	aux				
-english	kent01	0209	=n't	=NEG	=neg	=neg				
+english	kent01	0209	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0209	0	0_do	0:pred	0		pred		
 english	kent01	0209	#	#	#	#				
 english	kent01	0209	they='d	they=would	pro:a	pro		a		
@@ -3191,7 +3209,7 @@ english	kent01	0212	#	#	##	##
 english	kent01	0212	you	you	pro.2:a	pro	2	a		
 english	kent01	0212	know	know	v:pred	v		pred		
 english	kent01	0212	#	#	#	#				
-english	kent01	0212	what	what	inter_pro:pred	inter_pro		pred		
+english	kent01	0212	what	what	intrg_pro:pred	intrg_pro		pred		
 english	kent01	0212	that	that	dem_pro:s	dem_pro		s		
 english	kent01	0212	is	is	cop	cop				
 english	kent01	0213	#	#	#nc	#nc				
@@ -3251,7 +3269,7 @@ english	kent01	0216	#	#	#	#
 english	kent01	0216	0	0_I	0.1:a	0	1	a		
 english	kent01	0216	just	just	other	other				
 english	kent01	0216	dress	dress	v:pred	v		pred		
-english	kent01	0216	miself	miself	refl_pro.1:p	refl_pro	1	p		
+english	kent01	0216	miself	miself	refl.1:p	refl	1	p		
 english	kent01	0216	up	up	rv	rv				
 english	kent01	0216	#	#	#	#				
 english	kent01	0216	and	and	other	other				
@@ -3382,7 +3400,7 @@ english	kent01	0224	#	#	#ac.neg	#ac.neg
 english	kent01	0224	if	if	other	other				
 english	kent01	0224	it	it	xpro:s	xpro		s		
 english	kent01	0224	was	was	cop	cop				
-english	kent01	0224	=n't	=NEG	=neg	=neg				
+english	kent01	0224	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0224	only	only	other	other				
 english	kent01	0224	the	the	ln_det	ln_det				
 english	kent01	0224	half	half	np:pred	np		pred		
@@ -3403,7 +3421,7 @@ english	kent01	0226	#	#	##	##
 english	kent01	0226	you	you	pro.2:a	pro	2	a		
 english	kent01	0226	know	know	v:pred	v		pred		
 english	kent01	0226	#	#	#	#				
-english	kent01	0226	where	where	inter_pro:pred_l	inter_pro		pred_l		
+english	kent01	0226	where	where	intrg_pro:pred_l	intrg_pro		pred_l		
 english	kent01	0226	Molash Church	Molash.Church	pn_np:s	pn_np		s		
 english	kent01	0226	is	is	cop	cop				
 english	kent01	0227	[INT]	[INT]	[INT]	[INT]				
@@ -3445,7 +3463,7 @@ english	kent01	0230	parents	parents	nc	nc
 english	kent01	0230	#	#	##neg	##neg				
 english	kent01	0230	there	there	other	other				
 english	kent01	0230	wad	was	other:predex	other		predex		
-english	kent01	0230	=n't	=NEG	=neg	=neg				
+english	kent01	0230	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0230	the	the	ln_det	ln_det				
 english	kent01	0230	crime	crime	np:s	np		s		
 english	kent01	0230	#	#	#rc	#rc				
@@ -3459,7 +3477,8 @@ english	kent01	0231	like	like	nc	nc
 english	kent01	0232	#	#	##neg	##neg				
 english	kent01	0232	well	well	other_dp	other_dp				
 english	kent01	0232	there	there	other	other				
-english	kent01	0232	wad=n't	was=not	other:predex=neg	other		predex=neg		
+english	kent01	0232	wad	was	other:predex	other		predex		
+english	kent01	0232	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0232	the	the	ln_det	ln_det				
 english	kent01	0232	population	population	np:s	np		s		
 english	kent01	0232	was	was	other_tag	other_tag				
@@ -3532,7 +3551,7 @@ english	kent01	0239	#	#	#cc:p	#cc		p
 english	kent01	0239	it	it	pro:s	pro		s		
 english	kent01	0239	was	was	cop	cop				
 english	kent01	0239	in	in	adp	adp				
-english	kent01	0239	april	april	np:other:pred	np		other:pred		
+english	kent01	0239	april	april	np:pred_other	np		pred_other		
 english	kent01	0239	every	every	other	other				
 english	kent01	0239	year	year	other	other				
 english	kent01	0239	%	%	%	%				
@@ -3540,7 +3559,8 @@ english	kent01	0239	the	the	ln_det	ln_det
 english	kent01	0239	eh	eh	nc	nc				
 english	kent01	0239	yeomanry	yeomanry	np:p	np		p		
 english	kent01	0240	#	#	##	##				
-english	kent01	0240	you='ve	you=have	pro.2:s=waux	pro	2	s=waux		
+english	kent01	0240	you	you	pro.2:s	pro	2	s		
+english	kent01	0240	='ve	=have	=waux	=waux				
 english	kent01	0240	heard	heard	v:pred	v		pred		
 english	kent01	0240	of	of	adp	adp				
 english	kent01	0240	the	the	ln_det	ln_det				
@@ -3623,7 +3643,7 @@ english	kent01	0246	perhaps	perhaps	other	other
 english	kent01	0246	the	the	ln_det	ln_det				
 english	kent01	0246	horse	horse	np:s	np		s		
 english	kent01	0246	was	was	cop	cop				
-english	kent01	0246	=n't	=NEG	=neg	=neg				
+english	kent01	0246	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0246	much	much	other	other				
 english	kent01	0246	good	good	other:pred	other		pred		
 english	kent01	0246	#	#	#ac	#ac				
@@ -3657,7 +3677,7 @@ english	kent01	0247	there	there	nc	nc
 english	kent01	0247	some	some	ln_deti	ln_deti				
 english	kent01	0247	horses	horses	np:a	np		a		
 english	kent01	0247	did	did	aux	aux				
-english	kent01	0247	=n't	=NEG	=neg	=neg				
+english	kent01	0247	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0247	like	like	v:pred	v		pred		
 english	kent01	0247	people	people	np.h:p	np	h	p		
 english	kent01	0247	on	on	adp	adp				
@@ -3722,7 +3742,7 @@ english	kent01	0248	gallop	gallop	np:other	np		other
 english	kent01	0248	#	#	##neg	##neg				
 english	kent01	0248	and	and	other	other				
 english	kent01	0248	0	0_we	0.1:a	0	1	a		
-english	kent01	0248	did=n't	did=not	aux=neg	aux=neg				
+english	kent01	0248	didn't	did.NEG	aux_neg	aux_neg				
 english	kent01	0248	know	know	v:pred	v		pred		
 english	kent01	0248	#	#	#cc:p	#cc		p		
 english	kent01	0248	how	how	other	other				
@@ -3834,7 +3854,8 @@ english	kent01	0256	forget	forget	v:pred	v		pred
 english	kent01	0256	it	it	pro:p	pro		p		
 english	kent01	0256	#	#	##neg	##neg				
 english	kent01	0256	I	I	pro.1:s	pro	1	s		
-english	kent01	0256	was=n't	was=not	cop=neg	cop=neg				
+english	kent01	0256	was	was	cop	cop				
+english	kent01	0256	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0256	very	very	other	other				
 english	kent01	0256	old	old	other:pred	other		pred		
 english	kent01	0256	then	then	other	other				
@@ -3988,10 +4009,11 @@ english	kent01	0269	when	when	other	other
 english	kent01	0269	the	the	ln_det	ln_det				
 english	kent01	0269	'Fourteen War	'Fourteen.War	np:s	np		s		
 english	kent01	0269	come	come	v:pred	v		pred		
-english	kent01	0269	did=n't	did=not	other_tag	other_tag				
+english	kent01	0269	didn't	did.NEG	other_tag	other_tag				
 english	kent01	0269	it	it	other	other				
 english	kent01	0270	#	#	##	##				
-english	kent01	0270	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0270	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0270	='s	=is	=cop	=cop				
 english	kent01	0270	#	#	#ac:pred	#ac		pred		
 english	kent01	0270	when	when	other	other				
 english	kent01	0270	it	it	pro:s	pro		s		
@@ -4020,7 +4042,7 @@ english	kent01	0272	own	own	ln	ln
 english	kent01	0272	horses	horses	np:p	np		p		
 english	kent01	0272	#	#	#neg	#neg				
 english	kent01	0272	0	0_they	pro.h:a	pro	h	a		
-english	kent01	0272	did=n't	did=not	aux=neg	aux=neg				
+english	kent01	0272	didn't	did.NEG	aux_neg	aux_neg				
 english	kent01	0272	keep	keep	v:pred	v		pred		
 english	kent01	0272	the	the	ln_det	ln_det				
 english	kent01	0272	horse	horse	np:p	np		p		
@@ -4055,7 +4077,8 @@ english	kent01	0274	out	out	adp	adp
 english	kent01	0274	hunting	hunting	vother:other	vother		other		
 english	kent01	0274	#	#	##	##				
 english	kent01	0274	and	and	other	other				
-english	kent01	0274	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0274	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0274	='s	=is	=cop	=cop				
 english	kent01	0274	#	#	#cc:pred	#cc		pred		
 english	kent01	0274	what	what	other:a	other		a		
 english	kent01	0274	broke	broke	v:pred	v		pred		
@@ -4073,7 +4096,8 @@ english	kent01	0274	got	got	nc	nc
 english	kent01	0274	#	#	##	##				
 english	kent01	0274	he	he	nc	nc				
 english	kent01	0274	was	was	nc	nc				
-english	kent01	0274	he='s	he=is	pro.h:s=waux	pro	h	s=waux		
+english	kent01	0274	he	he	pro.h:s	pro	h	s		
+english	kent01	0274	='s	=is	=waux	=waux				
 english	kent01	0274	come	come	v:pred	v		pred		
 english	kent01	0274	down	down	adp	adp				
 english	kent01	0274	from	from	adp	adp				
@@ -4101,7 +4125,8 @@ english	kent01	0275	me	me	pro.1:g	pro	1	g
 english	kent01	0275	#	#	#cc:p	#cc		p		
 english	kent01	0275	that	that	other	other				
 english	kent01	0275	he	he	nc	nc				
-english	kent01	0275	he='d	he=had	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0275	he	he	pro.h:a	pro	h	a		
+english	kent01	0275	='d	=had	=waux	=waux				
 english	kent01	0275	got	got	v:pred	v		pred		
 english	kent01	0275	three thousand	three.thousand	ln	ln				
 english	kent01	0275	pound	pound	np:p	np		p		
@@ -4121,13 +4146,14 @@ english	kent01	0275	#	#	#ds.neg:p	#ds.neg		p
 english	kent01	0275	now	now	other	other				
 english	kent01	0275	Mr Crown	Mr.Crown	pn_np.h:voc	pn_np	h	voc		
 english	kent01	0275	I	I	pro.1:a	pro	1	a		
-english	kent01	0275	have=n't	have=not	aux=neg	aux=neg				
+english	kent01	0275	haven't	have.NEG	aux_neg	aux_neg				
 english	kent01	0275	got	got	vother:pred	vother		pred		
 english	kent01	0275	three thousand	three.thousand	ln	ln				
 english	kent01	0275	pence	pence	np:p	np		p		
 english	kent01	0276	#	#	##	##				
 english	kent01	0276	and	and	other	other				
-english	kent01	0276	I='ve	I=have	pro.1:s=waux	pro	1	s=waux		
+english	kent01	0276	I	I	pro.1:s	pro	1	s		
+english	kent01	0276	='ve	=have	=waux	=waux				
 english	kent01	0276	been	been	cop	cop				
 english	kent01	0276	here	here	other:pred_l	other		pred_l		
 english	kent01	0276	twenty-six	twenty-six	ln	ln				
@@ -4142,10 +4168,11 @@ english	kent01	0277	he	he	pro.1:s_ds	pro	1	s_ds
 english	kent01	0277	says	says	v:pred	v		pred		
 english	kent01	0277	#	#	#ds	#ds				
 english	kent01	0277	and	and	other	other				
-english	kent01	0277	I='ve	I=have	pro.1:a=waux	pro	1	a=waux		
+english	kent01	0277	I	I	pro.1:a	pro	1	a		
+english	kent01	0277	='ve	=have	=waux	=waux				
 english	kent01	0277	got	got	v:pred	v		pred		
 english	kent01	0277	#	#	#cc:p	#cc		p		
-english	kent01	0277	nowhere	nowhere	indef_pro:g	indef_pro		g		
+english	kent01	0277	nowhere	nowhere	indef_other:g	indef_other		g		
 english	kent01	0277	to	to	lv_to	lv_to				
 english	kent01	0277	go	go	vother:pred	vother		pred		
 english	kent01	0278	#	#	##	##				
@@ -4179,14 +4206,16 @@ english	kent01	0278	like	like	v:pred	v		pred
 english	kent01	0278	rent-free	rent-free	other	other				
 english	kent01	0279	#	#	##	##				
 english	kent01	0279	and	and	other	other				
-english	kent01	0279	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0279	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0279	='s	=is	=cop	=cop				
 english	kent01	0279	#	#	#cc:pred	#cc		pred		
 english	kent01	0279	where	where	other:g	other		g		
 english	kent01	0279	he	he	pro.h:s	pro	h	s		
 english	kent01	0279	went	went	v:pred	v		pred		
 english	kent01	0279	#	#	##	##				
 english	kent01	0279	and	and	other	other				
-english	kent01	0279	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0279	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0279	='s	=is	=cop	=cop				
 english	kent01	0279	#	#	#cc:pred	#cc		pred		
 english	kent01	0279	where	where	other:l	other		l		
 english	kent01	0279	he	he	pro.h:s	pro	h	s		
@@ -4345,7 +4374,8 @@ english	kent01	0293	he	he	pro.h:s	pro	h	s
 english	kent01	0293	was	was	cop	cop				
 english	kent01	0293	0	0_that	0:pred	0		pred		
 english	kent01	0293	#	#	#	#				
-english	kent01	0293	she='d	she=would	pro.h:s=waux	pro	h	s=waux		
+english	kent01	0293	she	she	pro.h:s	pro	h	s		
+english	kent01	0293	='d	=would	=waux	=waux				
 english	kent01	0293	work	work	vother:pred	vother		pred		
 english	kent01	0294	#	#	##	##				
 english	kent01	0294	but	but	other	other				
@@ -4367,7 +4397,7 @@ english	kent01	0294	%	%	%	%
 english	kent01	0294	he	he	pro.h:s	pro	h	s		
 english	kent01	0294	was	was	cop	cop				
 english	kent01	0294	#	#	#	#				
-english	kent01	0294	what	what	inter_pro:p	inter_pro		p		
+english	kent01	0294	what	what	intrg_pro:p	intrg_pro		p		
 english	kent01	0294	shall	shall	aux	aux				
 english	kent01	0294	I	I	pro.1:a	pro	1	a		
 english	kent01	0294	say	say	v:pred	v		pred		
@@ -4383,7 +4413,8 @@ english	kent01	0295	straight	straight	other	other
 english	kent01	0295	man	man	other	other				
 english	kent01	0295	#	#	##	##				
 english	kent01	0295	but	but	other	other				
-english	kent01	0295	he='d	he=had	pro.h:a=waux	pro	h	a=waux		
+english	kent01	0295	he	he	pro.h:a	pro	h	a		
+english	kent01	0295	='d	=had	=waux	=waux				
 english	kent01	0295	got	got	v:pred	v		pred		
 english	kent01	0295	no	no	ln_neg	ln_neg				
 english	kent01	0295	gumption	gumption	np:p	np		p		
@@ -4398,7 +4429,7 @@ english	kent01	0296	see	see	other_dp	other_dp
 english	kent01	0297	#	#	#nc	#nc				
 english	kent01	0297	he	he	nc	nc				
 english	kent01	0297	would	would	nc	nc				
-english	kent01	0297	=n't	=NEG	nc	nc				
+english	kent01	0297	-n't	-NEG	nc	nc				
 english	kent01	0297	#	#	#nc	#nc				
 english	kent01	0297	I='ve	I=have	nc	nc				
 english	kent01	0297	he	he	nc	nc				
@@ -4443,7 +4474,8 @@ english	kent01	0299	I	I	pro.1:s_ds	pro	1	s_ds
 english	kent01	0299	said	said	v:pred	v		pred		
 english	kent01	0299	#	#	#ds	#ds				
 english	kent01	0299	Mr Haggary	Mr.Haggary	pn_np.h:voc	pn_np	h	voc		
-english	kent01	0299	what='s	what=is	inter_pro:s=cop	inter_pro		s=cop		
+english	kent01	0299	what	what	intrg_pro:s	intrg_pro		s		
+english	kent01	0299	='s	=is	=cop	=cop				
 english	kent01	0299	that	that	ln_dem	ln_dem				
 english	kent01	0299	little	little	ln	ln				
 english	kent01	0299	box	box	np:pred	np		pred		
@@ -4454,7 +4486,8 @@ english	kent01	0300	#	#	#nc	#nc
 english	kent01	0300	he	he	nc	nc				
 english	kent01	0300	says	says	nc	nc				
 english	kent01	0300	#	#	##	##				
-english	kent01	0300	he='s	he=is	pro.h:s=cop	pro	h	s=cop		
+english	kent01	0300	he	he	pro.h:s	pro	h	s		
+english	kent01	0300	='s	=is	=cop	=cop				
 english	kent01	0300	Scotch	Scotch	other:pred	other		pred		
 english	kent01	0300	#	#	##	##				
 english	kent01	0300	he	he	pro.h:s_ds	pro	h	s_ds		
@@ -4501,7 +4534,8 @@ english	kent01	0302	chapter	chapter	np:p	np		p
 english	kent01	0303	ha	ha	other_dp	other_dp				
 english	kent01	0304	#	#	##	##				
 english	kent01	0304	now	now	other	other				
-english	kent01	0304	he='s	he=is	pro.h:s=cop	pro	h	s=cop		
+english	kent01	0304	he	he	pro.h:s	pro	h	s		
+english	kent01	0304	='s	=is	=cop	=cop				
 english	kent01	0304	the	the	ln_det	ln_det				
 english	kent01	0304	sort	sort	np:pred	np		pred		
 english	kent01	0304	of	of	rn	rn				
@@ -4513,7 +4547,7 @@ english	kent01	0304	rather	rather	nc	nc
 english	kent01	0304	#	#	##	##				
 english	kent01	0304	he	he	pro.h:a	pro	h	a		
 english	kent01	0304	would	would	aux	aux				
-english	kent01	0304	=n't	=NEG	=neg	=neg				
+english	kent01	0304	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0304	miss	miss	v:pred	v		pred		
 english	kent01	0304	#	#	#cc:p	#cc		p		
 english	kent01	0304	going	going	vother:pred	vother		pred		
@@ -4538,7 +4572,8 @@ english	kent01	0306	you	you	pro.2:a	pro	2	a
 english	kent01	0306	see	see	v:pred	v		pred		
 english	kent01	0306	#	#	#cc:p	#cc		p		
 english	kent01	0306	the	the	ln_det	ln_det				
-english	kent01	0306	cow='s	cow=is	np:s=cop	np		s=cop		
+english	kent01	0306	cow	cow	np:s	np		s		
+english	kent01	0306	='s	=is	=cop	=cop				
 english	kent01	0306	alright	alright	other:pred	other		pred		
 english	kent01	0306	#	#	#	#				
 english	kent01	0306	then	then	other	other				
@@ -4551,16 +4586,18 @@ english	kent01	0307	#	#	#ac.neg	#ac.neg
 english	kent01	0307	and	and	other	other				
 english	kent01	0307	if	if	other	other				
 english	kent01	0307	she	she	pro:s	pro		s		
-english	kent01	0307	wad=n't	was=not	cop=neg	cop=neg				
+english	kent01	0307	wad	was	cop	cop				
+english	kent01	0307	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0307	alright	alright	other:pred	other		pred		
 english	kent01	0307	#	#	##	##				
-english	kent01	0307	you='d	you=would	imp_pro.2:s=waux	imp_pro	2	s=waux		
+english	kent01	0307	you	you	imp_pro.2:s	imp_pro	2	s		
+english	kent01	0307	='d	=would	=waux	=waux				
 english	kent01	0307	go	go	aux	aux				
 english	kent01	0307	pray	pray	v:pred	v		pred		
 english	kent01	0307	for	for	adp	adp				
 english	kent01	0307	your	your	ln_pro.h:poss	ln_pro	h	poss		
 english	kent01	0307	sins	sins	np:obl	np		obl		
-english	kent01	0307	could=n't	could=not	other_tag	other_tag				
+english	kent01	0307	couldn't	could.NEG	other_tag	other_tag				
 english	kent01	0307	you	you	other	other				
 english	kent01	0308	#	#	##	##				
 english	kent01	0308	and	and	other	other				
@@ -4608,7 +4645,8 @@ english	kent01	0311	#	#	#ac	#ac
 english	kent01	0311	as	as	other	other				
 english	kent01	0311	soon	soon	other	other				
 english	kent01	0311	as	as	other	other				
-english	kent01	0311	I='d	I=had	pro.1:a=waux	pro	1	a=waux		
+english	kent01	0311	I	I	pro.1:a	pro	1	a		
+english	kent01	0311	='d	=had	=waux	=waux				
 english	kent01	0311	got	got	v:pred	v		pred		
 english	kent01	0311	it	it	pro:p	pro		p		
 english	kent01	0311	in	in	adp	adp				
@@ -4648,7 +4686,8 @@ english	kent01	0313	here	here	other:g	other		g
 english	kent01	0313	#	#	##	##				
 english	kent01	0313	and	and	other	other				
 english	kent01	0313	now	now	other	other				
-english	kent01	0313	we='re	we=are	pro.1:a=waux	pro	1	a=waux		
+english	kent01	0313	we	we	pro.1:a	pro	1	a		
+english	kent01	0313	='re	=are	=waux	=waux				
 english	kent01	0313	paying	paying	v:pred	v		pred		
 english	kent01	0313	over	over	ln_adp	ln_adp				
 english	kent01	0313	two thousand	two.thousand	np:p	np		p		
@@ -4656,14 +4695,16 @@ english	kent01	0313	a	a	rn_adp	rn_adp
 english	kent01	0313	year	year	rn	rn				
 english	kent01	0314	huh	huh	other_dp	other_dp				
 english	kent01	0315	#	#	##	##				
-english	kent01	0315	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0315	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0315	='s	=is	=cop	=cop				
 english	kent01	0315	hardly	hardly	other	other				
 english	kent01	0315	fair	fair	other:pred	other		pred		
 english	kent01	0315	you	you	other_dp	other_dp				
 english	kent01	0315	know	know	other_dp	other_dp				
 english	kent01	0315	#	#	#ac	#ac				
 english	kent01	0315	after	after	other	other				
-english	kent01	0315	you='d	you=had	imp_pro.2:a=waux	imp_pro	2	a=waux		
+english	kent01	0315	you	you	imp_pro.2:a	imp_pro	2	a		
+english	kent01	0315	='d	=had	=waux	=waux				
 english	kent01	0315	done	done	v:pred	v		pred		
 english	kent01	0315	all	all	ln	ln				
 english	kent01	0315	that	that	dem_pro:p	dem_pro		p		
@@ -4676,7 +4717,7 @@ english	kent01	0316	='em	=them	=wpro.h:g	=wpro	h	g
 english	kent01	0316	so	so	other:p	other		p		
 english	kent01	0317	#	#	##neg	##neg				
 english	kent01	0317	they	they	pro.h:a	pro	h	a		
-english	kent01	0317	ai=n't	have=not	aux=neg	aux=neg				
+english	kent01	0317	ain't	have.NEG	aux_neg	aux_neg				
 english	kent01	0317	kept	kept	v:pred	v		pred		
 english	kent01	0317	up	up	rv	rv				
 english	kent01	0317	their	their	ln_pro.h:poss	ln_pro	h	poss		
@@ -4724,12 +4765,12 @@ english	kent01	0320	but	but	other	other
 english	kent01	0320	theirs	theirs	pro.h:poss	pro	h	poss		
 english	kent01	0320	0	0_bond	0:s	0		s		
 english	kent01	0320	is	is	cop	cop				
-english	kent01	0320	=n't	=NEG	=neg	=neg				
+english	kent01	0320	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0320	0	0_that	0:pred	0		pred		
 english	kent01	0321	#	#	#ac	#ac				
 english	kent01	0321	if	if	other	other				
 english	kent01	0321	you	you	imp_pro.2:a	imp_pro	2	a		
-english	kent01	0321	ai=n't	have=not	aux=neg	aux=neg				
+english	kent01	0321	ain't	have.NEG	aux_neg	aux_neg				
 english	kent01	0321	got	got	v:pred	v		pred		
 english	kent01	0321	it	it	pro:p	pro		p		
 english	kent01	0321	in	in	adp	adp				
@@ -4739,7 +4780,7 @@ english	kent01	0321	they	they	pro.h:s	pro	h	s
 english	kent01	0321	don't	do.NEG	aux_neg	aux_neg				
 english	kent01	0321	take	take	v:pred	v		pred		
 english	kent01	0321	no	no	ln_neg	ln_neg				
-english	kent01	0321	notice	notice	xnp:lvc	xnp		lvc		
+english	kent01	0321	notice	notice	np:lvc	np		lvc		
 english	kent01	0322	[INT]	[INT]	[INT]	[INT]				
 english	kent01	0322	did	did	nc	nc				
 english	kent01	0322	it	it	nc	nc				
@@ -4766,11 +4807,11 @@ english	kent01	0323	dream	dream	v:pred	v		pred
 english	kent01	0323	about	about	adp	adp				
 english	kent01	0323	#	#	#cc:p	#cc		p		
 english	kent01	0323	signing	signing	vother:pred	vother		pred		
-english	kent01	0323	anything	anything	indef_pro:p	indef_pro		p		
+english	kent01	0323	anything	anything	indef_other:p	indef_other		p		
 english	kent01	0323	#	#	#cc:p	#cc		p		
 english	kent01	0323	or	or	other	other				
 english	kent01	0323	writing	writing	vother:pred	vother		pred		
-english	kent01	0323	anything	anything	indef_pro:p	indef_pro		p		
+english	kent01	0323	anything	anything	indef_other:p	indef_other		p		
 english	kent01	0323	or	or	other	other				
 english	kent01	0323	#	#	##neg	##neg				
 english	kent01	0323	five	five	nc	nc				
@@ -4781,20 +4822,20 @@ english	kent01	0323	six	six	rn	rn
 english	kent01	0323	of	of	rn	rn				
 english	kent01	0323	='em	=them	=rn_wpro.h	=rn_wpro	h			
 english	kent01	0323	could	could	aux	aux				
-english	kent01	0323	=n't	=NEG	=neg	=neg				
+english	kent01	0323	-n't	-NEG	-rv_neg	-rv_neg				
 english	kent01	0323	write	write	v:pred	v		pred		
 english	kent01	0324	#	#	##neg	##neg				
 english	kent01	0324	my	my	ln_pro.1:poss	ln_pro	1	poss		
 english	kent01	0324	father	father	np.h:dt_a	np	h	dt_a		
 english	kent01	0324	he	he	pro.h:a	pro	h	a		
-english	kent01	0324	could=n't	could=not	aux=neg	aux=neg				
+english	kent01	0324	couldn't	could.NEG	aux_neg	aux_neg				
 english	kent01	0324	read	read	v:pred	v		pred		
 english	kent01	0324	his	his	ln_pro.h:poss	ln_pro	h	poss		
 english	kent01	0324	own	own	ln	ln				
 english	kent01	0324	name	name	np:p	np		p		
 english	kent01	0324	#	#	##neg	##neg				
 english	kent01	0324	0	0_he	0.h:a	0	h	a		
-english	kent01	0324	could=n't	could=not	aux=neg	aux=neg				
+english	kent01	0324	couldn't	could.NEG	aux_neg	aux_neg				
 english	kent01	0324	write	write	vother:pred	vother		pred		
 english	kent01	0324	his	his	ln_pro.h:poss	ln_pro	h	poss		
 english	kent01	0324	own	own	ln	ln				
@@ -4844,7 +4885,7 @@ english	kent01	0326	a	a	ln_deti	ln_deti
 english	kent01	0326	penny	penny	np:p	np		p		
 english	kent01	0326	for	for	rv	rv				
 english	kent01	0326	#	#	##	##				
-english	kent01	0326	so='s	so=that	other=other	other=other				
+english	kent01	0326	so's	so.that	other	other				
 english	kent01	0326	I	I	pro.1:a	pro	1	a		
 english	kent01	0326	could	could	aux	aux				
 english	kent01	0326	read	read	v:pred	v		pred		
@@ -4897,7 +4938,8 @@ english	kent01	0331	yeah	yeah	other_dp	other_dp
 english	kent01	0332	[INT]	[INT]	[INT]	[INT]				
 english	kent01	0332	hhm	hhm	nc	nc				
 english	kent01	0333	#	#	##	##				
-english	kent01	0333	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0333	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0333	='s	=is	=cop	=cop				
 english	kent01	0333	#	#	#cc:p	#cc		p		
 english	kent01	0333	where	where	other:l	other		l		
 english	kent01	0333	I	I	pro.1:a	pro	1	a		
@@ -4920,7 +4962,8 @@ english	kent01	0333	a	a	ln_deti	ln_deti
 english	kent01	0333	Collin's notebook	Collin's.notebook	np:p	np		p		
 english	kent01	0334	#	#	##	##				
 english	kent01	0334	ooh	ooh	nc	nc				
-english	kent01	0334	that='s	that=is	dem_pro:s=cop	dem_pro		s=cop		
+english	kent01	0334	that	that	dem_pro:s	dem_pro		s		
+english	kent01	0334	='s	=is	=cop	=cop				
 english	kent01	0334	on	on	adp	adp				
 english	kent01	0334	here	here	other:pred_l	other		pred_l		
 english	kent01	0335	oh	oh	other_dp	other_dp				
