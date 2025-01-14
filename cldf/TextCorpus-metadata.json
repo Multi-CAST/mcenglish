@@ -1,0 +1,516 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:bibliographicCitation": "Schiborr, Nils N. 2015. Multi-CAST English. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1505. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#english) (date accessed)",
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
+    "dc:description": "The Multi-CAST **English** ([sout3282](https://glottolog.org/resource/languoid/id/sout3282)) corpus contains auto- biographical narratives taken from the *[Freiburg English Dialect Corpus](https://fred.ub.uni-freiburg.de/)* (FRED, [English Dialects Research Group 2005](Source#cldf:englishdialectsresearchgroup2005)), which has been compiled under the supervision of Bernd Kortmann and Lieselotte Anderwald at the University of Freiburg from texts recorded during the 1970s and 80s as part of various oral history projects.\n\nThe texts annotated for Multi-CAST were recorded with older working-class speakers from southern and southeastern England. They depict everyday scenes and personal experiences from the speakers' lives: recurring topics include agriculture, animal husbandry, shipwrighting, work in the London docks, and the two World Wars.\n\nA subset of the texts in this corpus (version 2207) have been time-aligned at the phone level for a [data set](https://doreco.huma-num.fr/languages/sout3282) in the [DoReCo project](https://doreco.huma-num.fr/).\n\nThe audio recordings (WAV, MP3) in this corpus are in the public domain.",
+    "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#english",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
+    "dc:title": "Multi-CAST English",
+    "dcat:accessURL": "https://github.com/Multi-CAST/mcenglish",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://github.com/Multi-CAST/mcenglish",
+            "rdf:type": "prov:Entity",
+            "dc:created": "c3d6362",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v5.1",
+            "dc:title": "Glottolog"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.12.3"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "mcenglish",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
+            "dc:description": "Annotated clauses of the texts in the collection.",
+            "dc:extent": 1237,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "dc:description": "The example text in the source language.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
+                        "required": true,
+                        "name": "Primary_Text"
+                    },
+                    {
+                        "dc:description": "A grammatical word in the object language (or #, marking clause boundaries or ZERO marking zero anaphora). \u201cWord\u201d here should be understood in terms of a GRAID annotation unit.",
+                        "dc:extent": "multivalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
+                        "required": false,
+                        "separator": "\t",
+                        "name": "Analyzed_Word"
+                    },
+                    {
+                        "dc:description": "The morphological glossing for the grammatical word, as per the Leipzig Glossing Rules. (or #, marking clause boundaries or ZERO marking zero anaphora).",
+                        "dc:extent": "multivalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
+                        "required": false,
+                        "separator": "\t",
+                        "name": "Gloss"
+                    },
+                    {
+                        "dc:description": "The translation of the example text in a meta language",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
+                        "required": false,
+                        "name": "Translated_Text"
+                    },
+                    {
+                        "dc:description": "References the language of the translated text",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
+                        "required": false,
+                        "name": "Meta_Language_ID"
+                    },
+                    {
+                        "dc:description": "The level of conformance of the example with the Leipzig Glossing Rules",
+                        "dc:extent": "singlevalued",
+                        "datatype": {
+                            "base": "string",
+                            "format": "WORD_ALIGNED|MORPHEME_ALIGNED"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#lgrConformance",
+                        "required": false,
+                        "name": "LGR_Conformance"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "separator": " ",
+                        "name": "Media_IDs"
+                    },
+                    {
+                        "datatype": "integer",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#position",
+                        "name": "Position"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Audio_Start"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Audio_End"
+                    },
+                    {
+                        "dc:description": "A morphosyntactic annotation unit with the GRAID scheme (Grammatical relations and animacy in discourse, Haig & Schnell 2014) or ## as clause boundary marker.",
+                        "dc:format": "GRAID 7.0",
+                        "separator": "\t",
+                        "name": "graid"
+                    },
+                    {
+                        "dc:description": "The object language text in another orthographical system; in Mandarin or Japanese, for instance, this tier contains the text in its original orthography (hanzi, or kanji and kana) while the utterance tier is a transliteration of the text (pinyin, or romaji).",
+                        "name": "add_orthography"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Text_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Meta_Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Text_ID"
+                        ],
+                        "reference": {
+                            "resource": "texts.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Media_IDs"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "utterances.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:description": "A collection of texts from one language, with shared provenance.",
+            "dc:extent": 2,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "dc:format": "text/markdown",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "separator": " and ",
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "dc:description": "Numeric text identifier, used as prefix of referent indices.",
+                        "datatype": "integer",
+                        "name": "Text_Number"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "separator": " ",
+                        "name": "Media_IDs"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Clause_Count"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Speaker"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "male|female"
+                        },
+                        "name": "Speaker_Gender"
+                    },
+                    {
+                        "dc:description": "The age of the speaker at the time of recording.",
+                        "datatype": "integer",
+                        "name": "Speaker_Age"
+                    },
+                    {
+                        "dc:description": "Whether the age of the speaker was approximated.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Speaker_Age_Approximated"
+                    },
+                    {
+                        "dc:description": "The speaker\u2019s year of birth",
+                        "datatype": "integer",
+                        "name": "Speaker_Year_Born"
+                    },
+                    {
+                        "dc:description": "Whether the year of birth of the speaker was approximated.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Speaker_Year_Born_Approximated"
+                    },
+                    {
+                        "dc:description": "TN = traditional narratives, AN = autobiographical narratives, SN = stimulus-based narratives.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "TN|SN|AN"
+                        },
+                        "name": "Type"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Year_Recorded"
+                    },
+                    {
+                        "datatype": "float",
+                        "name": "Recording_Length"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Media_IDs"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "texts.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 2,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "dc:description": "Genealogical affiliation of the language.",
+                        "name": "Affiliation"
+                    },
+                    {
+                        "dc:description": "Areas where the language is spoken.",
+                        "name": "Areas"
+                    },
+                    {
+                        "dc:description": "Varieties of the language recorded in this dataset.",
+                        "name": "Varieties"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:extent": 19,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "version"
+                    },
+                    {
+                        "dc:description": "File size in bytes",
+                        "datatype": "integer",
+                        "name": "Size"
+                    },
+                    {
+                        "dc:description": "Recording length in seconds for audio files.",
+                        "datatype": "float",
+                        "name": "Length"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
+                    },
+                    {
+                        "datatype": "date",
+                        "name": "Date_Updated"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Contribution_ID"
+                        ],
+                        "reference": {
+                            "resource": "texts.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "media.csv"
+        }
+    ]
+}
