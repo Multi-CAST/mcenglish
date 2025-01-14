@@ -1373,7 +1373,7 @@ english	kent02	0095	poultry	poultry	np:p	np		p	3085
 english	kent02	0095	%	%	%	%				
 english	kent02	0095	I	1SG	nc_pro.1	nc_pro	1		3000	
 english	kent02	0095	had	have.PST	nc	nc				
-english	kent02	0095	Father	Father	pn_pro.h:a	pn_pro	h	a	3027	
+english	kent02	0095	Father	Father	pn_np.h:a	pn_np	h	a	3027	
 english	kent02	0095	used	used	lv_aux	lv_aux				
 english	kent02	0095	to	to	lv	lv				
 english	kent02	0095	give	give.INF	v:pred	v		pred		

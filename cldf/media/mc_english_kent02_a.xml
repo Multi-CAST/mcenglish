@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="english">
   <text t_name="kent02" annotators="Nils Schiborr" speaker="EN01">
-   <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2022-07-25">
+   <file f_name="mc_english_kent02_a" audio="mc_english_kent02_a.wav" updated="2023-07-09">
     <unit uid="0001" start_time="0" end_time="2310">
      <utterance_id>english_kent02_0001</utterance_id>
      <utterance>[INTERVIEWER] Okay. We're on.</utterance>
@@ -7875,7 +7875,7 @@
     <unit uid="0095" start_time="412512" end_time="421833">
      <utterance_id>english_kent02_0095</utterance_id>
      <utterance>When I used to go round with chicken, buying poultry, I had -- Father used to give me about seven or eight sovereigns to go off with, see.</utterance>
-     <utterance_translation>When I used to go round with chicken, buying poultry, I had -- father used to give me about seven or eight sovereigns to go off with, see.</utterance_translation>
+     <utterance_translation>When I used to go round with chicken, buying poultry, I had -- Father used to give me about seven or eight sovereigns to go off with, see.</utterance_translation>
      <annotations>
       <segment>
        <gword>#</gword>
@@ -7971,7 +7971,7 @@
       <segment>
        <gword>Father</gword>
        <gloss>Father</gloss>
-       <graid>pn_pro.h:a</graid>
+       <graid>pn_np.h:a</graid>
        <refind>3027</refind>
       </segment>
       <segment>
