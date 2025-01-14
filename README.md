@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Schiborr, Nils N. 2019. Multi-CAST English. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#english) (date accessed)
+  > Schiborr, Nils N. 2019. Multi-CAST English. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#english) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)

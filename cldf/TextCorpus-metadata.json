@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Schiborr, Nils N. 2019. Multi-CAST English. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#english) (date accessed)",
+    "dc:bibliographicCitation": "Schiborr, Nils N. 2019. Multi-CAST English. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#english) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "The Multi-CAST **English** ([sout3282](https://glottolog.org/resource/languoid/id/sout3282)) corpus contains auto- biographical narratives taken from the *[Freiburg English Dialect Corpus](https://fred.ub.uni-freiburg.de/)* (FRED, [English Dialects Research Group 2005](Source#cldf:englishdialectsresearchgroup2005)), which has been compiled under the supervision of Bernd Kortmann and Lieselotte Anderwald at the University of Freiburg from texts recorded during the 1970s and 80s as part of various oral history projects.\n\nThe texts annotated for Multi-CAST were recorded with older working-class speakers from southern and southeastern England. They depict everyday scenes and personal experiences from the speakers' lives: recurring topics include agriculture, animal husbandry, shipwrighting, work in the London docks, and the two World Wars.\n\nA subset of the texts in this corpus (version 2207) have been time-aligned at the phone level for a [data set](https://doreco.huma-num.fr/languages/sout3282) in the [DoReCo project](https://doreco.huma-num.fr/).\n\nThe audio recordings (WAV, MP3) in this corpus are in the public domain.",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#english",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcenglish",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1505",
+            "dc:created": "v1905-5-gae14b31",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
             "dc:description": "Annotated clauses of the texts in the collection.",
-            "dc:extent": 1237,
+            "dc:extent": 2403,
             "tableSchema": {
                 "columns": [
                     {
@@ -152,6 +152,23 @@
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
                         "name": "Text_ID"
+                    },
+                    {
+                        "dc:description": "Referent identification with the RefIND scheme (Referent indexing in natural-language discourse, Schiborr et al. 2018). \u2205 is used to signal no referent information.",
+                        "dc:format": "RefIND",
+                        "separator": "\t",
+                        "name": "refind"
+                    },
+                    {
+                        "dc:description": "A duplicate refind column is provided, to enable checking referential integrity (via this list-valued foreign key) while still allowing uniform access to the annotation tiers in CLDF SQL. (While the refind column will be converted to a TEXT column in CLDF SQL, this column will be replaced by an association table.)",
+                        "separator": "\t",
+                        "name": "refindFK"
+                    },
+                    {
+                        "dc:description": "The information status of referents with the ISNRef scheme (Information status of new referents, Schiborr et al. 2018: 15), an adaptation of the RefLex scheme (Riester & Baumann 2017). \u2205 is used to signal no INNRef annotation.",
+                        "dc:format": "",
+                        "separator": "\t",
+                        "name": "isnref"
                     }
                 ],
                 "foreignKeys": [
@@ -198,6 +215,17 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "refindFK"
+                        ],
+                        "reference": {
+                            "resource": "referents.csv",
+                            "columnReference": [
+                                "refind"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -209,7 +237,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "A collection of texts from one language, with shared provenance.",
-            "dc:extent": 2,
+            "dc:extent": 5,
             "tableSchema": {
                 "columns": [
                     {
@@ -425,7 +453,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 19,
+            "dc:extent": 44,
             "tableSchema": {
                 "columns": [
                     {
@@ -511,6 +539,92 @@
                 ]
             },
             "url": "media.csv"
+        },
+        {
+            "dc:extent": 1929,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "refind"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "label"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "name": "description"
+                    },
+                    {
+                        "dc:description": "The semantic class of the referent; one of hum \u2018human\u2019, anm \u2018non-human animate\u2019,inm \u2018inanimate\u2019, bdp \u2018body part\u2019, mss \u2018mass\u2019, loc \u2018location\u2019, tme \u2018time\u2019, or abs \u2018abstract\u2019. Only a single label is assigned to a referent, even where a group contains entities belonging to multiple classes. In such cases humans outweigh other animates, animates outweigh inanimates, and inanimates outweigh everything else in no particular order.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "hum|anm|inm|bdp|mss|loc|tme|abs"
+                        },
+                        "name": "class"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "notes"
+                    }
+                ],
+                "primaryKey": [
+                    "refind"
+                ]
+            },
+            "url": "referents.csv"
+        },
+        {
+            "dc:extent": 519,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_Referent_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Target_Referent_ID"
+                    },
+                    {
+                        "dc:description": "The relations of a referent to other referents; including < \u2018set member of (partial\nco-reference)\u2019, > \u2018includes (split antecedence)\u2019, and M \u2018part-whole\u2019.",
+                        "name": "Relation"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Source_Referent_ID"
+                        ],
+                        "reference": {
+                            "resource": "referents.csv",
+                            "columnReference": [
+                                "refind"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Target_Referent_ID"
+                        ],
+                        "reference": {
+                            "resource": "referents.csv",
+                            "columnReference": [
+                                "refind"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "referent_relations.csv"
         }
     ]
 }
